@@ -1,0 +1,3 @@
+
+messagenew = "Welcome clasher to my first modification of Clash GameBot!\n\nby fredelec"
+messageold = "A new version of this Bot (v0.5) is available!\nPlease ask to fredelec"
