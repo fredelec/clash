@@ -1,0 +1,1425 @@
+2016-01-11 20:48:14 :  My Bot v5.0.2 860x780 (BlueStacks) Powered by MyBot.run ~
+2016-01-11 20:48:14 : MyBot.run.exe Executable running on WIN_7  X64
+2016-01-11 20:48:14 : =================== Bot Start ====================
+2016-01-11 20:48:14 : -------------------------  Current Profile: 01 --------------------------
+2016-01-11 20:48:14 : Trying to locate Main Screen
+2016-01-11 20:48:14 : Zooming Out
+2016-01-11 20:48:18 : Main Screen Located
+2016-01-11 20:48:19 : Detecting your Buildings..
+2016-01-11 20:48:20 : Finding your Clan Level, wait..
+2016-01-11 20:48:30 : Found Clan Level: 1
+2016-01-11 20:48:31 : Detecting your Village Theme
+2016-01-11 20:48:32 : Snow Theme detected
+2016-01-11 20:48:33 : Language setting is English: Correct.
+2016-01-11 20:48:34 : Trying to locate Main Screen
+2016-01-11 20:48:34 : Main Screen Located
+2016-01-11 20:48:36 : Village Report
+2016-01-11 20:48:36 : No. of Free/Total Builders: 1/4
+2016-01-11 20:48:36 :  [T]: 1 009
+2016-01-11 20:48:36 :  [G]: 868 483 [E]: 1 300 510 [D]: 8 814 [GEM]: 272
+2016-01-11 20:48:37 : Collecting Resources
+2016-01-11 20:48:49 : Training Troops & Spells
+2016-01-11 20:48:50 : Checking Army Camp...
+2016-01-11 20:48:51 : Total Army Camp capacity: 200/200 (100%)
+2016-01-11 20:48:57 :  - No. of Barbarians: 100
+2016-01-11 20:48:57 :  - No. of Archers: 100
+2016-01-11 20:48:57 :  - Barbarian King available
+2016-01-11 20:48:58 : Barracks and Spell factory status: 
+2016-01-11 20:48:58 : - Barracks detected: 4 | Available: 4 | Upgrading: 0
+2016-01-11 20:48:58 : - Dark Barracks detected: 1 | Available: 1 | Upgrading: 0
+2016-01-11 20:48:58 : - Spell factory detected: 1 | Available: 1 | Upgrading: 0
+2016-01-11 20:48:58 : - Dark Spell factory detected: 0 | Available: 0 | Upgrading: 0
+2016-01-11 20:48:59 : Your Army Camps are now Full
+2016-01-11 20:48:59 : Calculating Troops before Training new Army.
+2016-01-11 20:48:59 : Remove previous training troops and start to train
+2016-01-11 20:48:59 : Build troops before attacking.
+2016-01-11 20:49:23 : Requesting Clan Castle Troops
+2016-01-11 20:49:32 : Going to Attack...
+2016-01-11 20:49:38 : ============== Searching For Dead Base ===============
+2016-01-11 20:49:38 : ~~~~~~~~~~~~~~~ SEARCH CONDITIONS ~~~~~~~~~~~~~~~~
+2016-01-11 20:49:39 : Meet: Gold + Elixir
+2016-01-11 20:49:39 : ~~~~~~~~~~~~~~ RESOURCE CONDITIONS ~~~~~~~~~~~~~~~
+2016-01-11 20:49:39 : Aim: [G+E]: 140000 [D]:    0 [T]: 0 for: Dead Base
+2016-01-11 20:49:39 : ~~~~~~~~~~~~~~~ ADVANCED SETTINGS ~~~~~~~~~~~~~~~~
+2016-01-11 20:49:39 :  Attack TH Outside Bam
+2016-01-11 20:49:39 : ==================================================
+2016-01-11 20:49:40 :   1> [G]:  71009 [E]:  34229 [D]:  138 [T]:34
+2016-01-11 20:49:43 :   2> [G]:  43248 [E]:  31827 [D]:  N/A [T]:32
+2016-01-11 20:49:46 :   3> [G]:  81839 [E]:  48689 [D]:  N/A [T]:28
+2016-01-11 20:49:51 :   4> [G]:  80136 [E]:  62671 [D]:   86 [T]:32
+2016-01-11 20:49:51 :       Not a Dead Base
+2016-01-11 20:49:56 :   5> [G]:  24639 [E]: 158637 [D]:  N/A [T]:24
+2016-01-11 20:49:56 :       Not a Dead Base
+2016-01-11 20:50:01 :   6> [G]:  75486 [E]: 191344 [D]:    0 [T]:27
+2016-01-11 20:50:01 :       Not a Dead Base
+2016-01-11 20:50:06 :   7> [G]:  80939 [E]:  71203 [D]:    0 [T]:33
+2016-01-11 20:50:06 :       Not a Dead Base
+2016-01-11 20:50:09 :   8> [G]:  46668 [E]:  54905 [D]:  234 [T]:30
+2016-01-11 20:50:14 :   9> [G]: 103227 [E]:  79832 [D]:  939 [T]:26
+2016-01-11 20:50:14 :       Not a Dead Base
+2016-01-11 20:50:20 :  10> [G]: 134782 [E]:  92329 [D]:  N/A [T]:34
+2016-01-11 20:50:20 :       Dead Base Found! 
+2016-01-11 20:50:20 : ================ Search Complete =================
+2016-01-11 20:50:28 : 2nd attempt to detect the TownHall!
+2016-01-11 20:50:34 : 3rd attempt to detect the TownHall!
+2016-01-11 20:50:37 : Checking Townhall location: Could not locate TH, skipping attack TH...
+2016-01-11 20:50:37 : Initiating attack for: Dead Base
+2016-01-11 20:50:43 : -*-Barbarians 100
+2016-01-11 20:50:43 : -*-Archers 100
+2016-01-11 20:50:43 : -*-King 
+2016-01-11 20:50:43 : -*-Lightning Spells 1
+2016-01-11 20:50:43 : -*-Rage Spells 1
+2016-01-11 20:50:43 :  ====== Start Attack ====== 
+2016-01-11 20:50:45 : Calculating Smart Attack Strategy
+2016-01-11 20:50:47 : Calculated  (in 1.59 seconds) :
+2016-01-11 20:50:47 : Locating Mines, Collectors & Drills
+2016-01-11 20:50:59 : Located  (in 11.73 seconds) :
+2016-01-11 20:50:59 : [7] Gold Mines
+2016-01-11 20:50:59 : [3] Elixir Collectors
+2016-01-11 20:50:59 : [0] Dark Elixir Drill/s
+2016-01-11 20:50:59 : Attacking on three sides
+2016-01-11 20:51:01 : Dropping first wave of Barbarians 50
+2016-01-11 20:51:04 : Dropping first wave of Archers 50
+2016-01-11 20:51:08 : Dropping second wave of Barbarians 50
+2016-01-11 20:51:11 : Dropping second wave of Archers 50
+2016-01-11 20:51:15 : Dropping King
+2016-01-11 20:51:17 : Dropping left over troops
+2016-01-11 20:51:17 : Checking remaining unused troops for: Dead Base
+2016-01-11 20:51:22 : -*-Lightning Spells 1
+2016-01-11 20:51:22 : -*-Rage Spells 1
+2016-01-11 20:51:30 : Checking remaining unused troops for: Dead Base
+2016-01-11 20:51:34 : -*-Lightning Spells 1
+2016-01-11 20:51:34 : -*-Rage Spells 1
+2016-01-11 20:51:43 : Waiting 10 seconds before activating Hero abilities
+2016-01-11 20:51:53 : Activating King's power
+2016-01-11 20:51:53 : Finished Attacking, waiting for the battle to end
+2016-01-11 20:51:53 : Checking if the battle has finished
+2016-01-11 20:51:54 : detected [G]: 0 [E]: 0 [DE]:  |  Exit in 18 sec.
+2016-01-11 20:51:54 : Gold & Elixir & DE = 0, end battle 
+2016-01-11 20:51:55 : Gold & Elixir & DE = 0, end battle 
+2016-01-11 20:51:56 : Returning Home
+2016-01-11 20:52:10 : Loot: [G]: 134 782 [E]: 92 329 [T]: 34
+2016-01-11 20:52:10 : Bonus Percentage: 100%
+2016-01-11 20:52:10 : Bonus [G]: 3 700 [E]: 3 700
+2016-01-11 20:52:11 : Your league level is: Silver II
+2016-01-11 20:52:11 : Stars earned: 3
+2016-01-11 20:52:11 : Taking snapshot of your loot
+2016-01-11 20:52:20 : Trying to locate Main Screen
+2016-01-11 20:52:20 : Main Screen Located
+2016-01-11 20:52:21 : Village Report
+2016-01-11 20:52:21 : No. of Free/Total Builders: 1/4
+2016-01-11 20:52:22 :  [T]: 1 043
+2016-01-11 20:52:22 :  [G]: 1 003 165 [E]: 1 366 846 [D]: 8 815 [GEM]: 272
+2016-01-11 20:52:23 : Collecting Resources
+2016-01-11 20:52:35 : Training Troops & Spells
+2016-01-11 20:52:36 : Checking Army Camp...
+2016-01-11 20:52:37 : Total Army Camp capacity: 28/200 (14%)
+2016-01-11 20:52:39 :  - No. of Archers: 28
+2016-01-11 20:52:39 :  - Barbarian King available
+2016-01-11 20:52:51 : ====== Waiting for full army ======
+2016-01-11 20:53:03 : Training Troops & Spells
+2016-01-11 20:53:04 : Checking Army Camp...
+2016-01-11 20:53:05 : Total Army Camp capacity: 32/200 (16%)
+2016-01-11 20:53:07 :  - No. of Archers: 32
+2016-01-11 20:53:07 :  - Barbarian King available
+2016-01-11 20:53:16 : Time Idle: 00:00:24
+2016-01-11 20:53:16 : ====== Waiting for full army ======
+2016-01-11 20:53:28 : Training Troops & Spells
+2016-01-11 20:53:29 : Checking Army Camp...
+2016-01-11 20:53:30 : Total Army Camp capacity: 36/200 (18%)
+2016-01-11 20:53:31 :  - No. of Archers: 36
+2016-01-11 20:53:31 :  - Barbarian King available
+2016-01-11 20:53:41 : Time Idle: 00:00:49
+2016-01-11 20:53:41 : ====== Waiting for full army ======
+2016-01-11 20:53:53 : Training Troops & Spells
+2016-01-11 20:53:54 : Checking Army Camp...
+2016-01-11 20:53:55 : Total Army Camp capacity: 40/200 (20%)
+2016-01-11 20:53:57 :  - No. of Archers: 40
+2016-01-11 20:53:57 :  - Barbarian King available
+2016-01-11 20:54:06 : Time Idle: 00:01:14
+2016-01-11 20:54:06 : ====== Waiting for full army ======
+2016-01-11 20:54:18 : Training Troops & Spells
+2016-01-11 20:54:19 : Checking Army Camp...
+2016-01-11 20:54:20 : Total Army Camp capacity: 44/200 (22%)
+2016-01-11 20:54:22 :  - No. of Archers: 44
+2016-01-11 20:54:22 :  - Barbarian King available
+2016-01-11 20:54:31 : Time Idle: 00:01:38
+2016-01-11 20:54:31 : ====== Waiting for full army ======
+2016-01-11 20:54:43 : Training Troops & Spells
+2016-01-11 20:54:44 : Checking Army Camp...
+2016-01-11 20:54:45 : Total Army Camp capacity: 48/200 (24%)
+2016-01-11 20:54:47 :  - No. of Archers: 48
+2016-01-11 20:54:47 :  - Barbarian King available
+2016-01-11 20:54:56 : Time Idle: 00:02:03
+2016-01-11 20:54:56 : ====== Waiting for full army ======
+2016-01-11 20:55:08 : Training Troops & Spells
+2016-01-11 20:55:09 : Checking Army Camp...
+2016-01-11 20:55:10 : Total Army Camp capacity: 52/200 (26%)
+2016-01-11 20:55:12 :  - No. of Archers: 52
+2016-01-11 20:55:12 :  - Barbarian King available
+2016-01-11 20:55:21 : Time Idle: 00:02:28
+2016-01-11 20:55:21 : ====== Waiting for full army ======
+2016-01-11 20:55:33 : Training Troops & Spells
+2016-01-11 20:55:34 : Checking Army Camp...
+2016-01-11 20:55:35 : Total Army Camp capacity: 56/200 (28%)
+2016-01-11 20:55:37 :  - No. of Archers: 56
+2016-01-11 20:55:37 :  - Barbarian King available
+2016-01-11 20:55:46 : Time Idle: 00:02:52
+2016-01-11 20:55:46 : ====== Waiting for full army ======
+2016-01-11 20:55:58 : Training Troops & Spells
+2016-01-11 20:55:59 : Checking Army Camp...
+2016-01-11 20:56:00 : Total Army Camp capacity: 60/200 (30%)
+2016-01-11 20:56:02 :  - No. of Archers: 60
+2016-01-11 20:56:02 :  - Barbarian King available
+2016-01-11 20:56:11 : Time Idle: 00:03:17
+2016-01-11 20:56:11 : ====== Waiting for full army ======
+2016-01-11 20:56:24 : Training Troops & Spells
+2016-01-11 20:56:24 : Checking Army Camp...
+2016-01-11 20:56:26 : Total Army Camp capacity: 64/200 (32%)
+2016-01-11 20:56:27 :  - No. of Archers: 64
+2016-01-11 20:56:27 :  - Barbarian King available
+2016-01-11 20:56:37 : Time Idle: 00:03:42
+2016-01-11 20:56:37 : ====== Waiting for full army ======
+2016-01-11 20:56:49 : Training Troops & Spells
+2016-01-11 20:56:50 : Checking Army Camp...
+2016-01-11 20:56:51 : Total Army Camp capacity: 68/200 (34%)
+2016-01-11 20:56:52 :  - No. of Archers: 68
+2016-01-11 20:56:52 :  - Barbarian King available
+2016-01-11 20:57:02 : Time Idle: 00:04:07
+2016-01-11 20:57:02 : ====== Waiting for full army ======
+2016-01-11 20:57:14 : Training Troops & Spells
+2016-01-11 20:57:15 : Checking Army Camp...
+2016-01-11 20:57:16 : Total Army Camp capacity: 72/200 (36%)
+2016-01-11 20:57:17 :  - No. of Archers: 72
+2016-01-11 20:57:17 :  - Barbarian King available
+2016-01-11 20:57:27 : Time Idle: 00:04:32
+2016-01-11 20:57:27 : ====== Waiting for full army ======
+2016-01-11 20:57:39 : Collecting Resources
+2016-01-11 20:57:49 : Training Troops & Spells
+2016-01-11 20:57:50 : Checking Army Camp...
+2016-01-11 20:57:51 : Total Army Camp capacity: 79/200 (39%)
+2016-01-11 20:57:53 :  - No. of Archers: 79
+2016-01-11 20:57:53 :  - Barbarian King available
+2016-01-11 20:58:02 : Time Idle: 00:05:07
+2016-01-11 20:58:02 : ====== Waiting for full army ======
+2016-01-11 20:58:14 : Training Troops & Spells
+2016-01-11 20:58:15 : Checking Army Camp...
+2016-01-11 20:58:16 : Total Army Camp capacity: 83/200 (41%)
+2016-01-11 20:58:18 :  - No. of Archers: 83
+2016-01-11 20:58:18 :  - Barbarian King available
+2016-01-11 20:58:28 : Time Idle: 00:05:32
+2016-01-11 20:58:28 : ====== Waiting for full army ======
+2016-01-11 20:58:40 : Training Troops & Spells
+2016-01-11 20:58:41 : Checking Army Camp...
+2016-01-11 20:58:42 : Total Army Camp capacity: 87/200 (43%)
+2016-01-11 20:58:44 :  - No. of Archers: 88
+2016-01-11 20:58:44 :  - Barbarian King available
+2016-01-11 20:58:53 : Time Idle: 00:05:57
+2016-01-11 20:58:53 : ====== Waiting for full army ======
+2016-01-11 20:59:05 : Training Troops & Spells
+2016-01-11 20:59:06 : Checking Army Camp...
+2016-01-11 20:59:07 : Total Army Camp capacity: 91/200 (45%)
+2016-01-11 20:59:09 :  - No. of Archers: 92
+2016-01-11 20:59:09 :  - Barbarian King available
+2016-01-11 20:59:18 : Time Idle: 00:06:22
+2016-01-11 20:59:18 : ====== Waiting for full army ======
+2016-01-11 20:59:30 : Training Troops & Spells
+2016-01-11 20:59:31 : Checking Army Camp...
+2016-01-11 20:59:32 : Total Army Camp capacity: 95/200 (47%)
+2016-01-11 20:59:34 :  - No. of Archers: 96
+2016-01-11 20:59:34 :  - Barbarian King available
+2016-01-11 20:59:43 : Time Idle: 00:06:47
+2016-01-11 20:59:43 : ====== Waiting for full army ======
+2016-01-11 20:59:55 : Training Troops & Spells
+2016-01-11 20:59:56 : Checking Army Camp...
+2016-01-11 20:59:57 : Total Army Camp capacity: 99/200 (49%)
+2016-01-11 20:59:59 :  - No. of Archers: 100
+2016-01-11 20:59:59 :  - Barbarian King available
+2016-01-11 21:00:09 : Time Idle: 00:07:13
+2016-01-11 21:00:09 : ====== Waiting for full army ======
+2016-01-11 21:00:21 : Training Troops & Spells
+2016-01-11 21:00:22 : Checking Army Camp...
+2016-01-11 21:00:24 : Total Army Camp capacity: 104/200 (52%)
+2016-01-11 21:00:25 :  - No. of Barbarians: 4
+2016-01-11 21:00:25 :  - No. of Archers: 100
+2016-01-11 21:00:25 :  - Barbarian King available
+2016-01-11 21:00:35 : Time Idle: 00:07:39
+2016-01-11 21:00:36 : ====== Waiting for full army ======
+2016-01-11 21:00:48 : Training Troops & Spells
+2016-01-11 21:00:48 : Checking Army Camp...
+2016-01-11 21:00:50 : Total Army Camp capacity: 110/200 (55%)
+2016-01-11 21:00:51 :  - No. of Barbarians: 10
+2016-01-11 21:00:51 :  - No. of Archers: 100
+2016-01-11 21:00:51 :  - Barbarian King available
+2016-01-11 21:01:02 : Time Idle: 00:08:05
+2016-01-11 21:01:02 : ====== Waiting for full army ======
+2016-01-11 21:01:14 : Training Troops & Spells
+2016-01-11 21:01:15 : Checking Army Camp...
+2016-01-11 21:01:16 : Total Army Camp capacity: 115/200 (57%)
+2016-01-11 21:01:18 :  - No. of Barbarians: 15
+2016-01-11 21:01:18 :  - No. of Archers: 100
+2016-01-11 21:01:18 :  - Barbarian King available
+2016-01-11 21:01:29 : Time Idle: 00:08:32
+2016-01-11 21:01:29 : ====== Waiting for full army ======
+2016-01-11 21:01:41 : Training Troops & Spells
+2016-01-11 21:01:42 : Checking Army Camp...
+2016-01-11 21:01:43 : Total Army Camp capacity: 120/200 (60%)
+2016-01-11 21:01:44 :  - No. of Barbarians: 20
+2016-01-11 21:01:45 :  - No. of Archers: 100
+2016-01-11 21:01:45 :  - Barbarian King available
+2016-01-11 21:01:55 : Time Idle: 00:08:57
+2016-01-11 21:01:55 : ====== Waiting for full army ======
+2016-01-11 21:02:07 : Training Troops & Spells
+2016-01-11 21:02:08 : Checking Army Camp...
+2016-01-11 21:02:09 : Total Army Camp capacity: 124/200 (62%)
+2016-01-11 21:02:11 :  - No. of Barbarians: 24
+2016-01-11 21:02:11 :  - No. of Archers: 100
+2016-01-11 21:02:11 :  - Barbarian King available
+2016-01-11 21:02:21 : Time Idle: 00:09:23
+2016-01-11 21:02:21 : ====== Waiting for full army ======
+2016-01-11 21:02:33 : Collecting Resources
+2016-01-11 21:02:43 : Training Troops & Spells
+2016-01-11 21:02:44 : Checking Army Camp...
+2016-01-11 21:02:45 : Total Army Camp capacity: 132/200 (66%)
+2016-01-11 21:02:46 :  - No. of Barbarians: 32
+2016-01-11 21:02:47 :  - No. of Archers: 100
+2016-01-11 21:02:47 :  - Barbarian King available
+2016-01-11 21:02:57 : Time Idle: 00:09:59
+2016-01-11 21:02:57 : ====== Waiting for full army ======
+2016-01-11 21:03:09 : Training Troops & Spells
+2016-01-11 21:03:10 : Checking Army Camp...
+2016-01-11 21:03:11 : Total Army Camp capacity: 138/200 (69%)
+2016-01-11 21:03:13 :  - No. of Barbarians: 39
+2016-01-11 21:03:13 :  - No. of Archers: 100
+2016-01-11 21:03:13 :  - Barbarian King available
+2016-01-11 21:03:23 : Time Idle: 00:10:25
+2016-01-11 21:03:24 : ====== Waiting for full army ======
+2016-01-11 21:03:36 : Training Troops & Spells
+2016-01-11 21:03:36 : Checking Army Camp...
+2016-01-11 21:03:38 : Total Army Camp capacity: 143/200 (71%)
+2016-01-11 21:03:39 :  - No. of Barbarians: 44
+2016-01-11 21:03:39 :  - No. of Archers: 100
+2016-01-11 21:03:39 :  - Barbarian King available
+2016-01-11 21:03:49 : Time Idle: 00:10:51
+2016-01-11 21:03:50 : ====== Waiting for full army ======
+2016-01-11 21:04:02 : Training Troops & Spells
+2016-01-11 21:04:02 : Checking Army Camp...
+2016-01-11 21:04:04 : Total Army Camp capacity: 148/200 (74%)
+2016-01-11 21:04:05 :  - No. of Barbarians: 48
+2016-01-11 21:04:05 :  - No. of Archers: 100
+2016-01-11 21:04:05 :  - Barbarian King available
+2016-01-11 21:04:16 : Time Idle: 00:11:17
+2016-01-11 21:04:16 : ====== Waiting for full army ======
+2016-01-11 21:04:28 : Training Troops & Spells
+2016-01-11 21:04:29 : Checking Army Camp...
+2016-01-11 21:04:30 : Total Army Camp capacity: 154/200 (77%)
+2016-01-11 21:04:32 :  - No. of Barbarians: 54
+2016-01-11 21:04:32 :  - No. of Archers: 100
+2016-01-11 21:04:32 :  - Barbarian King available
+2016-01-11 21:04:42 : Time Idle: 00:11:43
+2016-01-11 21:04:43 : ====== Waiting for full army ======
+2016-01-11 21:04:55 : Training Troops & Spells
+2016-01-11 21:04:55 : Checking Army Camp...
+2016-01-11 21:04:57 : Total Army Camp capacity: 159/200 (79%)
+2016-01-11 21:04:58 :  - No. of Barbarians: 59
+2016-01-11 21:04:58 :  - No. of Archers: 100
+2016-01-11 21:04:58 :  - Barbarian King available
+2016-01-11 21:05:09 : Time Idle: 00:12:10
+2016-01-11 21:05:09 : ====== Waiting for full army ======
+2016-01-11 21:05:21 : Training Troops & Spells
+2016-01-11 21:05:22 : Checking Army Camp...
+2016-01-11 21:05:23 : Total Army Camp capacity: 164/200 (82%)
+2016-01-11 21:05:25 :  - No. of Barbarians: 64
+2016-01-11 21:05:25 :  - No. of Archers: 100
+2016-01-11 21:05:25 :  - Barbarian King available
+2016-01-11 21:05:36 : Time Idle: 00:12:36
+2016-01-11 21:05:36 : ====== Waiting for full army ======
+2016-01-11 21:05:48 : Training Troops & Spells
+2016-01-11 21:05:49 : Checking Army Camp...
+2016-01-11 21:05:50 : Total Army Camp capacity: 168/200 (84%)
+2016-01-11 21:05:51 :  - No. of Barbarians: 70
+2016-01-11 21:05:52 :  - No. of Archers: 100
+2016-01-11 21:05:52 :  - Barbarian King available
+2016-01-11 21:06:02 : Time Idle: 00:13:02
+2016-01-11 21:06:02 : ====== Waiting for full army ======
+2016-01-11 21:06:14 : Training Troops & Spells
+2016-01-11 21:06:15 : Checking Army Camp...
+2016-01-11 21:06:16 : Total Army Camp capacity: 175/200 (87%)
+2016-01-11 21:06:18 :  - No. of Barbarians: 75
+2016-01-11 21:06:18 :  - No. of Archers: 100
+2016-01-11 21:06:18 :  - Barbarian King available
+2016-01-11 21:06:29 : Time Idle: 00:13:29
+2016-01-11 21:06:29 : ====== Waiting for full army ======
+2016-01-11 21:06:41 : Training Troops & Spells
+2016-01-11 21:06:42 : Checking Army Camp...
+2016-01-11 21:06:43 : Total Army Camp capacity: 180/200 (90%)
+2016-01-11 21:06:44 :  - No. of Barbarians: 80
+2016-01-11 21:06:44 :  - No. of Archers: 100
+2016-01-11 21:06:44 :  - Barbarian King available
+2016-01-11 21:06:55 : Time Idle: 00:13:55
+2016-01-11 21:06:55 : ====== Waiting for full army ======
+2016-01-11 21:07:07 : Training Troops & Spells
+2016-01-11 21:07:08 : Checking Army Camp...
+2016-01-11 21:07:09 : Total Army Camp capacity: 184/200 (92%)
+2016-01-11 21:07:11 :  - No. of Barbarians: 84
+2016-01-11 21:07:11 :  - No. of Archers: 100
+2016-01-11 21:07:11 :  - Barbarian King available
+2016-01-11 21:07:22 : Time Idle: 00:14:21
+2016-01-11 21:07:22 : ====== Waiting for full army ======
+2016-01-11 21:07:34 : Collecting Resources
+2016-01-11 21:07:43 : Training Troops & Spells
+2016-01-11 21:07:44 : Checking Army Camp...
+2016-01-11 21:07:45 : Total Army Camp capacity: 192/200 (96%)
+2016-01-11 21:07:47 :  - No. of Barbarians: 92
+2016-01-11 21:07:47 :  - No. of Archers: 100
+2016-01-11 21:07:47 :  - Barbarian King available
+2016-01-11 21:07:57 : Time Idle: 00:14:56
+2016-01-11 21:07:57 : ====== Waiting for full army ======
+2016-01-11 21:08:09 : Training Troops & Spells
+2016-01-11 21:08:10 : Checking Army Camp...
+2016-01-11 21:08:11 : Total Army Camp capacity: 198/200 (99%)
+2016-01-11 21:08:13 :  - No. of Barbarians: 98
+2016-01-11 21:08:13 :  - No. of Archers: 100
+2016-01-11 21:08:13 :  - Barbarian King available
+2016-01-11 21:08:35 : Time Idle: 00:15:34
+2016-01-11 21:08:35 : ====== Waiting for full army ======
+2016-01-11 21:08:47 : Training Troops & Spells
+2016-01-11 21:08:47 : Checking Army Camp...
+2016-01-11 21:08:49 : Total Army Camp capacity: 200/200 (100%)
+2016-01-11 21:08:50 :  - No. of Barbarians: 100
+2016-01-11 21:08:50 :  - No. of Archers: 100
+2016-01-11 21:08:50 :  - Barbarian King available
+2016-01-11 21:08:52 : Your Army Camps are now Full
+2016-01-11 21:08:52 : Calculating Troops before Training new Army.
+2016-01-11 21:08:52 : Build troops before attacking.
+2016-01-11 21:09:17 : Going to Attack...
+2016-01-11 21:09:23 : ============== Searching For Dead Base ===============
+2016-01-11 21:09:23 : ~~~~~~~~~~~~~~~ SEARCH CONDITIONS ~~~~~~~~~~~~~~~~
+2016-01-11 21:09:23 : Meet: Gold + Elixir
+2016-01-11 21:09:23 : ~~~~~~~~~~~~~~ RESOURCE CONDITIONS ~~~~~~~~~~~~~~~
+2016-01-11 21:09:23 : Aim: [G+E]: 140000 [D]:    0 [T]: 0 for: Dead Base
+2016-01-11 21:09:23 : ~~~~~~~~~~~~~~~ ADVANCED SETTINGS ~~~~~~~~~~~~~~~~
+2016-01-11 21:09:23 :  Attack TH Outside Bam
+2016-01-11 21:09:23 : ==================================================
+2016-01-11 21:09:26 :   1> [G]:  53157 [E]: 102782 [D]:  261 [T]:19
+2016-01-11 21:09:26 :       Not a Dead Base
+2016-01-11 21:09:29 :   2> [G]:  86412 [E]:  43968 [D]:  497 [T]:32
+2016-01-11 21:09:33 :   3> [G]:  67005 [E]:  69623 [D]:  N/A [T]:25
+2016-01-11 21:09:37 :   4> [G]: 235784 [E]: 220762 [D]:    0 [T]:17
+2016-01-11 21:09:37 :       Not a Dead Base
+2016-01-11 21:09:41 :   5> [G]:  89725 [E]:  43879 [D]:  350 [T]:20
+2016-01-11 21:09:44 :   6> [G]:  56250 [E]:  97484 [D]:    0 [T]:29
+2016-01-11 21:09:44 :       Dead Base Found! 
+2016-01-11 21:09:45 : ================ Search Complete =================
+2016-01-11 21:09:45 : Checking Townhall location: TH is inside, skip Attack TH
+2016-01-11 21:09:45 : Initiating attack for: Dead Base
+2016-01-11 21:09:50 : -*-Barbarians 100
+2016-01-11 21:09:50 : -*-Archers 100
+2016-01-11 21:09:50 : -*-King 
+2016-01-11 21:09:50 : -*-Lightning Spells 1
+2016-01-11 21:09:50 : -*-Rage Spells 1
+2016-01-11 21:09:50 :  ====== Start Attack ====== 
+2016-01-11 21:09:52 : Calculating Smart Attack Strategy
+2016-01-11 21:09:55 : Calculated  (in 2.06 seconds) :
+2016-01-11 21:09:55 : Locating Mines, Collectors & Drills
+2016-01-11 21:10:10 : Located  (in 15.18 seconds) :
+2016-01-11 21:10:10 : [8] Gold Mines
+2016-01-11 21:10:10 : [5] Elixir Collectors
+2016-01-11 21:10:10 : [0] Dark Elixir Drill/s
+2016-01-11 21:10:10 : Attacking on three sides
+2016-01-11 21:10:12 : Dropping first wave of Barbarians 50
+2016-01-11 21:10:15 : Dropping first wave of Archers 50
+2016-01-11 21:10:19 : Dropping second wave of Barbarians 50
+2016-01-11 21:10:22 : Dropping second wave of Archers 50
+2016-01-11 21:10:25 : Dropping King
+2016-01-11 21:10:27 : Dropping left over troops
+2016-01-11 21:10:27 : Checking remaining unused troops for: Dead Base
+2016-01-11 21:10:32 : -*-Lightning Spells 1
+2016-01-11 21:10:32 : -*-Rage Spells 1
+2016-01-11 21:10:40 : Checking remaining unused troops for: Dead Base
+2016-01-11 21:10:44 : -*-Lightning Spells 1
+2016-01-11 21:10:44 : -*-Rage Spells 1
+2016-01-11 21:10:53 : Waiting 10 seconds before activating Hero abilities
+2016-01-11 21:11:03 : Activating King's power
+2016-01-11 21:11:03 : Finished Attacking, waiting for the battle to end
+2016-01-11 21:11:03 : Checking if the battle has finished
+2016-01-11 21:11:05 : detected [G]: 0 [E]: 0 [DE]: 0 |  Exit in 18 sec.
+2016-01-11 21:11:05 : Gold & Elixir & DE = 0, end battle 
+2016-01-11 21:11:06 : Gold & Elixir & DE = 0, end battle 
+2016-01-11 21:11:07 : Returning Home
+2016-01-11 21:11:12 : Loot: [G]: 56 250 [E]: 97 484 [T]: 19
+2016-01-11 21:11:12 : Bonus Percentage: 100%
+2016-01-11 21:11:13 : Bonus [G]: 3 700 [E]: 3 700
+2016-01-11 21:11:13 : Your league level is: Silver II
+2016-01-11 21:11:13 : Stars earned: 2
+2016-01-11 21:11:14 : Taking snapshot of your loot
+2016-01-11 21:11:22 : Trying to locate Main Screen
+2016-01-11 21:11:22 : Main Screen Located
+2016-01-11 21:11:23 : Village Report
+2016-01-11 21:11:24 : No. of Free/Total Builders: 1/4
+2016-01-11 21:11:24 :  [T]: 1 062
+2016-01-11 21:11:24 :  [G]: 1 063 299 [E]: 1 440 048 [D]: 8 819 [GEM]: 272
+2016-01-11 21:11:25 : Collecting Resources
+2016-01-11 21:11:36 : Training Troops & Spells
+2016-01-11 21:11:37 : Checking Army Camp...
+2016-01-11 21:11:38 : Total Army Camp capacity: 20/200 (10%)
+2016-01-11 21:11:39 :  - No. of Archers: 20
+2016-01-11 21:11:49 : Requesting Clan Castle Troops
+2016-01-11 21:11:58 : ====== Waiting for full army ======
+2016-01-11 21:12:10 : Training Troops & Spells
+2016-01-11 21:12:10 : Checking Army Camp...
+2016-01-11 21:12:12 : Total Army Camp capacity: 26/200 (13%)
+2016-01-11 21:12:13 :  - No. of Archers: 26
+2016-01-11 21:12:22 : Time Idle: 00:00:24
+2016-01-11 21:12:23 : ====== Waiting for full army ======
+2016-01-11 21:12:35 : Training Troops & Spells
+2016-01-11 21:12:35 : Checking Army Camp...
+2016-01-11 21:12:37 : Total Army Camp capacity: 30/200 (15%)
+2016-01-11 21:12:38 :  - No. of Archers: 30
+2016-01-11 21:12:47 : Time Idle: 00:00:49
+2016-01-11 21:12:48 : ====== Waiting for full army ======
+2016-01-11 21:13:00 : Training Troops & Spells
+2016-01-11 21:13:00 : Checking Army Camp...
+2016-01-11 21:13:02 : Total Army Camp capacity: 34/200 (17%)
+2016-01-11 21:13:03 :  - No. of Archers: 34
+2016-01-11 21:13:12 : Time Idle: 00:01:13
+2016-01-11 21:13:12 : ====== Waiting for full army ======
+2016-01-11 21:13:24 : Training Troops & Spells
+2016-01-11 21:13:25 : Checking Army Camp...
+2016-01-11 21:13:26 : Total Army Camp capacity: 38/200 (19%)
+2016-01-11 21:13:28 :  - No. of Archers: 38
+2016-01-11 21:13:37 : Time Idle: 00:01:38
+2016-01-11 21:13:37 : ====== Waiting for full army ======
+2016-01-11 21:13:49 : Training Troops & Spells
+2016-01-11 21:13:49 : Checking Army Camp...
+2016-01-11 21:13:51 : Total Army Camp capacity: 41/200 (20%)
+2016-01-11 21:13:52 :  - No. of Archers: 42
+2016-01-11 21:14:01 : Time Idle: 00:02:01
+2016-01-11 21:14:01 : ====== Waiting for full army ======
+2016-01-11 21:14:13 : Training Troops & Spells
+2016-01-11 21:14:14 : Checking Army Camp...
+2016-01-11 21:14:15 : Total Army Camp capacity: 45/200 (22%)
+2016-01-11 21:14:16 :  - No. of Archers: 45
+2016-01-11 21:14:25 : Time Idle: 00:02:26
+2016-01-11 21:14:26 : ====== Waiting for full army ======
+2016-01-11 21:14:38 : Training Troops & Spells
+2016-01-11 21:14:38 : Checking Army Camp...
+2016-01-11 21:14:40 : Total Army Camp capacity: 49/200 (24%)
+2016-01-11 21:14:41 :  - No. of Archers: 49
+2016-01-11 21:14:50 : Time Idle: 00:02:50
+2016-01-11 21:14:50 : ====== Waiting for full army ======
+2016-01-11 21:15:02 : Training Troops & Spells
+2016-01-11 21:15:03 : Checking Army Camp...
+2016-01-11 21:15:04 : Total Army Camp capacity: 53/200 (26%)
+2016-01-11 21:15:05 :  - No. of Archers: 53
+2016-01-11 21:15:15 : Time Idle: 00:03:15
+2016-01-11 21:15:15 : ====== Waiting for full army ======
+2016-01-11 21:15:27 : Collecting Resources
+2016-01-11 21:15:36 : Training Troops & Spells
+2016-01-11 21:15:36 : Checking Army Camp...
+2016-01-11 21:15:38 : Total Army Camp capacity: 59/200 (29%)
+2016-01-11 21:15:39 :  - No. of Archers: 59
+2016-01-11 21:15:39 :  - Barbarian King available
+2016-01-11 21:15:48 : Time Idle: 00:03:48
+2016-01-11 21:15:48 : ====== Waiting for full army ======
+2016-01-11 21:16:00 : Training Troops & Spells
+2016-01-11 21:16:01 : Checking Army Camp...
+2016-01-11 21:16:02 : Total Army Camp capacity: 63/200 (31%)
+2016-01-11 21:16:04 :  - No. of Archers: 63
+2016-01-11 21:16:04 :  - Barbarian King available
+2016-01-11 21:16:13 : Time Idle: 00:04:12
+2016-01-11 21:16:13 : ====== Waiting for full army ======
+2016-01-11 21:16:25 : Training Troops & Spells
+2016-01-11 21:16:26 : Checking Army Camp...
+2016-01-11 21:16:27 : Total Army Camp capacity: 66/200 (33%)
+2016-01-11 21:16:28 :  - No. of Archers: 67
+2016-01-11 21:16:28 :  - Barbarian King available
+2016-01-11 21:16:37 : Time Idle: 00:04:37
+2016-01-11 21:16:38 : ====== Waiting for full army ======
+2016-01-11 21:16:50 : Training Troops & Spells
+2016-01-11 21:16:50 : Checking Army Camp...
+2016-01-11 21:16:51 : Total Army Camp capacity: 70/200 (35%)
+2016-01-11 21:16:53 :  - No. of Archers: 70
+2016-01-11 21:16:53 :  - Barbarian King available
+2016-01-11 21:17:02 : Time Idle: 00:05:01
+2016-01-11 21:17:02 : ====== Waiting for full army ======
+2016-01-11 21:17:14 : Training Troops & Spells
+2016-01-11 21:17:14 : Checking Army Camp...
+2016-01-11 21:17:16 : Total Army Camp capacity: 74/200 (37%)
+2016-01-11 21:17:17 :  - No. of Archers: 74
+2016-01-11 21:17:17 :  - Barbarian King available
+2016-01-11 21:17:26 : Time Idle: 00:05:25
+2016-01-11 21:17:26 : ====== Waiting for full army ======
+2016-01-11 21:17:38 : Training Troops & Spells
+2016-01-11 21:17:39 : Checking Army Camp...
+2016-01-11 21:17:40 : Total Army Camp capacity: 78/200 (39%)
+2016-01-11 21:17:42 :  - No. of Archers: 78
+2016-01-11 21:17:42 :  - Barbarian King available
+2016-01-11 21:17:51 : Time Idle: 00:05:49
+2016-01-11 21:17:51 : ====== Waiting for full army ======
+2016-01-11 21:18:03 : Training Troops & Spells
+2016-01-11 21:18:03 : Checking Army Camp...
+2016-01-11 21:18:05 : Total Army Camp capacity: 82/200 (41%)
+2016-01-11 21:18:06 :  - No. of Archers: 82
+2016-01-11 21:18:06 :  - Barbarian King available
+2016-01-11 21:18:15 : Time Idle: 00:06:14
+2016-01-11 21:18:16 : ====== Waiting for full army ======
+2016-01-11 21:18:27 : Training Troops & Spells
+2016-01-11 21:18:28 : Checking Army Camp...
+2016-01-11 21:18:29 : Total Army Camp capacity: 86/200 (43%)
+2016-01-11 21:18:31 :  - No. of Archers: 86
+2016-01-11 21:18:31 :  - Barbarian King available
+2016-01-11 21:18:40 : Time Idle: 00:06:38
+2016-01-11 21:18:40 : ====== Waiting for full army ======
+2016-01-11 21:18:52 : Training Troops & Spells
+2016-01-11 21:18:53 : Checking Army Camp...
+2016-01-11 21:18:54 : Total Army Camp capacity: 90/200 (45%)
+2016-01-11 21:18:55 :  - No. of Archers: 90
+2016-01-11 21:18:55 :  - Barbarian King available
+2016-01-11 21:19:04 : Time Idle: 00:07:02
+2016-01-11 21:19:04 : ====== Waiting for full army ======
+2016-01-11 21:19:16 : Training Troops & Spells
+2016-01-11 21:19:17 : Checking Army Camp...
+2016-01-11 21:19:18 : Total Army Camp capacity: 94/200 (47%)
+2016-01-11 21:19:19 :  - No. of Archers: 94
+2016-01-11 21:19:19 :  - Barbarian King available
+2016-01-11 21:19:28 : Time Idle: 00:07:25
+2016-01-11 21:19:28 : ====== Waiting for full army ======
+2016-01-11 21:19:40 : Training Troops & Spells
+2016-01-11 21:19:41 : Checking Army Camp...
+2016-01-11 21:19:42 : Total Army Camp capacity: 98/200 (49%)
+2016-01-11 21:19:44 :  - No. of Archers: 98
+2016-01-11 21:19:44 :  - Barbarian King available
+2016-01-11 21:19:53 : Time Idle: 00:07:51
+2016-01-11 21:19:54 : ====== Waiting for full army ======
+2016-01-11 21:20:06 : Collecting Resources
+2016-01-11 21:20:15 : Training Troops & Spells
+2016-01-11 21:20:15 : Checking Army Camp...
+2016-01-11 21:20:17 : Total Army Camp capacity: 105/200 (52%)
+2016-01-11 21:20:18 :  - No. of Barbarians: 5
+2016-01-11 21:20:18 :  - No. of Archers: 100
+2016-01-11 21:20:18 :  - Barbarian King available
+2016-01-11 21:20:28 : Time Idle: 00:08:25
+2016-01-11 21:20:29 : ====== Waiting for full army ======
+2016-01-11 21:20:41 : Training Troops & Spells
+2016-01-11 21:20:41 : Checking Army Camp...
+2016-01-11 21:20:43 : Total Army Camp capacity: 110/200 (55%)
+2016-01-11 21:20:44 :  - No. of Barbarians: 10
+2016-01-11 21:20:44 :  - No. of Archers: 100
+2016-01-11 21:20:44 :  - Barbarian King available
+2016-01-11 21:20:54 : Time Idle: 00:08:51
+2016-01-11 21:20:54 : ====== Waiting for full army ======
+2016-01-11 21:21:07 : Training Troops & Spells
+2016-01-11 21:21:07 : Checking Army Camp...
+2016-01-11 21:21:08 : Total Army Camp capacity: 115/200 (57%)
+2016-01-11 21:21:10 :  - No. of Barbarians: 15
+2016-01-11 21:21:10 :  - No. of Archers: 100
+2016-01-11 21:21:10 :  - Barbarian King available
+2016-01-11 21:21:20 : Time Idle: 00:09:16
+2016-01-11 21:21:20 : ====== Waiting for full army ======
+2016-01-11 21:21:32 : Training Troops & Spells
+2016-01-11 21:21:33 : Checking Army Camp...
+2016-01-11 21:21:34 : Total Army Camp capacity: 120/200 (60%)
+2016-01-11 21:21:36 :  - No. of Barbarians: 21
+2016-01-11 21:21:36 :  - No. of Archers: 100
+2016-01-11 21:21:36 :  - Barbarian King available
+2016-01-11 21:21:45 : Time Idle: 00:09:42
+2016-01-11 21:21:46 : ====== Waiting for full army ======
+2016-01-11 21:21:58 : Training Troops & Spells
+2016-01-11 21:21:58 : Checking Army Camp...
+2016-01-11 21:22:00 : Total Army Camp capacity: 125/200 (62%)
+2016-01-11 21:22:01 :  - No. of Barbarians: 25
+2016-01-11 21:22:01 :  - No. of Archers: 100
+2016-01-11 21:22:01 :  - Barbarian King available
+2016-01-11 21:22:11 : Time Idle: 00:10:07
+2016-01-11 21:22:12 : ====== Waiting for full army ======
+2016-01-11 21:22:24 : Training Troops & Spells
+2016-01-11 21:22:24 : Checking Army Camp...
+2016-01-11 21:22:26 : Total Army Camp capacity: 130/200 (65%)
+2016-01-11 21:22:27 :  - No. of Barbarians: 30
+2016-01-11 21:22:27 :  - No. of Archers: 100
+2016-01-11 21:22:27 :  - Barbarian King available
+2016-01-11 21:22:38 : Time Idle: 00:10:33
+2016-01-11 21:22:38 : ====== Waiting for full army ======
+2016-01-11 21:22:50 : Training Troops & Spells
+2016-01-11 21:22:50 : Checking Army Camp...
+2016-01-11 21:22:52 : Total Army Camp capacity: 135/200 (67%)
+2016-01-11 21:22:53 :  - No. of Barbarians: 35
+2016-01-11 21:22:54 :  - No. of Archers: 100
+2016-01-11 21:22:54 :  - Barbarian King available
+2016-01-11 21:23:04 : Time Idle: 00:10:59
+2016-01-11 21:23:04 : ====== Waiting for full army ======
+2016-01-11 21:23:16 : Training Troops & Spells
+2016-01-11 21:23:17 : Checking Army Camp...
+2016-01-11 21:23:18 : Total Army Camp capacity: 141/200 (70%)
+2016-01-11 21:23:19 :  - No. of Barbarians: 41
+2016-01-11 21:23:20 :  - No. of Archers: 100
+2016-01-11 21:23:20 :  - Barbarian King available
+2016-01-11 21:23:30 : Time Idle: 00:11:25
+2016-01-11 21:23:30 : ====== Waiting for full army ======
+2016-01-11 21:23:42 : Training Troops & Spells
+2016-01-11 21:23:42 : Checking Army Camp...
+2016-01-11 21:23:44 : Total Army Camp capacity: 146/200 (73%)
+2016-01-11 21:23:45 :  - No. of Barbarians: 46
+2016-01-11 21:23:45 :  - No. of Archers: 100
+2016-01-11 21:23:46 :  - Barbarian King available
+2016-01-11 21:23:55 : Time Idle: 00:11:50
+2016-01-11 21:23:56 : ====== Waiting for full army ======
+2016-01-11 21:24:08 : Training Troops & Spells
+2016-01-11 21:24:08 : Checking Army Camp...
+2016-01-11 21:24:09 : Total Army Camp capacity: 151/200 (75%)
+2016-01-11 21:24:11 :  - No. of Barbarians: 51
+2016-01-11 21:24:11 :  - No. of Archers: 100
+2016-01-11 21:24:11 :  - Barbarian King available
+2016-01-11 21:24:21 : Time Idle: 00:12:15
+2016-01-11 21:24:21 : ====== Waiting for full army ======
+2016-01-11 21:24:33 : Training Troops & Spells
+2016-01-11 21:24:34 : Checking Army Camp...
+2016-01-11 21:24:35 : Total Army Camp capacity: 157/200 (78%)
+2016-01-11 21:24:37 :  - No. of Barbarians: 57
+2016-01-11 21:24:37 :  - No. of Archers: 100
+2016-01-11 21:24:37 :  - Barbarian King available
+2016-01-11 21:24:47 : Time Idle: 00:12:42
+2016-01-11 21:24:48 : ====== Waiting for full army ======
+2016-01-11 21:25:00 : Collecting Resources
+2016-01-11 21:25:08 : Training Troops & Spells
+2016-01-11 21:25:09 : Checking Army Camp...
+2016-01-11 21:25:10 : Total Army Camp capacity: 163/200 (81%)
+2016-01-11 21:25:12 :  - No. of Barbarians: 63
+2016-01-11 21:25:12 :  - No. of Archers: 100
+2016-01-11 21:25:12 :  - Barbarian King available
+2016-01-11 21:25:22 : Time Idle: 00:13:16
+2016-01-11 21:25:22 : ====== Waiting for full army ======
+2016-01-11 21:25:34 : Training Troops & Spells
+2016-01-11 21:25:35 : Checking Army Camp...
+2016-01-11 21:25:36 : Total Army Camp capacity: 169/200 (84%)
+2016-01-11 21:25:38 :  - No. of Barbarians: 69
+2016-01-11 21:25:38 :  - No. of Archers: 100
+2016-01-11 21:25:38 :  - Barbarian King available
+2016-01-11 21:25:48 : Time Idle: 00:13:42
+2016-01-11 21:25:48 : ====== Waiting for full army ======
+2016-01-11 21:26:00 : Training Troops & Spells
+2016-01-11 21:26:01 : Checking Army Camp...
+2016-01-11 21:26:02 : Total Army Camp capacity: 174/200 (87%)
+2016-01-11 21:26:04 :  - No. of Barbarians: 74
+2016-01-11 21:26:04 :  - No. of Archers: 100
+2016-01-11 21:26:04 :  - Barbarian King available
+2016-01-11 21:26:14 : Time Idle: 00:14:07
+2016-01-11 21:26:14 : ====== Waiting for full army ======
+2016-01-11 21:26:26 : Training Troops & Spells
+2016-01-11 21:26:27 : Checking Army Camp...
+2016-01-11 21:26:28 : Total Army Camp capacity: 179/200 (89%)
+2016-01-11 21:26:30 :  - No. of Barbarians: 79
+2016-01-11 21:26:30 :  - No. of Archers: 100
+2016-01-11 21:26:30 :  - Barbarian King available
+2016-01-11 21:26:39 : Time Idle: 00:14:33
+2016-01-11 21:26:40 : ====== Waiting for full army ======
+2016-01-11 21:26:52 : Training Troops & Spells
+2016-01-11 21:26:52 : Checking Army Camp...
+2016-01-11 21:26:54 : Total Army Camp capacity: 183/200 (91%)
+2016-01-11 21:26:55 :  - No. of Barbarians: 84
+2016-01-11 21:26:55 :  - No. of Archers: 100
+2016-01-11 21:26:55 :  - Barbarian King available
+2016-01-11 21:27:05 : Time Idle: 00:14:58
+2016-01-11 21:27:05 : ====== Waiting for full army ======
+2016-01-11 21:27:17 : Training Troops & Spells
+2016-01-11 21:27:18 : Checking Army Camp...
+2016-01-11 21:27:19 : Total Army Camp capacity: 189/200 (94%)
+2016-01-11 21:27:21 :  - No. of Barbarians: 89
+2016-01-11 21:27:21 :  - No. of Archers: 100
+2016-01-11 21:27:21 :  - Barbarian King available
+2016-01-11 21:27:31 : Time Idle: 00:15:24
+2016-01-11 21:27:31 : ====== Waiting for full army ======
+2016-01-11 21:27:43 : Training Troops & Spells
+2016-01-11 21:27:44 : Checking Army Camp...
+2016-01-11 21:27:45 : Total Army Camp capacity: 194/200 (97%)
+2016-01-11 21:27:47 :  - No. of Barbarians: 94
+2016-01-11 21:27:47 :  - No. of Archers: 100
+2016-01-11 21:27:47 :  - Barbarian King available
+2016-01-11 21:27:57 : Time Idle: 00:15:50
+2016-01-11 21:27:58 : ====== Waiting for full army ======
+2016-01-11 21:28:10 : Training Troops & Spells
+2016-01-11 21:28:10 : Checking Army Camp...
+2016-01-11 21:28:12 : Total Army Camp capacity: 199/200 (99%)
+2016-01-11 21:28:13 :  - No. of Barbarians: 99
+2016-01-11 21:28:14 :  - No. of Archers: 100
+2016-01-11 21:28:14 :  - Barbarian King available
+2016-01-11 21:28:15 : Your Army Camps are now Full
+2016-01-11 21:28:15 : Calculating Troops before Training new Army.
+2016-01-11 21:28:15 : Build troops before attacking.
+2016-01-11 21:28:38 : Going to Attack...
+2016-01-11 21:28:44 : ============== Searching For Dead Base ===============
+2016-01-11 21:28:44 : ~~~~~~~~~~~~~~~ SEARCH CONDITIONS ~~~~~~~~~~~~~~~~
+2016-01-11 21:28:44 : Meet: Gold + Elixir
+2016-01-11 21:28:44 : ~~~~~~~~~~~~~~ RESOURCE CONDITIONS ~~~~~~~~~~~~~~~
+2016-01-11 21:28:44 : Aim: [G+E]: 140000 [D]:    0 [T]: 0 for: Dead Base
+2016-01-11 21:28:44 : ~~~~~~~~~~~~~~~ ADVANCED SETTINGS ~~~~~~~~~~~~~~~~
+2016-01-11 21:28:44 :  Attack TH Outside Bam
+2016-01-11 21:28:44 : ==================================================
+2016-01-11 21:28:45 :   1> [G]:  13367 [E]:  19761 [D]:  N/A [T]:28
+2016-01-11 21:28:51 :   2> [G]:  94363 [E]:  60022 [D]:  557 [T]:28
+2016-01-11 21:28:51 :       Not a Dead Base
+2016-01-11 21:28:54 :   3> [G]:  84988 [E]:  52370 [D]:  320 [T]:26
+2016-01-11 21:28:57 :   4> [G]:  11038 [E]:   4698 [D]:   90 [T]:22
+2016-01-11 21:29:01 :   5> [G]:  60910 [E]:  38021 [D]:  296 [T]:35
+2016-01-11 21:29:06 :   6> [G]: 110342 [E]:  72556 [D]:  150 [T]:34
+2016-01-11 21:29:06 :       Not a Dead Base
+2016-01-11 21:29:09 :   7> [G]:  33133 [E]:  29605 [D]:  137 [T]:30
+2016-01-11 21:29:13 :   8> [G]:  12500 [E]:  13125 [D]:  N/A [T]:14
+2016-01-11 21:29:16 :   9> [G]:  40871 [E]:  81695 [D]:  N/A [T]:34
+2016-01-11 21:29:19 :  10> [G]:   7597 [E]:  14225 [D]:  N/A [T]:33
+2016-01-11 21:29:24 :  11> [G]: 235771 [E]:  75630 [D]:  585 [T]:25
+2016-01-11 21:29:24 :       Not a Dead Base
+2016-01-11 21:29:27 :  12> [G]:  12466 [E]:  14202 [D]:  N/A [T]:24
+2016-01-11 21:29:30 :  13> [G]:  25503 [E]:  11098 [D]:  N/A [T]:28
+2016-01-11 21:29:34 :  14> [G]:   4814 [E]:  54410 [D]:  N/A [T]:21
+2016-01-11 21:29:39 :  15> [G]:  49779 [E]: 311008 [D]:  934 [T]:23
+2016-01-11 21:29:39 :       Not a Dead Base
+2016-01-11 21:29:44 :  16> [G]:  98233 [E]: 192417 [D]:  293 [T]:23
+2016-01-11 21:29:44 :       Not a Dead Base
+2016-01-11 21:29:47 :  17> [G]:  11328 [E]:  11472 [D]:  N/A [T]:16
+2016-01-11 21:29:52 :  18> [G]: 141386 [E]:  30507 [D]:  N/A [T]:23
+2016-01-11 21:29:52 :       Not a Dead Base
+2016-01-11 21:29:57 :  19> [G]: 245979 [E]: 243448 [D]:  752 [T]:25
+2016-01-11 21:29:57 :       Not a Dead Base
+2016-01-11 21:30:00 : Aim:           [G+E]: 136000 [D]:    0 [T]: 0 for: Dead Base
+2016-01-11 21:30:00 :  20> [G]:  52402 [E]:  36718 [D]:  532 [T]:33
+2016-01-11 21:30:04 :  21> [G]:   9534 [E]:   9871 [D]:  151 [T]:21
+2016-01-11 21:30:09 :  22> [G]: 174612 [E]:  64409 [D]:  480 [T]:27
+2016-01-11 21:30:09 :       Not a Dead Base
+2016-01-11 21:30:13 :  23> [G]:  16161 [E]:  88350 [D]:    5 [T]:21
+2016-01-11 21:30:16 :  24> [G]:  87345 [E]:  26059 [D]:  306 [T]:32
+2016-01-11 21:30:19 :  25> [G]:  69667 [E]:  50322 [D]:  752 [T]:23
+2016-01-11 21:30:22 :  26> [G]:  18403 [E]:  19189 [D]:  N/A [T]:16
+2016-01-11 21:30:27 :  27> [G]:  93811 [E]:  91154 [D]:  N/A [T]:33
+2016-01-11 21:30:27 :       Not a Dead Base
+2016-01-11 21:30:32 :  28> [G]:  76988 [E]:  59782 [D]:   98 [T]:24
+2016-01-11 21:30:32 :       Not a Dead Base
+2016-01-11 21:30:35 :  29> [G]: 110983 [E]:  13897 [D]:  966 [T]:32
+2016-01-11 21:30:38 :  30> [G]:  73506 [E]:  25594 [D]:  N/A [T]:24
+2016-01-11 21:30:42 :  31> [G]:  26270 [E]:  23824 [D]:  126 [T]:30
+2016-01-11 21:30:46 :  32> [G]: 135398 [E]:  93267 [D]:  N/A [T]:34
+2016-01-11 21:30:46 :       Not a Dead Base
+2016-01-11 21:30:50 :  33> [G]:  24252 [E]:  47823 [D]:  N/A [T]:29
+2016-01-11 21:30:54 :  34> [G]:  86344 [E]:  96993 [D]:  386 [T]:26
+2016-01-11 21:30:54 :       Not a Dead Base
+2016-01-11 21:31:00 :  35> [G]: 169899 [E]: 322026 [D]:  743 [T]:22
+2016-01-11 21:31:00 :       Not a Dead Base
+2016-01-11 21:31:04 :  36> [G]: 186846 [E]: 146389 [D]:  128 [T]:22
+2016-01-11 21:31:05 :       Not a Dead Base
+2016-01-11 21:31:08 :  37> [G]:  18768 [E]:   5238 [D]:  N/A [T]:22
+2016-01-11 21:31:11 :  38> [G]:  49489 [E]:  60846 [D]:  N/A [T]:31
+2016-01-11 21:31:14 :  39> [G]:  40807 [E]:  10315 [D]:  N/A [T]:32
+2016-01-11 21:31:17 : Aim:           [G+E]: 132000 [D]:    0 [T]: 0 for: Dead Base
+2016-01-11 21:31:17 :  40> [G]:  14428 [E]:  18110 [D]:  N/A [T]:16
+2016-01-11 21:31:25 :  41> [G]:  11775 [E]: 201215 [D]:  310 [T]:22
+2016-01-11 21:31:25 :       Not a Dead Base
+2016-01-11 21:31:29 :  42> [G]:  60629 [E]:  45734 [D]:  192 [T]:33
+2016-01-11 21:31:32 :  43> [G]:  25511 [E]:  11707 [D]:  N/A [T]:32
+2016-01-11 21:31:37 :  44> [G]:  41088 [E]: 312535 [D]:  727 [T]:26
+2016-01-11 21:31:37 :       Not a Dead Base
+2016-01-11 21:31:40 :  45> [G]:  66516 [E]:  56793 [D]:  408 [T]:22
+2016-01-11 21:31:43 :  46> [G]:  42854 [E]:  32460 [D]:   87 [T]:28
+2016-01-11 21:31:46 :  47> [G]:  62397 [E]:  69322 [D]:  N/A [T]:33
+2016-01-11 21:31:50 :  48> [G]:  36863 [E]:  17285 [D]:  166 [T]:23
+2016-01-11 21:31:53 :  49> [G]:  61971 [E]:  54807 [D]:    0 [T]:25
+2016-01-11 21:31:58 :  50> [G]: 106436 [E]: 322428 [D]:  422 [T]:27
+2016-01-11 21:31:58 :       Not a Dead Base
+2016-01-11 21:32:01 :  51> [G]:  43670 [E]:  12192 [D]:   58 [T]:25
+2016-01-11 21:32:04 :  52> [G]:  44158 [E]:  21725 [D]:    1 [T]:29
+2016-01-11 21:32:08 :  53> [G]:  72092 [E]:  13224 [D]:  N/A [T]:24
+2016-01-11 21:32:13 :  54> [G]: 157112 [E]: 162232 [D]:  771 [T]:17
+2016-01-11 21:32:13 :       Not a Dead Base
+2016-01-11 21:32:18 :  55> [G]:  70307 [E]:  82438 [D]:  150 [T]:31
+2016-01-11 21:32:18 :       Not a Dead Base
+2016-01-11 21:32:21 :  56> [G]:  87784 [E]:  23944 [D]:  124 [T]:25
+2016-01-11 21:32:24 :  57> [G]:  75697 [E]:  40046 [D]:  N/A [T]:34
+2016-01-11 21:32:27 :  58> [G]:  22717 [E]:  21339 [D]:  N/A [T]:16
+2016-01-11 21:32:30 :  59> [G]:  61333 [E]:  60330 [D]:  643 [T]:23
+2016-01-11 21:32:33 : Aim:           [G+E]: 128000 [D]:    0 [T]: 0 for: Dead Base
+2016-01-11 21:32:35 :  60> [G]:  85021 [E]:  65543 [D]:    0 [T]:34
+2016-01-11 21:32:35 :       Not a Dead Base
+2016-01-11 21:32:40 :  61> [G]:  94704 [E]: 116431 [D]:  531 [T]:27
+2016-01-11 21:32:40 :       Not a Dead Base
+2016-01-11 21:32:44 :  62> [G]:  30524 [E]:   4429 [D]:   25 [T]:21
+2016-01-11 21:32:47 :  63> [G]:  57582 [E]:  58200 [D]:  350 [T]:25
+2016-01-11 21:32:50 :  64> [G]:  29992 [E]:  94736 [D]:  N/A [T]:23
+2016-01-11 21:32:53 :  65> [G]:  75726 [E]:  46649 [D]: 1576 [T]:30
+2016-01-11 21:32:57 :  66> [G]:  56198 [E]:  29263 [D]:  N/A [T]:28
+2016-01-11 21:33:00 :  67> [G]:  35026 [E]:  17665 [D]:  N/A [T]:19
+2016-01-11 21:33:08 :  68> [G]: 249405 [E]: 258235 [D]:  621 [T]:27
+2016-01-11 21:33:08 :       Not a Dead Base
+2016-01-11 21:33:13 :  69> [G]:  48857 [E]:  99726 [D]:  425 [T]:27
+2016-01-11 21:33:13 :       Not a Dead Base
+2016-01-11 21:33:16 :  70> [G]:  23093 [E]:  57004 [D]:    0 [T]:32
+2016-01-11 21:33:21 :  71> [G]: 179664 [E]:  67521 [D]:  239 [T]:24
+2016-01-11 21:33:21 :       Not a Dead Base
+2016-01-11 21:33:24 :  72> [G]:  16813 [E]:  52065 [D]:   15 [T]:16
+2016-01-11 21:33:28 :  73> [G]: 102998 [E]:   7681 [D]:   25 [T]:15
+2016-01-11 21:33:31 :  74> [G]:  46714 [E]:  19368 [D]:  N/A [T]:32
+2016-01-11 21:33:34 :  75> [G]:  15284 [E]:   6684 [D]:  N/A [T]:33
+2016-01-11 21:33:37 :  76> [G]:  68740 [E]:  29713 [D]:  N/A [T]:23
+2016-01-11 21:33:41 :  77> [G]: 166990 [E]: 220451 [D]:  N/A [T]:29
+2016-01-11 21:33:41 :       Not a Dead Base
+2016-01-11 21:33:45 :  78> [G]:  47130 [E]:  76265 [D]:  103 [T]:24
+2016-01-11 21:33:48 :  79> [G]:  47666 [E]:  51717 [D]:  N/A [T]:24
+2016-01-11 21:33:51 : Aim:           [G+E]: 124000 [D]:    0 [T]: 0 for: Dead Base
+2016-01-11 21:33:53 :  80> [G]: 134548 [E]: 105122 [D]:  568 [T]:29
+2016-01-11 21:33:53 :       Not a Dead Base
+2016-01-11 21:33:58 :  81> [G]:  11702 [E]: 262438 [D]: 1054 [T]:26
+2016-01-11 21:33:58 :       Not a Dead Base
+2016-01-11 21:34:01 :  82> [G]:  10174 [E]:  11248 [D]:  N/A [T]:22
+2016-01-11 21:34:06 :  83> [G]: 110000 [E]: 100000 [D]:    0 [T]:21
+2016-01-11 21:34:06 :       Not a Dead Base
+2016-01-11 21:34:11 :  84> [G]:   6690 [E]: 260990 [D]:  115 [T]:22
+2016-01-11 21:34:11 :       Not a Dead Base
+2016-01-11 21:34:16 :  85> [G]:  41372 [E]:  97800 [D]:  123 [T]:28
+2016-01-11 21:34:16 :       Not a Dead Base
+2016-01-11 21:34:18 : Trying to locate Main Screen
+2016-01-11 21:34:19 : Out of Sync Error, Reloading CoC...
+2016-01-11 21:34:24 : Waiting for Main Screen
+2016-01-11 21:34:24 : Zooming Out
+2016-01-11 21:35:08 : Main Screen Located
+2016-01-11 21:35:08 : Disconnected At Search Clouds
+2016-01-11 21:35:10 : Trying to locate Main Screen
+2016-01-11 21:35:10 : Zooming Out
+2016-01-11 21:35:13 : Main Screen Located
+2016-01-11 21:35:13 : Restarted after Out of Sync Error: Attack Now
+2016-01-11 21:35:14 : Trying to locate Main Screen
+2016-01-11 21:35:14 : Main Screen Located
+2016-01-11 21:35:14 : Going to Attack...
+2016-01-11 21:35:21 : ============== Searching For Dead Base ===============
+2016-01-11 21:35:21 : ~~~~~~~~~~~~~~~ SEARCH CONDITIONS ~~~~~~~~~~~~~~~~
+2016-01-11 21:35:21 : Meet: Gold + Elixir
+2016-01-11 21:35:21 : ~~~~~~~~~~~~~~ RESOURCE CONDITIONS ~~~~~~~~~~~~~~~
+2016-01-11 21:35:21 : Aim: [G+E]: 124000 [D]:    0 [T]: 0 for: Dead Base
+2016-01-11 21:35:21 : ~~~~~~~~~~~~~~~ ADVANCED SETTINGS ~~~~~~~~~~~~~~~~
+2016-01-11 21:35:21 :  Attack TH Outside Bam
+2016-01-11 21:35:21 : ==================================================
+2016-01-11 21:35:22 :  86> [G]:   9800 [E]:   5390 [D]:  N/A [T]:19
+2016-01-11 21:35:27 :  87> [G]: 136444 [E]:  56433 [D]:  339 [T]:21
+2016-01-11 21:35:27 :       Not a Dead Base
+2016-01-11 21:35:30 :  88> [G]:  38111 [E]:  46051 [D]:  N/A [T]:20
+2016-01-11 21:35:33 :  89> [G]:  31719 [E]:  53232 [D]:  N/A [T]:31
+2016-01-11 21:35:40 :  90> [G]:  63887 [E]:  60061 [D]:  606 [T]:30
+2016-01-11 21:35:44 :  91> [G]:  10250 [E]:   4750 [D]:   84 [T]:24
+2016-01-11 21:35:47 :  92> [G]:   3178 [E]:  64545 [D]:  242 [T]:27
+2016-01-11 21:35:50 :  93> [G]:  10098 [E]:   3921 [D]:   44 [T]:23
+2016-01-11 21:35:55 :  94> [G]:  77538 [E]:  82301 [D]:  609 [T]:27
+2016-01-11 21:35:55 :       Not a Dead Base
+2016-01-11 21:35:58 :  95> [G]:  37669 [E]:   6513 [D]:  N/A [T]:26
+2016-01-11 21:36:02 :  96> [G]:  40000 [E]:  31250 [D]:  124 [T]:25
+2016-01-11 21:36:06 :  97> [G]:  91502 [E]:  76472 [D]:  N/A [T]:19
+2016-01-11 21:36:06 :       Not a Dead Base
+2016-01-11 21:36:11 :  98> [G]: 115351 [E]:  50649 [D]:  980 [T]:28
+2016-01-11 21:36:11 :       Not a Dead Base
+2016-01-11 21:36:16 :  99> [G]: 195420 [E]: 100000 [D]:  120 [T]:23
+2016-01-11 21:36:16 :       Not a Dead Base
+2016-01-11 21:36:19 : Aim:           [G+E]: 120000 [D]:    0 [T]: 0 for: Dead Base
+2016-01-11 21:36:21 : 100> [G]: 127950 [E]:  53748 [D]:    0 [T]:22
+2016-01-11 21:36:21 :       Not a Dead Base
+2016-01-11 21:36:24 : 101> [G]:  48735 [E]:  26090 [D]:    0 [T]:24
+2016-01-11 21:36:29 : 102> [G]: 123646 [E]:  86508 [D]:  765 [T]:31
+2016-01-11 21:36:29 :       Not a Dead Base
+2016-01-11 21:36:34 : 103> [G]: 165029 [E]: 189455 [D]:  130 [T]:19
+2016-01-11 21:36:34 :       Not a Dead Base
+2016-01-11 21:36:37 : 104> [G]:  44448 [E]:  73896 [D]:  193 [T]:22
+2016-01-11 21:36:42 : 105> [G]:  31083 [E]: 114406 [D]:  759 [T]:27
+2016-01-11 21:36:42 :       Not a Dead Base
+2016-01-11 21:36:46 : 106> [G]:  47767 [E]:  42638 [D]:  131 [T]:30
+2016-01-11 21:36:49 : 107> [G]:  52623 [E]:  14290 [D]:  N/A [T]:20
+2016-01-11 21:36:52 : 108> [G]:  42525 [E]:  11047 [D]:  N/A [T]:25
+2016-01-11 21:36:55 : 109> [G]:  58595 [E]:  20885 [D]:  112 [T]:33
+2016-01-11 21:37:00 : 110> [G]:  91279 [E]: 100381 [D]:    0 [T]:33
+2016-01-11 21:37:00 :       Not a Dead Base
+2016-01-11 21:37:03 : 111> [G]:   7409 [E]:   3609 [D]:  N/A [T]:20
+2016-01-11 21:37:08 : 112> [G]: 168703 [E]:  36618 [D]:    4 [T]:23
+2016-01-11 21:37:08 :       Not a Dead Base
+2016-01-11 21:37:10 : Trying to locate Main Screen
+2016-01-11 21:37:11 : Out of Sync Error, Reloading CoC...
+2016-01-11 21:37:16 : Waiting for Main Screen
+2016-01-11 21:37:16 : Zooming Out
+2016-01-11 21:37:19 : Main Screen Located
+2016-01-11 21:37:20 : Disconnected At Search Clouds
+2016-01-11 21:37:21 : Trying to locate Main Screen
+2016-01-11 21:37:21 : Main Screen Located
+2016-01-11 21:37:23 : Village Report
+2016-01-11 21:37:23 : No. of Free/Total Builders: 1/4
+2016-01-11 21:37:23 :  [T]: 1 062
+2016-01-11 21:37:23 :  [G]: 1 021 988 [E]: 1 411 817 [D]: 8 823 [GEM]: 272
+2016-01-11 21:37:25 : Collecting Resources
+2016-01-11 21:37:36 : Training Troops & Spells
+2016-01-11 21:37:37 : Checking Army Camp...
+2016-01-11 21:37:38 : Total Army Camp capacity: 200/200 (100%)
+2016-01-11 21:37:40 :  - No. of Barbarians: 100
+2016-01-11 21:37:40 :  - No. of Archers: 100
+2016-01-11 21:37:40 :  - Barbarian King available
+2016-01-11 21:37:41 : Your Army Camps are now Full
+2016-01-11 21:37:41 : Calculating Troops before Training new Army.
+2016-01-11 21:37:41 : Build troops before attacking.
+2016-01-11 21:38:10 : Requesting Clan Castle Troops
+2016-01-11 21:38:19 : Going to Attack...
+2016-01-11 21:38:25 : ============== Searching For Dead Base ===============
+2016-01-11 21:38:25 : ~~~~~~~~~~~~~~~ SEARCH CONDITIONS ~~~~~~~~~~~~~~~~
+2016-01-11 21:38:25 : Meet: Gold + Elixir
+2016-01-11 21:38:25 : ~~~~~~~~~~~~~~ RESOURCE CONDITIONS ~~~~~~~~~~~~~~~
+2016-01-11 21:38:25 : Aim: [G+E]: 140000 [D]:    0 [T]: 0 for: Dead Base
+2016-01-11 21:38:25 : ~~~~~~~~~~~~~~~ ADVANCED SETTINGS ~~~~~~~~~~~~~~~~
+2016-01-11 21:38:25 :  Attack TH Outside Bam
+2016-01-11 21:38:25 : ==================================================
+2016-01-11 21:38:28 :   1> [G]:  56549 [E]: 143332 [D]:  464 [T]:23
+2016-01-11 21:38:28 :       Not a Dead Base
+2016-01-11 21:38:33 :   2> [G]: 371670 [E]: 363381 [D]: 1478 [T]:21
+2016-01-11 21:38:33 :       Not a Dead Base
+2016-01-11 21:38:38 :   3> [G]:  31767 [E]: 198853 [D]:  799 [T]:25
+2016-01-11 21:38:38 :       Not a Dead Base
+2016-01-11 21:38:43 :   4> [G]:  27965 [E]: 116915 [D]:  273 [T]:26
+2016-01-11 21:38:43 :       Not a Dead Base
+2016-01-11 21:38:46 :   5> [G]:  17860 [E]:   8847 [D]:  N/A [T]:19
+2016-01-11 21:38:49 :   6> [G]:  40455 [E]:  69045 [D]:  154 [T]:31
+2016-01-11 21:38:52 :   7> [G]:  78373 [E]:  28795 [D]:  396 [T]:31
+2016-01-11 21:38:55 :   8> [G]:  35313 [E]:  11346 [D]:   24 [T]:30
+2016-01-11 21:38:59 :   9> [G]:  72549 [E]:  61766 [D]:   74 [T]:25
+2016-01-11 21:39:02 :  10> [G]:  18838 [E]:   6947 [D]:  N/A [T]:23
+2016-01-11 21:39:05 :  11> [G]:  86403 [E]:  12402 [D]:  437 [T]:25
+2016-01-11 21:39:10 :  12> [G]: 162250 [E]: 108357 [D]:  806 [T]:27
+2016-01-11 21:39:10 :       Not a Dead Base
+2016-01-11 21:39:15 :  13> [G]:  78094 [E]: 351744 [D]:  229 [T]:34
+2016-01-11 21:39:15 :       Not a Dead Base
+2016-01-11 21:39:20 :  14> [G]: 154109 [E]:  35355 [D]:   17 [T]:17
+2016-01-11 21:39:20 :       Not a Dead Base
+2016-01-11 21:39:25 :  15> [G]: 166008 [E]: 209244 [D]:  671 [T]:20
+2016-01-11 21:39:25 :       Not a Dead Base
+2016-01-11 21:39:29 :  16> [G]:  93200 [E]:  27089 [D]:  428 [T]:25
+2016-01-11 21:39:32 :  17> [G]:  15621 [E]:   1858 [D]:  N/A [T]:22
+2016-01-11 21:39:37 :  18> [G]:  60694 [E]:  83439 [D]:  540 [T]:33
+2016-01-11 21:39:37 :       Not a Dead Base
+2016-01-11 21:39:42 :  19> [G]: 195757 [E]: 155365 [D]:  658 [T]:24
+2016-01-11 21:39:42 :       Not a Dead Base
+2016-01-11 21:39:45 : Aim:           [G+E]: 136000 [D]:    0 [T]: 0 for: Dead Base
+2016-01-11 21:39:45 :  20> [G]:  71282 [E]:  64258 [D]:   95 [T]:31
+2016-01-11 21:39:49 :  21> [G]:  80768 [E]:  16437 [D]:  618 [T]:33
+2016-01-11 21:39:53 :  22> [G]: 209450 [E]:  36035 [D]:  788 [T]:20
+2016-01-11 21:39:53 :       Not a Dead Base
+2016-01-11 21:39:59 :  23> [G]:  46207 [E]: 178385 [D]:  294 [T]:22
+2016-01-11 21:39:59 :       Not a Dead Base
+2016-01-11 21:40:02 :  24> [G]:  32054 [E]:  69365 [D]:  N/A [T]:32
+2016-01-11 21:40:07 :  25> [G]: 165034 [E]:  10164 [D]:    1 [T]:24
+2016-01-11 21:40:07 :       Not a Dead Base
+2016-01-11 21:40:11 :  26> [G]: 131428 [E]: 156196 [D]:  155 [T]:29
+2016-01-11 21:40:11 :       Not a Dead Base
+2016-01-11 21:40:16 :  27> [G]: 100003 [E]:  58594 [D]:  150 [T]:17
+2016-01-11 21:40:16 :       Not a Dead Base
+2016-01-11 21:40:19 :  28> [G]:  20449 [E]:  16028 [D]:  N/A [T]:29
+2016-01-11 21:40:24 :  29> [G]: 231080 [E]: 240800 [D]:  391 [T]:13
+2016-01-11 21:40:24 :       Not a Dead Base
+2016-01-11 21:40:29 :  30> [G]: 173552 [E]: 102885 [D]:  N/A [T]:22
+2016-01-11 21:40:29 :       Not a Dead Base
+2016-01-11 21:40:32 :  31> [G]:  14422 [E]:   7543 [D]:  429 [T]:25
+2016-01-11 21:40:37 :  32> [G]: 225783 [E]:  55251 [D]:  688 [T]:32
+2016-01-11 21:40:37 :       Not a Dead Base
+2016-01-11 21:40:40 :  33> [G]:  48760 [E]:  32638 [D]:  155 [T]:23
+2016-01-11 21:40:43 :  34> [G]:  19270 [E]:  52699 [D]:  N/A [T]:32
+2016-01-11 21:40:48 :  35> [G]: 308048 [E]: 153203 [D]: 1080 [T]:21
+2016-01-11 21:40:48 :       Not a Dead Base
+2016-01-11 21:40:52 :  36> [G]:  83833 [E]: 170949 [D]:  208 [T]:34
+2016-01-11 21:40:52 :       Dead Base Found! 
+2016-01-11 21:40:52 : ================ Search Complete =================
+2016-01-11 21:41:00 : 2nd attempt to detect the TownHall!
+2016-01-11 21:41:07 : 3rd attempt to detect the TownHall!
+2016-01-11 21:41:10 : Checking Townhall location: Could not locate TH, skipping attack TH...
+2016-01-11 21:41:10 : Initiating attack for: Dead Base
+2016-01-11 21:41:14 : -*-Barbarians 100
+2016-01-11 21:41:14 : -*-Archers 100
+2016-01-11 21:41:14 : -*-King 
+2016-01-11 21:41:14 : -*-Lightning Spells 1
+2016-01-11 21:41:14 : -*-Rage Spells 1
+2016-01-11 21:41:14 :  ====== Start Attack ====== 
+2016-01-11 21:41:16 : Calculating Smart Attack Strategy
+2016-01-11 21:41:18 : Calculated  (in 1.69 seconds) :
+2016-01-11 21:41:18 : Locating Mines, Collectors & Drills
+2016-01-11 21:41:32 : Located  (in 14.07 seconds) :
+2016-01-11 21:41:32 : [7] Gold Mines
+2016-01-11 21:41:32 : [3] Elixir Collectors
+2016-01-11 21:41:32 : [0] Dark Elixir Drill/s
+2016-01-11 21:41:32 : Attacking on three sides
+2016-01-11 21:41:34 : Dropping first wave of Barbarians 50
+2016-01-11 21:41:38 : Dropping first wave of Archers 50
+2016-01-11 21:41:41 : Dropping second wave of Barbarians 50
+2016-01-11 21:41:45 : Dropping second wave of Archers 50
+2016-01-11 21:41:48 : Dropping King
+2016-01-11 21:41:51 : Dropping left over troops
+2016-01-11 21:41:51 : Checking remaining unused troops for: Dead Base
+2016-01-11 21:41:55 : -*-Lightning Spells 1
+2016-01-11 21:41:55 : -*-Rage Spells 1
+2016-01-11 21:42:03 : Checking remaining unused troops for: Dead Base
+2016-01-11 21:42:07 : -*-Lightning Spells 1
+2016-01-11 21:42:07 : -*-Rage Spells 1
+2016-01-11 21:42:16 : Waiting 10 seconds before activating Hero abilities
+2016-01-11 21:42:26 : Activating King's power
+2016-01-11 21:42:26 : Finished Attacking, waiting for the battle to end
+2016-01-11 21:42:26 : Checking if the battle has finished
+2016-01-11 21:42:28 : detected [G]: 129 [E]: 752 [DE]: 133 |  Exit in 18 sec.
+2016-01-11 21:42:28 : Gold & Elixir & DE change detected, waiting...
+2016-01-11 21:42:32 : detected [G]: 86 [E]: 751 [DE]: 116 |  Exit in 18 sec.
+2016-01-11 21:42:32 : Gold & Elixir & DE change detected, waiting...
+2016-01-11 21:42:35 : detected [G]: 86 [E]: 751 [DE]: 116 |  Exit in 18 sec.
+2016-01-11 21:42:37 : detected [G]: 57 [E]: 751 [DE]: 116 |  Exit in 16 sec.
+2016-01-11 21:42:37 : Gold & Elixir & DE change detected, waiting...
+2016-01-11 21:42:41 : detected [G]: 43 [E]: 750 [DE]: 116 |  Exit in 18 sec.
+2016-01-11 21:42:41 : Gold & Elixir & DE change detected, waiting...
+2016-01-11 21:42:44 : detected [G]: 0 [E]: 700 [DE]: 57 |  Exit in 18 sec.
+2016-01-11 21:42:44 : Gold & Elixir & DE change detected, waiting...
+2016-01-11 21:42:48 : detected [G]: 0 [E]: 400 [DE]: 0 |  Exit in 18 sec.
+2016-01-11 21:42:48 : Gold & Elixir & DE change detected, waiting...
+2016-01-11 21:42:51 : detected [G]: 0 [E]: 0 [DE]: 0 |  Exit in 18 sec.
+2016-01-11 21:42:51 : Gold & Elixir & DE = 0, end battle 
+2016-01-11 21:42:52 : Gold & Elixir & DE = 0, end battle 
+2016-01-11 21:42:53 : Returning Home
+2016-01-11 21:42:57 : Loot: [G]: 83 833 [E]: 170 949 [DE]: 208 [T]: 34
+2016-01-11 21:42:58 : Bonus Percentage: 100%
+2016-01-11 21:42:58 : Bonus [G]: 3 700 [E]: 3 700
+2016-01-11 21:42:59 : Your league level is: Silver II
+2016-01-11 21:42:59 : Stars earned: 3
+2016-01-11 21:42:59 : Taking snapshot of your loot
+2016-01-11 21:43:07 : Trying to locate Main Screen
+2016-01-11 21:43:07 : Main Screen Located
+2016-01-11 21:43:09 : Village Report
+2016-01-11 21:43:09 : No. of Free/Total Builders: 1/4
+2016-01-11 21:43:09 :  [T]: 1 096
+2016-01-11 21:43:09 :  [G]: 1 097 434 [E]: 1 587 740 [D]: 9 035 [GEM]: 272
+2016-01-11 21:43:11 : Collecting Resources
+2016-01-11 21:43:22 : Training Troops & Spells
+2016-01-11 21:43:23 : Checking Army Camp...
+2016-01-11 21:43:24 : Total Army Camp capacity: 47/200 (23%)
+2016-01-11 21:43:26 :  - No. of Archers: 47
+2016-01-11 21:43:38 : ====== Waiting for full army ======
+2016-01-11 21:43:50 : Training Troops & Spells
+2016-01-11 21:43:51 : Checking Army Camp...
+2016-01-11 21:43:52 : Total Army Camp capacity: 51/200 (25%)
+2016-01-11 21:43:54 :  - No. of Archers: 51
+2016-01-11 21:44:03 : Time Idle: 00:00:24
+2016-01-11 21:44:03 : ====== Waiting for full army ======
+2016-01-11 21:44:15 : Training Troops & Spells
+2016-01-11 21:44:16 : Checking Army Camp...
+2016-01-11 21:44:17 : Total Army Camp capacity: 55/200 (27%)
+2016-01-11 21:44:18 :  - No. of Archers: 55
+2016-01-11 21:44:27 : Time Idle: 00:00:48
+2016-01-11 21:44:28 : ====== Waiting for full army ======
+2016-01-11 21:44:40 : Training Troops & Spells
+2016-01-11 21:44:40 : Checking Army Camp...
+2016-01-11 21:44:42 : Total Army Camp capacity: 59/200 (29%)
+2016-01-11 21:44:43 :  - No. of Archers: 59
+2016-01-11 21:44:52 : Time Idle: 00:01:13
+2016-01-11 21:44:52 : ====== Waiting for full army ======
+2016-01-11 21:45:04 : Collecting Resources
+2016-01-11 21:45:12 : Training Troops & Spells
+2016-01-11 21:45:13 : Checking Army Camp...
+2016-01-11 21:45:14 : Total Army Camp capacity: 64/200 (32%)
+2016-01-11 21:45:16 :  - No. of Archers: 64
+2016-01-11 21:45:24 : Time Idle: 00:01:44
+2016-01-11 21:45:24 : ====== Waiting for full army ======
+2016-01-11 21:45:37 : Training Troops & Spells
+2016-01-11 21:45:37 : Checking Army Camp...
+2016-01-11 21:45:39 : Total Army Camp capacity: 68/200 (34%)
+2016-01-11 21:45:40 :  - No. of Archers: 68
+2016-01-11 21:45:49 : Time Idle: 00:02:09
+2016-01-11 21:45:49 : ====== Waiting for full army ======
+2016-01-11 21:46:01 : Training Troops & Spells
+2016-01-11 21:46:02 : Checking Army Camp...
+2016-01-11 21:46:03 : Total Army Camp capacity: 72/200 (36%)
+2016-01-11 21:46:04 :  - No. of Archers: 72
+2016-01-11 21:46:13 : Time Idle: 00:02:33
+2016-01-11 21:46:13 : ====== Waiting for full army ======
+2016-01-11 21:46:25 : Training Troops & Spells
+2016-01-11 21:46:26 : Checking Army Camp...
+2016-01-11 21:46:27 : Total Army Camp capacity: 76/200 (38%)
+2016-01-11 21:46:28 :  - No. of Archers: 76
+2016-01-11 21:46:37 : Time Idle: 00:02:57
+2016-01-11 21:46:38 : ====== Waiting for full army ======
+2016-01-11 21:46:50 : Training Troops & Spells
+2016-01-11 21:46:50 : Checking Army Camp...
+2016-01-11 21:46:51 : Total Army Camp capacity: 80/200 (40%)
+2016-01-11 21:46:53 :  - No. of Archers: 80
+2016-01-11 21:47:01 : Time Idle: 00:03:21
+2016-01-11 21:47:02 : ====== Waiting for full army ======
+2016-01-11 21:47:14 : Training Troops & Spells
+2016-01-11 21:47:14 : Checking Army Camp...
+2016-01-11 21:47:16 : Total Army Camp capacity: 84/200 (42%)
+2016-01-11 21:47:17 :  - No. of Archers: 84
+2016-01-11 21:47:26 : Time Idle: 00:03:45
+2016-01-11 21:47:26 : ====== Waiting for full army ======
+2016-01-11 21:47:38 : Training Troops & Spells
+2016-01-11 21:47:39 : Checking Army Camp...
+2016-01-11 21:47:40 : Total Army Camp capacity: 88/200 (44%)
+2016-01-11 21:47:42 :  - No. of Archers: 88
+2016-01-11 21:47:50 : Time Idle: 00:04:09
+2016-01-11 21:47:51 : ====== Waiting for full army ======
+2016-01-11 21:48:03 : Training Troops & Spells
+2016-01-11 21:48:03 : Checking Army Camp...
+2016-01-11 21:48:05 : Total Army Camp capacity: 92/200 (46%)
+2016-01-11 21:48:06 :  - No. of Archers: 92
+2016-01-11 21:48:15 : Time Idle: 00:04:33
+2016-01-11 21:48:15 : ====== Waiting for full army ======
+2016-01-11 21:48:27 : Training Troops & Spells
+2016-01-11 21:48:28 : Checking Army Camp...
+2016-01-11 21:48:29 : Total Army Camp capacity: 96/200 (48%)
+2016-01-11 21:48:30 :  - No. of Archers: 96
+2016-01-11 21:48:39 : Time Idle: 00:04:57
+2016-01-11 21:48:39 : ====== Waiting for full army ======
+2016-01-11 21:48:51 : Training Troops & Spells
+2016-01-11 21:48:52 : Checking Army Camp...
+2016-01-11 21:48:53 : Total Army Camp capacity: 99/200 (49%)
+2016-01-11 21:48:55 :  - No. of Archers: 99
+2016-01-11 21:49:04 : Time Idle: 00:05:22
+2016-01-11 21:49:05 : ====== Waiting for full army ======
+2016-01-11 21:49:17 : Training Troops & Spells
+2016-01-11 21:49:17 : Checking Army Camp...
+2016-01-11 21:49:19 : Total Army Camp capacity: 104/200 (52%)
+2016-01-11 21:49:20 :  - No. of Barbarians: 4
+2016-01-11 21:49:20 :  - No. of Archers: 100
+2016-01-11 21:49:30 : Time Idle: 00:05:48
+2016-01-11 21:49:30 : ====== Waiting for full army ======
+2016-01-11 21:49:42 : Collecting Resources
+2016-01-11 21:49:51 : Training Troops & Spells
+2016-01-11 21:49:52 : Checking Army Camp...
+2016-01-11 21:49:53 : Total Army Camp capacity: 111/200 (55%)
+2016-01-11 21:49:55 :  - No. of Barbarians: 11
+2016-01-11 21:49:55 :  - No. of Archers: 100
+2016-01-11 21:50:05 : Time Idle: 00:06:22
+2016-01-11 21:50:05 : ====== Waiting for full army ======
+2016-01-11 21:50:17 : Training Troops & Spells
+2016-01-11 21:50:18 : Checking Army Camp...
+2016-01-11 21:50:19 : Total Army Camp capacity: 116/200 (58%)
+2016-01-11 21:50:21 :  - No. of Barbarians: 16
+2016-01-11 21:50:21 :  - No. of Archers: 100
+2016-01-11 21:50:31 : Time Idle: 00:06:48
+2016-01-11 21:50:31 : ====== Waiting for full army ======
+2016-01-11 21:50:43 : Training Troops & Spells
+2016-01-11 21:50:44 : Checking Army Camp...
+2016-01-11 21:50:45 : Total Army Camp capacity: 120/200 (60%)
+2016-01-11 21:50:47 :  - No. of Barbarians: 22
+2016-01-11 21:50:47 :  - No. of Archers: 100
+2016-01-11 21:50:57 : Time Idle: 00:07:14
+2016-01-11 21:50:57 : ====== Waiting for full army ======
+2016-01-11 21:51:09 : Training Troops & Spells
+2016-01-11 21:51:10 : Checking Army Camp...
+2016-01-11 21:51:11 : Total Army Camp capacity: 127/200 (63%)
+2016-01-11 21:51:13 :  - No. of Barbarians: 27
+2016-01-11 21:51:13 :  - No. of Archers: 100
+2016-01-11 21:51:22 : Time Idle: 00:07:39
+2016-01-11 21:51:23 : ====== Waiting for full army ======
+2016-01-11 21:51:35 : Training Troops & Spells
+2016-01-11 21:51:35 : Checking Army Camp...
+2016-01-11 21:51:37 : Total Army Camp capacity: 132/200 (66%)
+2016-01-11 21:51:38 :  - No. of Barbarians: 32
+2016-01-11 21:51:38 :  - No. of Archers: 100
+2016-01-11 21:51:48 : Time Idle: 00:08:04
+2016-01-11 21:51:48 : ====== Waiting for full army ======
+2016-01-11 21:52:00 : Training Troops & Spells
+2016-01-11 21:52:01 : Checking Army Camp...
+2016-01-11 21:52:02 : Total Army Camp capacity: 136/200 (68%)
+2016-01-11 21:52:04 :  - No. of Barbarians: 36
+2016-01-11 21:52:04 :  - No. of Archers: 100
+2016-01-11 21:52:14 : Time Idle: 00:08:30
+2016-01-11 21:52:14 : ====== Waiting for full army ======
+2016-01-11 21:52:26 : Training Troops & Spells
+2016-01-11 21:52:27 : Checking Army Camp...
+2016-01-11 21:52:28 : Total Army Camp capacity: 143/200 (71%)
+2016-01-11 21:52:30 :  - No. of Barbarians: 43
+2016-01-11 21:52:30 :  - No. of Archers: 100
+2016-01-11 21:52:39 : Time Idle: 00:08:55
+2016-01-11 21:52:40 : ====== Waiting for full army ======
+2016-01-11 21:52:52 : Training Troops & Spells
+2016-01-11 21:52:52 : Checking Army Camp...
+2016-01-11 21:52:54 : Total Army Camp capacity: 147/200 (73%)
+2016-01-11 21:52:55 :  - No. of Barbarians: 47
+2016-01-11 21:52:55 :  - No. of Archers: 100
+2016-01-11 21:53:05 : Time Idle: 00:09:21
+2016-01-11 21:53:06 : ====== Waiting for full army ======
+2016-01-11 21:53:17 : Training Troops & Spells
+2016-01-11 21:53:18 : Checking Army Camp...
+2016-01-11 21:53:20 : Total Army Camp capacity: 152/200 (76%)
+2016-01-11 21:53:21 :  - No. of Barbarians: 52
+2016-01-11 21:53:21 :  - No. of Archers: 100
+2016-01-11 21:53:31 : Time Idle: 00:09:46
+2016-01-11 21:53:31 : ====== Waiting for full army ======
+2016-01-11 21:53:43 : Training Troops & Spells
+2016-01-11 21:53:44 : Checking Army Camp...
+2016-01-11 21:53:45 : Total Army Camp capacity: 156/200 (78%)
+2016-01-11 21:53:47 :  - No. of Barbarians: 58
+2016-01-11 21:53:47 :  - No. of Archers: 100
+2016-01-11 21:53:56 : Time Idle: 00:10:11
+2016-01-11 21:53:57 : ====== Waiting for full army ======
+2016-01-11 21:54:09 : Training Troops & Spells
+2016-01-11 21:54:09 : Checking Army Camp...
+2016-01-11 21:54:11 : Total Army Camp capacity: 163/200 (81%)
+2016-01-11 21:54:13 :  - No. of Barbarians: 63
+2016-01-11 21:54:13 :  - No. of Archers: 100
+2016-01-11 21:54:23 : Time Idle: 00:10:37
+2016-01-11 21:54:23 : ====== Waiting for full army ======
+2016-01-11 21:54:35 : Collecting Resources
+2016-01-11 21:54:44 : Training Troops & Spells
+2016-01-11 21:54:44 : Checking Army Camp...
+2016-01-11 21:54:49 : Total Army Camp capacity: 171/200 (85%)
+2016-01-11 21:54:50 :  - No. of Barbarians: 71
+2016-01-11 21:54:51 :  - No. of Archers: 100
+2016-01-11 21:55:01 : Time Idle: 00:11:15
+2016-01-11 21:55:01 : ====== Waiting for full army ======
+2016-01-11 21:55:13 : Training Troops & Spells
+2016-01-11 21:55:14 : Checking Army Camp...
+2016-01-11 21:55:15 : Total Army Camp capacity: 176/200 (88%)
+2016-01-11 21:55:16 :  - No. of Barbarians: 76
+2016-01-11 21:55:17 :  - No. of Archers: 100
+2016-01-11 21:55:27 : Time Idle: 00:11:41
+2016-01-11 21:55:27 : ====== Waiting for full army ======
+2016-01-11 21:55:39 : Training Troops & Spells
+2016-01-11 21:55:40 : Checking Army Camp...
+2016-01-11 21:55:41 : Total Army Camp capacity: 180/200 (90%)
+2016-01-11 21:55:43 :  - No. of Barbarians: 80
+2016-01-11 21:55:43 :  - No. of Archers: 100
+2016-01-11 21:55:53 : Time Idle: 00:12:07
+2016-01-11 21:55:53 : ====== Waiting for full army ======
+2016-01-11 21:56:05 : Training Troops & Spells
+2016-01-11 21:56:06 : Checking Army Camp...
+2016-01-11 21:56:07 : Total Army Camp capacity: 186/200 (93%)
+2016-01-11 21:56:09 :  - No. of Barbarians: 86
+2016-01-11 21:56:09 :  - No. of Archers: 100
+2016-01-11 21:56:19 : Time Idle: 00:12:32
+2016-01-11 21:56:19 : ====== Waiting for full army ======
+2016-01-11 21:56:31 : Training Troops & Spells
+2016-01-11 21:56:32 : Checking Army Camp...
+2016-01-11 21:56:33 : Total Army Camp capacity: 191/200 (95%)
+2016-01-11 21:56:34 :  - No. of Barbarians: 91
+2016-01-11 21:56:34 :  - No. of Archers: 100
+2016-01-11 21:56:44 : Time Idle: 00:12:57
+2016-01-11 21:56:44 : ====== Waiting for full army ======
+2016-01-11 21:56:56 : Training Troops & Spells
+2016-01-11 21:56:57 : Checking Army Camp...
+2016-01-11 21:56:58 : Total Army Camp capacity: 196/200 (98%)
+2016-01-11 21:57:00 :  - No. of Barbarians: 96
+2016-01-11 21:57:00 :  - No. of Archers: 100
+2016-01-11 21:57:10 : Time Idle: 00:13:23
+2016-01-11 21:57:10 : ====== Waiting for full army ======
+2016-01-11 21:57:22 : Training Troops & Spells
+2016-01-11 21:57:23 : Checking Army Camp...
+2016-01-11 21:57:24 : Total Army Camp capacity: 200/200 (100%)
+2016-01-11 21:57:26 :  - No. of Barbarians: 100
+2016-01-11 21:57:26 :  - No. of Archers: 100
+2016-01-11 21:57:27 : Your Army Camps are now Full
+2016-01-11 21:57:27 : Calculating Troops before Training new Army.
+2016-01-11 21:57:27 : Build troops before attacking.
+2016-01-11 21:57:49 : Going to Attack...
+2016-01-11 21:57:56 : ============== Searching For Dead Base ===============
+2016-01-11 21:57:56 : ~~~~~~~~~~~~~~~ SEARCH CONDITIONS ~~~~~~~~~~~~~~~~
+2016-01-11 21:57:56 : Meet: Gold + Elixir
+2016-01-11 21:57:56 : ~~~~~~~~~~~~~~ RESOURCE CONDITIONS ~~~~~~~~~~~~~~~
+2016-01-11 21:57:56 : Aim: [G+E]: 140000 [D]:    0 [T]: 0 for: Dead Base
+2016-01-11 21:57:56 : ~~~~~~~~~~~~~~~ ADVANCED SETTINGS ~~~~~~~~~~~~~~~~
+2016-01-11 21:57:56 :  Attack TH Outside Bam
+2016-01-11 21:57:56 : ==================================================
+2016-01-11 21:57:59 :   1> [G]:  54805 [E]: 278006 [D]:  102 [T]:25
+2016-01-11 21:57:59 :       Not a Dead Base
+2016-01-11 21:58:04 :   2> [G]:  66100 [E]:  87543 [D]:  295 [T]:23
+2016-01-11 21:58:04 :       Not a Dead Base
+2016-01-11 21:58:07 :   3> [G]:  26660 [E]:   9369 [D]:  N/A [T]:29
+2016-01-11 21:58:11 :   4> [G]:  80273 [E]: 169535 [D]:  111 [T]:21
+2016-01-11 21:58:12 :       Dead Base Found! 
+2016-01-11 21:58:12 : ================ Search Complete =================
+2016-01-11 21:58:20 : 2nd attempt to detect the TownHall!
+2016-01-11 21:58:27 : 3rd attempt to detect the TownHall!
+2016-01-11 21:58:31 : Checking Townhall location: Could not locate TH, skipping attack TH...
+2016-01-11 21:58:31 : Initiating attack for: Dead Base
+2016-01-11 21:58:36 : -*-Barbarians 100
+2016-01-11 21:58:36 : -*-Archers 100
+2016-01-11 21:58:36 : -*-Clan Castle 
+2016-01-11 21:58:36 : -*-Lightning Spells 1
+2016-01-11 21:58:36 : -*-Rage Spells 1
+2016-01-11 21:58:36 :  ====== Start Attack ====== 
+2016-01-11 21:58:38 : Calculating Smart Attack Strategy
+2016-01-11 21:58:39 : Calculated  (in 1.65 seconds) :
+2016-01-11 21:58:39 : Locating Mines, Collectors & Drills
+2016-01-11 21:58:45 : Located  (in 5.76 seconds) :
+2016-01-11 21:58:45 : [6] Gold Mines
+2016-01-11 21:58:45 : [6] Elixir Collectors
+2016-01-11 21:58:45 : [0] Dark Elixir Drill/s
+2016-01-11 21:58:45 : Attacking on three sides
+2016-01-11 21:58:47 : Dropping first wave of Barbarians 50
+2016-01-11 21:58:50 : Dropping first wave of Archers 50
+2016-01-11 21:58:53 : Dropping Clan Castle
+2016-01-11 21:58:54 : Dropping second wave of Barbarians 50
+2016-01-11 21:58:57 : Dropping second wave of Archers 50
+2016-01-11 21:59:02 : Dropping last 4  of Barbarians
+2016-01-11 21:59:03 : Dropping last 4  of Archers
+2016-01-11 21:59:05 : Dropping left over troops
+2016-01-11 21:59:05 : Checking remaining unused troops for: Dead Base
+2016-01-11 21:59:09 : -*-Lightning Spells 1
+2016-01-11 21:59:09 : -*-Rage Spells 1
+2016-01-11 21:59:17 : Checking remaining unused troops for: Dead Base
+2016-01-11 21:59:21 : -*-Lightning Spells 1
+2016-01-11 21:59:21 : -*-Rage Spells 1
+2016-01-11 21:59:30 : Finished Attacking, waiting for the battle to end
+2016-01-11 21:59:30 : Checking if the battle has finished
+2016-01-11 21:59:32 : detected [G]: 0 [E]: 85988 [DE]: 11 |  Exit in 18 sec.
+2016-01-11 21:59:32 : Gold & Elixir & DE change detected, waiting...
+2016-01-11 21:59:36 : detected [G]: 0 [E]: 85988 [DE]: 11 |  Exit in 18 sec.
+2016-01-11 21:59:37 : detected [G]: 0 [E]: 85988 [DE]: 11 |  Exit in 16 sec.
+2016-01-11 21:59:39 : detected [G]: 0 [E]: 85988 [DE]: 11 |  Exit in 14 sec.
+2016-01-11 21:59:41 : detected [G]: 0 [E]: 85988 [DE]: 11 |  Exit in 13 sec.
+2016-01-11 21:59:43 : detected [G]: 0 [E]: 85988 [DE]: 11 |  Exit in 11 sec.
+2016-01-11 21:59:45 : detected [G]: 0 [E]: 85988 [DE]: 11 |  Exit in  9 sec.
+2016-01-11 21:59:46 : detected [G]: 0 [E]: 85988 [DE]: 11 |  Exit in  7 sec.
+2016-01-11 21:59:48 : detected [G]: 0 [E]: 85988 [DE]: 11 |  Exit in  5 sec.
+2016-01-11 21:59:50 : detected [G]: 0 [E]: 85988 [DE]: 11 |  Exit in  4 sec.
+2016-01-11 21:59:52 : detected [G]: 0 [E]: 85988 [DE]: 11 |  Exit in  2 sec.
+2016-01-11 21:59:54 : detected [G]: 0 [E]: 85988 [DE]: 11 |  Exit in  0 sec.
+2016-01-11 21:59:55 : detected [G]: 0 [E]: 85988 [DE]: 11 |  Exit in  0 sec.
+2016-01-11 21:59:55 : Gold & Elixir & DE no change detected, exit
+2016-01-11 21:59:55 : Returning Home
+2016-01-11 22:00:01 : Loot: [G]: 80 273 [E]: 83 547 [DE]: 100 [T]: 14
+2016-01-11 22:00:01 : Bonus Percentage: 80%
+2016-01-11 22:00:01 : Bonus [G]: 2 960 out of 3 700 [E]: 2 960 out of 3 700
+2016-01-11 22:00:02 : Your league level is: Silver II
+2016-01-11 22:00:02 : Stars earned: 2
+2016-01-11 22:00:02 : Taking snapshot of your loot
+2016-01-11 22:00:10 : Trying to locate Main Screen
+2016-01-11 22:00:10 : Main Screen Located
+2016-01-11 22:00:12 : Village Report
+2016-01-11 22:00:12 : No. of Free/Total Builders: 1/4
+2016-01-11 22:00:12 :  [T]: 1 110
+2016-01-11 22:00:12 :  [G]: 1 181 094 [E]: 1 645 970 [D]: 9 139 [GEM]: 272
+2016-01-11 22:00:14 : Collecting Resources
+2016-01-11 22:00:25 : Training Troops & Spells
+2016-01-11 22:00:26 : Checking Army Camp...
+2016-01-11 22:00:27 : Total Army Camp capacity: 23/200 (11%)
+2016-01-11 22:00:29 :  - No. of Archers: 23
+2016-01-11 22:00:39 : Requesting Clan Castle Troops
+2016-01-11 22:00:47 : ====== Waiting for full army ======
+2016-01-11 22:00:59 : Training Troops & Spells
+2016-01-11 22:01:02 : Checking Army Camp...
+2016-01-11 22:01:04 : Total Army Camp capacity: 28/200 (14%)
+2016-01-11 22:01:05 :  - No. of Archers: 28
+2016-01-11 22:01:14 : Drop Trophies: Army is < 70% capacity
+2016-01-11 22:01:14 : You have selected the option to attack dead bases while dropping trophies
+2016-01-11 22:01:14 : Time Idle: 00:00:26
+2016-01-11 22:01:14 : ====== Waiting for full army ======
+2016-01-11 22:01:26 : Training Troops & Spells
+2016-01-11 22:01:27 : Checking Army Camp...
+2016-01-11 22:01:28 : Total Army Camp capacity: 32/200 (16%)
+2016-01-11 22:01:30 :  - No. of Archers: 32
+2016-01-11 22:01:38 : Drop Trophies: Army is < 70% capacity
+2016-01-11 22:01:38 : You have selected the option to attack dead bases while dropping trophies
+2016-01-11 22:01:39 : Time Idle: 00:00:51
+2016-01-11 22:01:39 : ====== Waiting for full army ======
+2016-01-11 22:01:51 : Training Troops & Spells
+2016-01-11 22:01:52 : Checking Army Camp...
+2016-01-11 22:01:53 : Total Army Camp capacity: 36/200 (18%)
+2016-01-11 22:01:54 :  - No. of Archers: 36
+2016-01-11 22:02:03 : Drop Trophies: Army is < 70% capacity
+2016-01-11 22:02:03 : You have selected the option to attack dead bases while dropping trophies
+2016-01-11 22:02:03 : Time Idle: 00:01:15
+2016-01-11 22:02:03 : ====== Waiting for full army ======
+2016-01-11 22:02:16 : Training Troops & Spells
+2016-01-11 22:02:16 : Checking Army Camp...
+2016-01-11 22:02:18 : Total Army Camp capacity: 40/200 (20%)
+2016-01-11 22:02:19 :  - No. of Archers: 40

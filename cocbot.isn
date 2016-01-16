@@ -1,0 +1,15 @@
+[ISNAUTOITSTUDIO]
+mainfile=I-Rrobot.run.au3
+compile_exename=I-Rrobot.run
+name=cocbot
+date=12.01.2016
+author=fredelec
+comment=
+studioversion=0.99 BETA
+version=1.0
+time=38503720
+projectopened=8
+lastusedfiles=\COCBot\GUI\MBR GUI Control Tab General.au3|\COCBot\MBR GUI Design.au3|\cocbot.isn|\COCBot\functions\Other\CheckVersion.au3|\COCBot\functions\Village\BotDetectFirstTime.au3|\COCBot\functions\Other\ADB.au3|\COCBot\functions\Main Screen\Close_OpenCoC.au3|\COCBot\functions\Main Screen\ZoomOut.au3|\COCBot\functions\Main Screen\checkMainScreen.au3|\COCBot\functions\Main Screen\Android.au3|\COCBot\MBR Functions.au3
+opened=
+opened_tabs=%projectdir%\I-Rrobot.run.au3|%projectdir%\COCBot\functions\Other\CheckVersion.au3|%projectdir%\COCBot\MBR GUI Design.au3|%projectdir%\COCBot\GUI\MBR GUI Control Tab General.au3|
+lastopendate=16.01.2016 00:57

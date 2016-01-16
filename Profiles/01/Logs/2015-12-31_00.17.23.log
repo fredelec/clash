@@ -1,0 +1,941 @@
+2015-12-31 00:17:24 :  My Bot v5.0.2 860x780 (BlueStacks) Powered by MyBot.run ~
+2015-12-31 00:17:24 : MyBot.run.exe Executable running on WIN_7  X64
+2015-12-31 00:17:24 : =================== Bot Start ====================
+2015-12-31 00:17:24 : -------------------------  Current Profile: 01 --------------------------
+2015-12-31 00:17:24 : Trying to locate Main Screen
+2015-12-31 00:17:24 : Zooming Out
+2015-12-31 00:17:27 : Main Screen Located
+2015-12-31 00:17:28 : Detecting your Buildings..
+2015-12-31 00:17:29 : Finding your Clan Level, wait..
+2015-12-31 00:17:38 : Please join a Clan ...
+2015-12-31 00:17:40 : Detecting your Village Theme
+2015-12-31 00:17:42 : Please wait for CoC restart......
+2015-12-31 00:17:42 : Waiting for Main Screen
+2015-12-31 00:17:51 : Zooming Out
+2015-12-31 00:17:55 : Snow Theme detected
+2015-12-31 00:18:03 : Language setting is English: Correct.
+2015-12-31 00:18:04 : Trying to locate Main Screen
+2015-12-31 00:18:04 : Main Screen Located
+2015-12-31 00:18:05 : Village Report
+2015-12-31 00:18:05 : No. of Free/Total Builders: 3/4
+2015-12-31 00:18:05 :  [T]: 1 279
+2015-12-31 00:18:06 :  [G]: 1 722 524 [E]: 778 443 [D]: 5 878 [GEM]: 142
+2015-12-31 00:18:07 : Collecting Resources
+2015-12-31 00:18:18 : Training Troops & Spells
+2015-12-31 00:18:19 : Checking Army Camp...
+2015-12-31 00:19:24 : Army Camp User input = 200
+2015-12-31 00:19:25 : Total Army Camp capacity: 2/200 (1%)
+2015-12-31 00:19:32 :  - No. of Archers: 2
+2015-12-31 00:19:32 :  - Barbarian King available
+2015-12-31 00:19:32 : Barracks and Spell factory status: 
+2015-12-31 00:19:32 : - Barracks detected: 4 | Available: 3 | Upgrading: 1
+2015-12-31 00:19:32 : - Dark Barracks detected: 1 | Available: 1 | Upgrading: 0
+2015-12-31 00:19:32 : - Spell factory detected: 1 | Available: 1 | Upgrading: 0
+2015-12-31 00:19:32 : - Dark Spell factory detected: 0 | Available: 0 | Upgrading: 0
+2015-12-31 00:19:34 : Remove previous training troops and start to train
+2015-12-31 00:19:57 : Drop Trophies: Army is < 70% capacity
+2015-12-31 00:19:57 : You have selected the option to attack dead bases while dropping trophies
+2015-12-31 00:19:57 : ====== Waiting for full army ======
+2015-12-31 00:20:09 : Training Troops & Spells
+2015-12-31 00:20:10 : Checking Army Camp...
+2015-12-31 00:20:11 : Total Army Camp capacity: 4/200 (2%)
+2015-12-31 00:20:12 :  - No. of Archers: 4
+2015-12-31 00:20:12 :  - Barbarian King available
+2015-12-31 00:20:22 : Drop Trophies: Army is < 70% capacity
+2015-12-31 00:20:22 : You have selected the option to attack dead bases while dropping trophies
+2015-12-31 00:20:23 : Time Idle: 00:00:25
+2015-12-31 00:20:23 : ====== Waiting for full army ======
+2015-12-31 00:20:35 : Training Troops & Spells
+2015-12-31 00:20:36 : Checking Army Camp...
+2015-12-31 00:20:37 : Total Army Camp capacity: 8/200 (4%)
+2015-12-31 00:20:39 :  - No. of Archers: 8
+2015-12-31 00:20:39 :  - Barbarian King available
+2015-12-31 00:20:48 : Drop Trophies: Army is < 70% capacity
+2015-12-31 00:20:48 : You have selected the option to attack dead bases while dropping trophies
+2015-12-31 00:20:49 : Time Idle: 00:00:51
+2015-12-31 00:20:49 : ====== Waiting for full army ======
+2015-12-31 00:21:01 : Training Troops & Spells
+2015-12-31 00:21:02 : Checking Army Camp...
+2015-12-31 00:21:03 : Total Army Camp capacity: 11/200 (5%)
+2015-12-31 00:21:05 :  - No. of Archers: 11
+2015-12-31 00:21:05 :  - Barbarian King available
+2015-12-31 00:21:15 : Drop Trophies: Army is < 70% capacity
+2015-12-31 00:21:15 : You have selected the option to attack dead bases while dropping trophies
+2015-12-31 00:21:15 : Time Idle: 00:01:18
+2015-12-31 00:21:16 : ====== Waiting for full army ======
+2015-12-31 00:21:28 : Training Troops & Spells
+2015-12-31 00:21:28 : Checking Army Camp...
+2015-12-31 00:21:30 : Total Army Camp capacity: 14/200 (7%)
+2015-12-31 00:21:31 :  - No. of Archers: 14
+2015-12-31 00:21:31 :  - Barbarian King available
+2015-12-31 00:21:40 : Drop Trophies: Army is < 70% capacity
+2015-12-31 00:21:40 : You have selected the option to attack dead bases while dropping trophies
+2015-12-31 00:21:41 : Time Idle: 00:01:43
+2015-12-31 00:21:41 : ====== Waiting for full army ======
+2015-12-31 00:21:53 : Training Troops & Spells
+2015-12-31 00:21:54 : Checking Army Camp...
+2015-12-31 00:21:55 : Total Army Camp capacity: 17/200 (8%)
+2015-12-31 00:21:57 :  - No. of Archers: 17
+2015-12-31 00:21:57 :  - Barbarian King available
+2015-12-31 00:22:06 : Drop Trophies: Army is < 70% capacity
+2015-12-31 00:22:06 : You have selected the option to attack dead bases while dropping trophies
+2015-12-31 00:22:07 : Time Idle: 00:02:09
+2015-12-31 00:22:07 : ====== Waiting for full army ======
+2015-12-31 00:22:19 : Training Troops & Spells
+2015-12-31 00:22:20 : Checking Army Camp...
+2015-12-31 00:22:21 : Total Army Camp capacity: 20/200 (10%)
+2015-12-31 00:22:23 :  - No. of Archers: 20
+2015-12-31 00:22:23 :  - Barbarian King available
+2015-12-31 00:22:32 : Drop Trophies: Army is < 70% capacity
+2015-12-31 00:22:32 : You have selected the option to attack dead bases while dropping trophies
+2015-12-31 00:22:33 : Time Idle: 00:02:34
+2015-12-31 00:22:33 : ====== Waiting for full army ======
+2015-12-31 00:22:45 : Training Troops & Spells
+2015-12-31 00:22:46 : Checking Army Camp...
+2015-12-31 00:22:47 : Total Army Camp capacity: 23/200 (11%)
+2015-12-31 00:22:49 :  - No. of Archers: 23
+2015-12-31 00:22:49 :  - Barbarian King available
+2015-12-31 00:22:58 : Drop Trophies: Army is < 70% capacity
+2015-12-31 00:22:58 : You have selected the option to attack dead bases while dropping trophies
+2015-12-31 00:22:59 : Time Idle: 00:03:00
+2015-12-31 00:22:59 : ====== Waiting for full army ======
+2015-12-31 00:23:11 : Training Troops & Spells
+2015-12-31 00:23:12 : Checking Army Camp...
+2015-12-31 00:23:13 : Total Army Camp capacity: 26/200 (13%)
+2015-12-31 00:23:15 :  - No. of Archers: 26
+2015-12-31 00:23:15 :  - Barbarian King available
+2015-12-31 00:23:24 : Drop Trophies: Army is < 70% capacity
+2015-12-31 00:23:24 : You have selected the option to attack dead bases while dropping trophies
+2015-12-31 00:23:25 : Time Idle: 00:03:25
+2015-12-31 00:23:25 : ====== Waiting for full army ======
+2015-12-31 00:23:37 : Training Troops & Spells
+2015-12-31 00:23:37 : Checking Army Camp...
+2015-12-31 00:23:39 : Total Army Camp capacity: 29/200 (14%)
+2015-12-31 00:23:41 :  - No. of Archers: 29
+2015-12-31 00:23:41 :  - Barbarian King available
+2015-12-31 00:23:50 : Drop Trophies: Army is < 70% capacity
+2015-12-31 00:23:50 : You have selected the option to attack dead bases while dropping trophies
+2015-12-31 00:23:50 : Time Idle: 00:03:51
+2015-12-31 00:23:50 : ====== Waiting for full army ======
+2015-12-31 00:24:03 : Training Troops & Spells
+2015-12-31 00:24:03 : Checking Army Camp...
+2015-12-31 00:24:05 : Total Army Camp capacity: 32/200 (16%)
+2015-12-31 00:24:06 :  - No. of Archers: 32
+2015-12-31 00:24:06 :  - Barbarian King available
+2015-12-31 00:24:14 : Drop Trophies: Army is < 70% capacity
+2015-12-31 00:24:14 : You have selected the option to attack dead bases while dropping trophies
+2015-12-31 00:24:15 : Time Idle: 00:04:15
+2015-12-31 00:24:15 : ====== Waiting for full army ======
+2015-12-31 00:24:27 : Training Troops & Spells
+2015-12-31 00:24:28 : Checking Army Camp...
+2015-12-31 00:24:29 : Total Army Camp capacity: 35/200 (17%)
+2015-12-31 00:24:31 :  - No. of Archers: 35
+2015-12-31 00:24:31 :  - Barbarian King available
+2015-12-31 00:24:38 : Drop Trophies: Army is < 70% capacity
+2015-12-31 00:24:38 : You have selected the option to attack dead bases while dropping trophies
+2015-12-31 00:24:39 : Time Idle: 00:04:39
+2015-12-31 00:24:39 : ====== Waiting for full army ======
+2015-12-31 00:24:51 : Collecting Resources
+2015-12-31 00:25:00 : Training Troops & Spells
+2015-12-31 00:25:01 : Checking Army Camp...
+2015-12-31 00:25:02 : Total Army Camp capacity: 39/200 (19%)
+2015-12-31 00:25:04 :  - No. of Archers: 39
+2015-12-31 00:25:04 :  - Barbarian King available
+2015-12-31 00:25:12 : Drop Trophies: Army is < 70% capacity
+2015-12-31 00:25:12 : You have selected the option to attack dead bases while dropping trophies
+2015-12-31 00:25:12 : Time Idle: 00:05:12
+2015-12-31 00:25:13 : ====== Waiting for full army ======
+2015-12-31 00:25:25 : Training Troops & Spells
+2015-12-31 00:25:25 : Checking Army Camp...
+2015-12-31 00:25:27 : Total Army Camp capacity: 42/200 (21%)
+2015-12-31 00:25:29 :  - No. of Archers: 42
+2015-12-31 00:25:29 :  - Barbarian King available
+2015-12-31 00:25:36 : Drop Trophies: Army is < 70% capacity
+2015-12-31 00:25:36 : You have selected the option to attack dead bases while dropping trophies
+2015-12-31 00:25:36 : Time Idle: 00:05:36
+2015-12-31 00:25:37 : ====== Waiting for full army ======
+2015-12-31 00:25:48 : Training Troops & Spells
+2015-12-31 00:25:49 : Checking Army Camp...
+2015-12-31 00:25:50 : Total Army Camp capacity: 44/200 (22%)
+2015-12-31 00:25:52 :  - No. of Archers: 45
+2015-12-31 00:25:52 :  - Barbarian King available
+2015-12-31 00:25:59 : Drop Trophies: Army is < 70% capacity
+2015-12-31 00:25:59 : You have selected the option to attack dead bases while dropping trophies
+2015-12-31 00:26:00 : Time Idle: 00:05:59
+2015-12-31 00:26:00 : ====== Waiting for full army ======
+2015-12-31 00:26:12 : Training Troops & Spells
+2015-12-31 00:26:13 : Checking Army Camp...
+2015-12-31 00:26:14 : Total Army Camp capacity: 47/200 (23%)
+2015-12-31 00:26:16 :  - No. of Archers: 47
+2015-12-31 00:26:16 :  - Barbarian King available
+2015-12-31 00:26:23 : Drop Trophies: Army is < 70% capacity
+2015-12-31 00:26:23 : You have selected the option to attack dead bases while dropping trophies
+2015-12-31 00:26:24 : Time Idle: 00:06:23
+2015-12-31 00:26:24 : ====== Waiting for full army ======
+2015-12-31 00:26:36 : Training Troops & Spells
+2015-12-31 00:26:37 : Checking Army Camp...
+2015-12-31 00:26:38 : Total Army Camp capacity: 50/200 (25%)
+2015-12-31 00:26:40 :  - No. of Archers: 50
+2015-12-31 00:26:40 :  - Barbarian King available
+2015-12-31 00:26:48 : Drop Trophies: Army is < 70% capacity
+2015-12-31 00:26:48 : You have selected the option to attack dead bases while dropping trophies
+2015-12-31 00:26:48 : Time Idle: 00:06:47
+2015-12-31 00:26:48 : ====== Waiting for full army ======
+2015-12-31 00:27:00 : Training Troops & Spells
+2015-12-31 00:27:01 : Checking Army Camp...
+2015-12-31 00:27:02 : Total Army Camp capacity: 53/200 (26%)
+2015-12-31 00:27:04 :  - No. of Archers: 53
+2015-12-31 00:27:04 :  - Barbarian King available
+2015-12-31 00:27:11 : Drop Trophies: Army is < 70% capacity
+2015-12-31 00:27:12 : You have selected the option to attack dead bases while dropping trophies
+2015-12-31 00:27:12 : Time Idle: 00:07:11
+2015-12-31 00:27:12 : ====== Waiting for full army ======
+2015-12-31 00:27:24 : Training Troops & Spells
+2015-12-31 00:27:25 : Checking Army Camp...
+2015-12-31 00:27:26 : Total Army Camp capacity: 56/200 (28%)
+2015-12-31 00:27:28 :  - No. of Archers: 56
+2015-12-31 00:27:28 :  - Barbarian King available
+2015-12-31 00:27:36 : Drop Trophies: Army is < 70% capacity
+2015-12-31 00:27:36 : You have selected the option to attack dead bases while dropping trophies
+2015-12-31 00:27:36 : Time Idle: 00:07:34
+2015-12-31 00:27:36 : ====== Waiting for full army ======
+2015-12-31 00:27:48 : Training Troops & Spells
+2015-12-31 00:27:49 : Checking Army Camp...
+2015-12-31 00:27:50 : Total Army Camp capacity: 59/200 (29%)
+2015-12-31 00:27:52 :  - No. of Archers: 59
+2015-12-31 00:27:52 :  - Barbarian King available
+2015-12-31 00:28:00 : Drop Trophies: Army is < 70% capacity
+2015-12-31 00:28:00 : You have selected the option to attack dead bases while dropping trophies
+2015-12-31 00:28:00 : Time Idle: 00:07:58
+2015-12-31 00:28:00 : ====== Waiting for full army ======
+2015-12-31 00:28:12 : Training Troops & Spells
+2015-12-31 00:28:13 : Checking Army Camp...
+2015-12-31 00:28:14 : Total Army Camp capacity: 62/200 (31%)
+2015-12-31 00:28:16 :  - No. of Archers: 62
+2015-12-31 00:28:16 :  - Barbarian King available
+2015-12-31 00:28:24 : Drop Trophies: Army is < 70% capacity
+2015-12-31 00:28:24 : You have selected the option to attack dead bases while dropping trophies
+2015-12-31 00:28:24 : Time Idle: 00:08:22
+2015-12-31 00:28:24 : ====== Waiting for full army ======
+2015-12-31 00:28:36 : Training Troops & Spells
+2015-12-31 00:28:37 : Checking Army Camp...
+2015-12-31 00:28:39 : Total Army Camp capacity: 65/200 (32%)
+2015-12-31 00:28:40 :  - No. of Archers: 65
+2015-12-31 00:28:40 :  - Barbarian King available
+2015-12-31 00:28:48 : Drop Trophies: Army is < 70% capacity
+2015-12-31 00:28:48 : You have selected the option to attack dead bases while dropping trophies
+2015-12-31 00:28:48 : Time Idle: 00:08:46
+2015-12-31 00:28:49 : ====== Waiting for full army ======
+2015-12-31 00:29:01 : Training Troops & Spells
+2015-12-31 00:29:02 : Checking Army Camp...
+2015-12-31 00:29:03 : Total Army Camp capacity: 68/200 (34%)
+2015-12-31 00:29:04 :  - No. of Archers: 68
+2015-12-31 00:29:05 :  - Barbarian King available
+2015-12-31 00:29:12 : Drop Trophies: Army is < 70% capacity
+2015-12-31 00:29:12 : You have selected the option to attack dead bases while dropping trophies
+2015-12-31 00:29:13 : Time Idle: 00:09:10
+2015-12-31 00:29:13 : ====== Waiting for full army ======
+2015-12-31 00:29:25 : Collecting Resources
+2015-12-31 00:29:33 : Training Troops & Spells
+2015-12-31 00:29:34 : Checking Army Camp...
+2015-12-31 00:29:36 : Total Army Camp capacity: 71/200 (35%)
+2015-12-31 00:29:37 :  - No. of Archers: 72
+2015-12-31 00:29:37 :  - Barbarian King available
+2015-12-31 00:29:45 : Drop Trophies: Army is < 70% capacity
+2015-12-31 00:29:45 : You have selected the option to attack dead bases while dropping trophies
+2015-12-31 00:29:46 : Time Idle: 00:09:43
+2015-12-31 00:29:46 : ====== Waiting for full army ======
+2015-12-31 00:29:58 : Training Troops & Spells
+2015-12-31 00:29:59 : Checking Army Camp...
+2015-12-31 00:30:00 : Total Army Camp capacity: 74/200 (37%)
+2015-12-31 00:30:02 :  - No. of Archers: 74
+2015-12-31 00:30:02 :  - Barbarian King available
+2015-12-31 00:30:09 : Drop Trophies: Army is < 70% capacity
+2015-12-31 00:30:09 : You have selected the option to attack dead bases while dropping trophies
+2015-12-31 00:30:09 : Time Idle: 00:10:06
+2015-12-31 00:30:09 : ====== Waiting for full army ======
+2015-12-31 00:30:21 : Training Troops & Spells
+2015-12-31 00:30:22 : Checking Army Camp...
+2015-12-31 00:30:23 : Total Army Camp capacity: 77/200 (38%)
+2015-12-31 00:30:25 :  - No. of Archers: 77
+2015-12-31 00:30:25 :  - Barbarian King available
+2015-12-31 00:30:32 : Drop Trophies: Army is < 70% capacity
+2015-12-31 00:30:32 : You have selected the option to attack dead bases while dropping trophies
+2015-12-31 00:30:33 : Time Idle: 00:10:29
+2015-12-31 00:30:33 : ====== Waiting for full army ======
+2015-12-31 00:30:45 : Training Troops & Spells
+2015-12-31 00:30:46 : Checking Army Camp...
+2015-12-31 00:30:47 : Total Army Camp capacity: 80/200 (40%)
+2015-12-31 00:30:49 :  - No. of Archers: 80
+2015-12-31 00:30:49 :  - Barbarian King available
+2015-12-31 00:30:56 : Drop Trophies: Army is < 70% capacity
+2015-12-31 00:30:56 : You have selected the option to attack dead bases while dropping trophies
+2015-12-31 00:30:57 : Time Idle: 00:10:53
+2015-12-31 00:30:57 : ====== Waiting for full army ======
+2015-12-31 00:31:09 : Training Troops & Spells
+2015-12-31 00:31:10 : Checking Army Camp...
+2015-12-31 00:31:11 : Total Army Camp capacity: 83/200 (41%)
+2015-12-31 00:31:13 :  - No. of Archers: 83
+2015-12-31 00:31:13 :  - Barbarian King available
+2015-12-31 00:31:20 : Drop Trophies: Army is < 70% capacity
+2015-12-31 00:31:20 : You have selected the option to attack dead bases while dropping trophies
+2015-12-31 00:31:21 : Time Idle: 00:11:17
+2015-12-31 00:31:21 : ====== Waiting for full army ======
+2015-12-31 00:31:33 : Training Troops & Spells
+2015-12-31 00:31:34 : Checking Army Camp...
+2015-12-31 00:31:35 : Total Army Camp capacity: 86/200 (43%)
+2015-12-31 00:31:37 :  - No. of Archers: 86
+2015-12-31 00:31:37 :  - Barbarian King available
+2015-12-31 00:31:44 : Drop Trophies: Army is < 70% capacity
+2015-12-31 00:31:44 : You have selected the option to attack dead bases while dropping trophies
+2015-12-31 00:31:45 : Time Idle: 00:11:40
+2015-12-31 00:31:45 : ====== Waiting for full army ======
+2015-12-31 00:31:57 : Training Troops & Spells
+2015-12-31 00:31:58 : Checking Army Camp...
+2015-12-31 00:31:59 : Total Army Camp capacity: 89/200 (44%)
+2015-12-31 00:32:01 :  - No. of Archers: 89
+2015-12-31 00:32:01 :  - Barbarian King available
+2015-12-31 00:32:08 : Drop Trophies: Army is < 70% capacity
+2015-12-31 00:32:08 : You have selected the option to attack dead bases while dropping trophies
+2015-12-31 00:32:09 : Time Idle: 00:12:04
+2015-12-31 00:32:09 : ====== Waiting for full army ======
+2015-12-31 00:32:21 : Training Troops & Spells
+2015-12-31 00:32:22 : Checking Army Camp...
+2015-12-31 00:32:23 : Total Army Camp capacity: 92/200 (46%)
+2015-12-31 00:32:25 :  - No. of Archers: 92
+2015-12-31 00:32:25 :  - Barbarian King available
+2015-12-31 00:32:32 : Drop Trophies: Army is < 70% capacity
+2015-12-31 00:32:32 : You have selected the option to attack dead bases while dropping trophies
+2015-12-31 00:32:33 : Time Idle: 00:12:28
+2015-12-31 00:32:33 : ====== Waiting for full army ======
+2015-12-31 00:32:45 : Training Troops & Spells
+2015-12-31 00:32:46 : Checking Army Camp...
+2015-12-31 00:32:47 : Total Army Camp capacity: 95/200 (47%)
+2015-12-31 00:32:49 :  - No. of Archers: 95
+2015-12-31 00:32:49 :  - Barbarian King available
+2015-12-31 00:32:56 : Drop Trophies: Army is < 70% capacity
+2015-12-31 00:32:56 : You have selected the option to attack dead bases while dropping trophies
+2015-12-31 00:32:57 : Time Idle: 00:12:52
+2015-12-31 00:32:57 : ====== Waiting for full army ======
+2015-12-31 00:33:09 : Training Troops & Spells
+2015-12-31 00:33:10 : Checking Army Camp...
+2015-12-31 00:33:11 : Total Army Camp capacity: 98/200 (49%)
+2015-12-31 00:33:12 :  - No. of Archers: 98
+2015-12-31 00:33:12 :  - Barbarian King available
+2015-12-31 00:33:20 : Drop Trophies: Army is < 70% capacity
+2015-12-31 00:33:20 : You have selected the option to attack dead bases while dropping trophies
+2015-12-31 00:33:21 : Time Idle: 00:13:15
+2015-12-31 00:33:21 : ====== Waiting for full army ======
+2015-12-31 00:33:33 : Training Troops & Spells
+2015-12-31 00:33:33 : Checking Army Camp...
+2015-12-31 00:33:35 : Total Army Camp capacity: 101/200 (50%)
+2015-12-31 00:33:37 :  - No. of Barbarians: 3
+2015-12-31 00:33:37 :  - No. of Archers: 98
+2015-12-31 00:33:37 :  - Barbarian King available
+2015-12-31 00:33:45 : Drop Trophies: Army is < 70% capacity
+2015-12-31 00:33:45 : You have selected the option to attack dead bases while dropping trophies
+2015-12-31 00:33:46 : Time Idle: 00:13:40
+2015-12-31 00:33:46 : ====== Waiting for full army ======
+2015-12-31 00:33:58 : Collecting Resources
+2015-12-31 00:34:08 : Training Troops & Spells
+2015-12-31 00:34:09 : Checking Army Camp...
+2015-12-31 00:34:10 : Total Army Camp capacity: 107/200 (53%)
+2015-12-31 00:34:12 :  - No. of Barbarians: 9
+2015-12-31 00:34:12 :  - No. of Archers: 98
+2015-12-31 00:34:12 :  - Barbarian King available
+2015-12-31 00:34:20 : Drop Trophies: Army is < 70% capacity
+2015-12-31 00:34:20 : You have selected the option to attack dead bases while dropping trophies
+2015-12-31 00:34:20 : Time Idle: 00:14:15
+2015-12-31 00:34:21 : ====== Waiting for full army ======
+2015-12-31 00:34:33 : Training Troops & Spells
+2015-12-31 00:34:33 : Checking Army Camp...
+2015-12-31 00:34:35 : Total Army Camp capacity: 110/200 (55%)
+2015-12-31 00:34:36 :  - No. of Barbarians: 12
+2015-12-31 00:34:36 :  - No. of Archers: 98
+2015-12-31 00:34:36 :  - Barbarian King available
+2015-12-31 00:34:44 : Drop Trophies: Army is < 70% capacity
+2015-12-31 00:34:44 : You have selected the option to attack dead bases while dropping trophies
+2015-12-31 00:34:44 : Time Idle: 00:14:38
+2015-12-31 00:34:45 : ====== Waiting for full army ======
+2015-12-31 00:34:57 : Training Troops & Spells
+2015-12-31 00:34:57 : Checking Army Camp...
+2015-12-31 00:34:59 : Total Army Camp capacity: 114/200 (57%)
+2015-12-31 00:35:00 :  - No. of Barbarians: 16
+2015-12-31 00:35:01 :  - No. of Archers: 98
+2015-12-31 00:35:01 :  - Barbarian King available
+2015-12-31 00:35:09 : Drop Trophies: Army is < 70% capacity
+2015-12-31 00:35:09 : You have selected the option to attack dead bases while dropping trophies
+2015-12-31 00:35:09 : Time Idle: 00:15:03
+2015-12-31 00:35:09 : ====== Waiting for full army ======
+2015-12-31 00:35:21 : Training Troops & Spells
+2015-12-31 00:35:22 : Checking Army Camp...
+2015-12-31 00:35:23 : Total Army Camp capacity: 118/200 (59%)
+2015-12-31 00:35:25 :  - No. of Barbarians: 20
+2015-12-31 00:35:25 :  - No. of Archers: 98
+2015-12-31 00:35:25 :  - Barbarian King available
+2015-12-31 00:35:33 : Drop Trophies: Army is < 70% capacity
+2015-12-31 00:35:33 : You have selected the option to attack dead bases while dropping trophies
+2015-12-31 00:35:34 : Time Idle: 00:15:27
+2015-12-31 00:35:34 : ====== Waiting for full army ======
+2015-12-31 00:35:46 : Training Troops & Spells
+2015-12-31 00:35:47 : Checking Army Camp...
+2015-12-31 00:35:48 : Total Army Camp capacity: 122/200 (61%)
+2015-12-31 00:35:50 :  - No. of Barbarians: 24
+2015-12-31 00:35:50 :  - No. of Archers: 98
+2015-12-31 00:35:50 :  - Barbarian King available
+2015-12-31 00:35:57 : Drop Trophies: Army is < 70% capacity
+2015-12-31 00:35:57 : You have selected the option to attack dead bases while dropping trophies
+2015-12-31 00:35:58 : Time Idle: 00:15:51
+2015-12-31 00:35:58 : ====== Waiting for full army ======
+2015-12-31 00:36:10 : Training Troops & Spells
+2015-12-31 00:36:11 : Checking Army Camp...
+2015-12-31 00:36:12 : Total Army Camp capacity: 125/200 (62%)
+2015-12-31 00:36:14 :  - No. of Barbarians: 27
+2015-12-31 00:36:14 :  - No. of Archers: 98
+2015-12-31 00:36:14 :  - Barbarian King available
+2015-12-31 00:36:22 : Drop Trophies: Army is < 70% capacity
+2015-12-31 00:36:22 : You have selected the option to attack dead bases while dropping trophies
+2015-12-31 00:36:22 : Time Idle: 00:16:15
+2015-12-31 00:36:23 : ====== Waiting for full army ======
+2015-12-31 00:36:35 : Training Troops & Spells
+2015-12-31 00:36:35 : Checking Army Camp...
+2015-12-31 00:36:37 : Total Army Camp capacity: 129/200 (64%)
+2015-12-31 00:36:38 :  - No. of Barbarians: 31
+2015-12-31 00:36:38 :  - No. of Archers: 98
+2015-12-31 00:36:38 :  - Barbarian King available
+2015-12-31 00:36:46 : Drop Trophies: Army is < 70% capacity
+2015-12-31 00:36:46 : You have selected the option to attack dead bases while dropping trophies
+2015-12-31 00:36:47 : Time Idle: 00:16:39
+2015-12-31 00:36:47 : ====== Waiting for full army ======
+2015-12-31 00:36:59 : Training Troops & Spells
+2015-12-31 00:37:00 : Checking Army Camp...
+2015-12-31 00:37:01 : Total Army Camp capacity: 132/200 (66%)
+2015-12-31 00:37:03 :  - No. of Barbarians: 34
+2015-12-31 00:37:03 :  - No. of Archers: 98
+2015-12-31 00:37:03 :  - Barbarian King available
+2015-12-31 00:37:11 : Drop Trophies: Army is < 70% capacity
+2015-12-31 00:37:11 : You have selected the option to attack dead bases while dropping trophies
+2015-12-31 00:37:11 : Time Idle: 00:17:04
+2015-12-31 00:37:12 : ====== Waiting for full army ======
+2015-12-31 00:37:24 : Training Troops & Spells
+2015-12-31 00:37:25 : Checking Army Camp...
+2015-12-31 00:37:26 : Total Army Camp capacity: 136/200 (68%)
+2015-12-31 00:37:28 :  - No. of Barbarians: 38
+2015-12-31 00:37:28 :  - No. of Archers: 98
+2015-12-31 00:37:28 :  - Barbarian King available
+2015-12-31 00:37:36 : Drop Trophies: Army is < 70% capacity
+2015-12-31 00:37:36 : You have selected the option to attack dead bases while dropping trophies
+2015-12-31 00:37:36 : Time Idle: 00:17:28
+2015-12-31 00:37:36 : ====== Waiting for full army ======
+2015-12-31 00:37:48 : Training Troops & Spells
+2015-12-31 00:37:49 : Checking Army Camp...
+2015-12-31 00:37:50 : Total Army Camp capacity: 140/200 (70%)
+2015-12-31 00:37:52 :  - No. of Barbarians: 42
+2015-12-31 00:37:52 :  - No. of Archers: 98
+2015-12-31 00:37:52 :  - Barbarian King available
+2015-12-31 00:38:00 : Trophy Count : 1279
+2015-12-31 00:38:00 : Dropping Trophies to 900
+2015-12-31 00:38:02 : Going to Attack...
+2015-12-31 00:38:08 : Identification of your troops:
+2015-12-31 00:38:08 : Initiating attack for: Drop Trophy
+2015-12-31 00:38:14 : -*-Barbarians 44
+2015-12-31 00:38:14 : -*-Archers 98
+2015-12-31 00:38:14 : -*-King 
+2015-12-31 00:38:15 :   1> [G]:  18151 [E]: 185131 [D]:  408 [T]:23
+2015-12-31 00:38:17 : Deploying King
+2015-12-31 00:38:19 :  Trophy loss = 24
+2015-12-31 00:38:19 : Returning Home
+2015-12-31 00:38:26 : Trophy Count : 1255
+2015-12-31 00:38:26 : Dropping Trophies to 900
+2015-12-31 00:38:28 : Going to Attack...
+2015-12-31 00:38:34 : Identification of your troops:
+2015-12-31 00:38:34 : Initiating attack for: Drop Trophy
+2015-12-31 00:38:40 : -*-Barbarians 47
+2015-12-31 00:38:40 : -*-Archers 98
+2015-12-31 00:38:40 : -*-King 
+2015-12-31 00:38:40 :   1> [G]:  33728 [E]:  20632 [D]:  143 [T]:18
+2015-12-31 00:38:42 : Deploying King
+2015-12-31 00:38:44 :  Trophy loss = 27
+2015-12-31 00:38:44 : Returning Home
+2015-12-31 00:38:51 : Trophy Count : 1228
+2015-12-31 00:38:51 : Dropping Trophies to 900
+2015-12-31 00:38:53 : Going to Attack...
+2015-12-31 00:39:00 : Identification of your troops:
+2015-12-31 00:39:00 : Initiating attack for: Drop Trophy
+2015-12-31 00:39:05 : -*-Barbarians 50
+2015-12-31 00:39:05 : -*-Archers 98
+2015-12-31 00:39:05 : -*-King 
+2015-12-31 00:39:06 :   1> [G]:  44456 [E]:  38641 [D]:    0 [T]:20
+2015-12-31 00:39:07 : Deploying King
+2015-12-31 00:39:09 :  Trophy loss = 26
+2015-12-31 00:39:09 : Returning Home
+2015-12-31 00:39:16 : Trophy Count : 1202
+2015-12-31 00:39:16 : Dropping Trophies to 900
+2015-12-31 00:39:19 : Going to Attack...
+2015-12-31 00:39:25 : Identification of your troops:
+2015-12-31 00:39:25 : Initiating attack for: Drop Trophy
+2015-12-31 00:39:31 : -*-Barbarians 53
+2015-12-31 00:39:31 : -*-Archers 98
+2015-12-31 00:39:31 : -*-King 
+2015-12-31 00:39:32 :   1> [G]:  19361 [E]:   4662 [D]:  234 [T]:24
+2015-12-31 00:39:33 : Deploying King
+2015-12-31 00:39:35 :  Trophy loss = 23
+2015-12-31 00:39:35 : Returning Home
+2015-12-31 00:39:42 : Trophy Count : 1179
+2015-12-31 00:39:42 : Dropping Trophies to 900
+2015-12-31 00:39:44 : Going to Attack...
+2015-12-31 00:39:51 : Identification of your troops:
+2015-12-31 00:39:51 : Initiating attack for: Drop Trophy
+2015-12-31 00:39:56 : -*-Barbarians 56
+2015-12-31 00:39:56 : -*-Archers 98
+2015-12-31 00:39:56 : -*-King 
+2015-12-31 00:39:57 :   1> [G]:  17832 [E]:  57641 [D]:  N/A [T]:26
+2015-12-31 00:39:59 : Deploying King
+2015-12-31 00:40:01 :  Trophy loss = 22
+2015-12-31 00:40:01 : Returning Home
+2015-12-31 00:40:08 : Trophy Count : 1157
+2015-12-31 00:40:08 : Dropping Trophies to 900
+2015-12-31 00:40:10 : Going to Attack...
+2015-12-31 00:40:16 : Identification of your troops:
+2015-12-31 00:40:16 : Initiating attack for: Drop Trophy
+2015-12-31 00:40:22 : -*-Barbarians 59
+2015-12-31 00:40:22 : -*-Archers 98
+2015-12-31 00:40:22 : -*-King 
+2015-12-31 00:40:22 :   1> [G]:  47080 [E]:  64767 [D]:   20 [T]:29
+2015-12-31 00:40:24 : Deploying King
+2015-12-31 00:40:26 :  Trophy loss = 20
+2015-12-31 00:40:26 : Returning Home
+2015-12-31 00:40:33 : Trophy Count : 1137
+2015-12-31 00:40:33 : Dropping Trophies to 900
+2015-12-31 00:40:35 : Going to Attack...
+2015-12-31 00:40:42 : Identification of your troops:
+2015-12-31 00:40:42 : Initiating attack for: Drop Trophy
+2015-12-31 00:40:48 : -*-Barbarians 62
+2015-12-31 00:40:48 : -*-Archers 98
+2015-12-31 00:40:48 : -*-King 
+2015-12-31 00:40:49 :   1> [G]:  34379 [E]:  40298 [D]:   51 [T]:22
+2015-12-31 00:40:50 : Deploying King
+2015-12-31 00:40:53 :  Trophy loss = 25
+2015-12-31 00:40:53 : Returning Home
+2015-12-31 00:41:00 : Trophy Count : 1112
+2015-12-31 00:41:00 : Dropping Trophies to 900
+2015-12-31 00:41:02 : Going to Attack...
+2015-12-31 00:41:08 : Identification of your troops:
+2015-12-31 00:41:08 : Initiating attack for: Drop Trophy
+2015-12-31 00:41:14 : -*-Barbarians 66
+2015-12-31 00:41:14 : -*-Archers 98
+2015-12-31 00:41:14 : -*-King 
+2015-12-31 00:41:15 :   1> [G]:  67775 [E]:  42186 [D]:  N/A [T]:31
+2015-12-31 00:41:17 : Deploying King
+2015-12-31 00:41:19 :  Trophy loss = 18
+2015-12-31 00:41:19 : Returning Home
+2015-12-31 00:41:26 : Trophy Count : 1094
+2015-12-31 00:41:26 : Dropping Trophies to 900
+2015-12-31 00:41:28 : Going to Attack...
+2015-12-31 00:41:35 : Identification of your troops:
+2015-12-31 00:41:35 : Initiating attack for: Drop Trophy
+2015-12-31 00:41:40 : -*-Barbarians 69
+2015-12-31 00:41:40 : -*-Archers 98
+2015-12-31 00:41:40 : -*-King 
+2015-12-31 00:41:41 :   1> [G]:  45215 [E]:  75118 [D]:   56 [T]:14
+2015-12-31 00:41:42 : Deploying King
+2015-12-31 00:41:44 :  Trophy loss = 30
+2015-12-31 00:41:44 : Returning Home
+2015-12-31 00:41:51 : Trophy Count : 1064
+2015-12-31 00:41:51 : Dropping Trophies to 900
+2015-12-31 00:41:53 : Going to Attack...
+2015-12-31 00:42:00 : Identification of your troops:
+2015-12-31 00:42:00 : Initiating attack for: Drop Trophy
+2015-12-31 00:42:05 : -*-Barbarians 72
+2015-12-31 00:42:05 : -*-Archers 98
+2015-12-31 00:42:05 : -*-King 
+2015-12-31 00:42:06 :   1> [G]:  45508 [E]:  30529 [D]:  126 [T]:27
+2015-12-31 00:42:07 : Deploying King
+2015-12-31 00:42:09 :  Trophy loss = 21
+2015-12-31 00:42:09 : Returning Home
+2015-12-31 00:42:16 : Trophy Count : 1043
+2015-12-31 00:42:16 : Dropping Trophies to 900
+2015-12-31 00:42:19 : Going to Attack...
+2015-12-31 00:42:25 : Identification of your troops:
+2015-12-31 00:42:25 : Initiating attack for: Drop Trophy
+2015-12-31 00:42:31 : -*-Barbarians 75
+2015-12-31 00:42:31 : -*-Archers 98
+2015-12-31 00:42:31 : -*-King 
+2015-12-31 00:42:32 :   1> [G]:  13186 [E]:  48491 [D]:   78 [T]:31
+2015-12-31 00:42:33 : Deploying King
+2015-12-31 00:42:36 :  Trophy loss = 19
+2015-12-31 00:42:36 : Returning Home
+2015-12-31 00:42:43 : Trophy Count : 1024
+2015-12-31 00:42:43 : Dropping Trophies to 900
+2015-12-31 00:42:45 : Going to Attack...
+2015-12-31 00:42:51 : Identification of your troops:
+2015-12-31 00:42:51 : Initiating attack for: Drop Trophy
+2015-12-31 00:42:57 : -*-Barbarians 78
+2015-12-31 00:42:57 : -*-Archers 98
+2015-12-31 00:42:57 : -*-King 
+2015-12-31 00:42:58 :   1> [G]:  27432 [E]:  48828 [D]:  248 [T]:32
+2015-12-31 00:43:00 : Deploying King
+2015-12-31 00:43:02 :  Trophy loss = 18
+2015-12-31 00:43:02 : Returning Home
+2015-12-31 00:43:09 : Trophy Count : 1006
+2015-12-31 00:43:09 : Dropping Trophies to 900
+2015-12-31 00:43:11 : Going to Attack...
+2015-12-31 00:43:18 : Identification of your troops:
+2015-12-31 00:43:18 : Initiating attack for: Drop Trophy
+2015-12-31 00:43:24 : -*-Barbarians 81
+2015-12-31 00:43:24 : -*-Archers 98
+2015-12-31 00:43:24 : -*-King 
+2015-12-31 00:43:25 :   1> [G]: 117896 [E]: 190032 [D]:  616 [T]:27
+2015-12-31 00:43:25 : Found [G]: 117 896 [E]: 190 032 [T]: 27
+2015-12-31 00:43:28 : Deploying King
+2015-12-31 00:43:30 :  Trophy loss = 21
+2015-12-31 00:43:30 : Returning Home
+2015-12-31 00:43:37 : Trophy Count : 985
+2015-12-31 00:43:37 : Dropping Trophies to 900
+2015-12-31 00:43:39 : Going to Attack...
+2015-12-31 00:43:46 : Identification of your troops:
+2015-12-31 00:43:46 : Initiating attack for: Drop Trophy
+2015-12-31 00:43:52 : -*-Barbarians 83
+2015-12-31 00:43:52 : -*-Archers 98
+2015-12-31 00:43:52 : -*-King 
+2015-12-31 00:43:53 :   1> [G]: 146354 [E]: 110983 [D]:  N/A [T]:22
+2015-12-31 00:43:53 : Found [G]: 146 354 [E]: 110 983 [T]: 22
+2015-12-31 00:43:56 : Deploying King
+2015-12-31 00:43:58 :  Trophy loss = 24
+2015-12-31 00:43:58 : Returning Home
+2015-12-31 00:44:06 : Trophy Count : 961
+2015-12-31 00:44:06 : Dropping Trophies to 900
+2015-12-31 00:44:08 : Going to Attack...
+2015-12-31 00:44:14 : Identification of your troops:
+2015-12-31 00:44:14 : Initiating attack for: Drop Trophy
+2015-12-31 00:44:20 : -*-Barbarians 83
+2015-12-31 00:44:20 : -*-Archers 100
+2015-12-31 00:44:20 : -*-King 
+2015-12-31 00:44:20 :   1> [G]:  20316 [E]:   6354 [D]:  N/A [T]:31
+2015-12-31 00:44:22 : Deploying King
+2015-12-31 00:44:24 :  Trophy loss = 18
+2015-12-31 00:44:24 : Returning Home
+2015-12-31 00:44:31 : Trophy Count : 943
+2015-12-31 00:44:31 : Dropping Trophies to 900
+2015-12-31 00:44:33 : Going to Attack...
+2015-12-31 00:44:40 : Identification of your troops:
+2015-12-31 00:44:40 : Initiating attack for: Drop Trophy
+2015-12-31 00:44:46 : -*-Barbarians 85
+2015-12-31 00:44:46 : -*-Archers 100
+2015-12-31 00:44:46 : -*-King 
+2015-12-31 00:44:47 :   1> [G]: 105518 [E]:  68000 [D]:  N/A [T]:35
+2015-12-31 00:44:47 : Found [G]: 105 518 [E]: 68 000 [T]: 35
+2015-12-31 00:44:50 : Deploying King
+2015-12-31 00:44:52 :  Trophy loss = 15
+2015-12-31 00:44:52 : Returning Home
+2015-12-31 00:44:59 : Trophy Count : 928
+2015-12-31 00:44:59 : Dropping Trophies to 900
+2015-12-31 00:45:01 : Going to Attack...
+2015-12-31 00:45:08 : Identification of your troops:
+2015-12-31 00:45:08 : Initiating attack for: Drop Trophy
+2015-12-31 00:45:14 : -*-Barbarians 87
+2015-12-31 00:45:14 : -*-Archers 100
+2015-12-31 00:45:14 : -*-King 
+2015-12-31 00:45:15 :   1> [G]:   5527 [E]:  12520 [D]:  N/A [T]:34
+2015-12-31 00:45:16 : Deploying King
+2015-12-31 00:45:18 :  Trophy loss = 15
+2015-12-31 00:45:18 : Returning Home
+2015-12-31 00:45:25 : Trophy Count : 913
+2015-12-31 00:45:25 : Dropping Trophies to 900
+2015-12-31 00:45:27 : Going to Attack...
+2015-12-31 00:45:34 : Identification of your troops:
+2015-12-31 00:45:34 : Initiating attack for: Drop Trophy
+2015-12-31 00:45:40 : -*-Barbarians 89
+2015-12-31 00:45:40 : -*-Archers 100
+2015-12-31 00:45:40 : -*-King 
+2015-12-31 00:45:41 :   1> [G]: 149537 [E]: 216338 [D]:  N/A [T]:33
+2015-12-31 00:45:41 : Found [G]: 149 537 [E]: 216 338 [T]: 33
+2015-12-31 00:45:44 : Deploying King
+2015-12-31 00:45:46 :  Trophy loss = 15
+2015-12-31 00:45:46 : Returning Home
+2015-12-31 00:45:54 : Trophy Count : 898
+2015-12-31 00:45:54 : Trophy Drop Complete
+2015-12-31 00:45:54 : Time Idle: 00:25:46
+2015-12-31 00:45:54 : ====== Waiting for full army ======
+2015-12-31 00:46:06 : Training Troops & Spells
+2015-12-31 00:46:07 : Checking Army Camp...
+2015-12-31 00:46:09 : Total Army Camp capacity: 193/200 (96%)
+2015-12-31 00:46:10 :  - No. of Barbarians: 93
+2015-12-31 00:46:10 :  - No. of Archers: 100
+2015-12-31 00:46:11 :  - Barbarian King available
+2015-12-31 00:46:20 : Time Idle: 00:26:11
+2015-12-31 00:46:20 : ====== Waiting for full army ======
+2015-12-31 00:46:32 : Collecting Resources
+2015-12-31 00:46:42 : Training Troops & Spells
+2015-12-31 00:46:42 : Checking Army Camp...
+2015-12-31 00:46:44 : Total Army Camp capacity: 197/200 (98%)
+2015-12-31 00:46:45 :  - No. of Barbarians: 97
+2015-12-31 00:46:45 :  - No. of Archers: 100
+2015-12-31 00:46:45 :  - Barbarian King available
+2015-12-31 00:46:54 : Time Idle: 00:26:46
+2015-12-31 00:46:55 : ====== Waiting for full army ======
+2015-12-31 00:47:07 : Training Troops & Spells
+2015-12-31 00:47:07 : Checking Army Camp...
+2015-12-31 00:47:09 : Total Army Camp capacity: 199/200 (99%)
+2015-12-31 00:47:10 :  - No. of Barbarians: 99
+2015-12-31 00:47:10 :  - No. of Archers: 100
+2015-12-31 00:47:10 :  - Barbarian King available
+2015-12-31 00:47:12 : Your Army Camps are now Full
+2015-12-31 00:47:12 : Calculating Troops before Training new Army.
+2015-12-31 00:47:12 : Build troops before attacking.
+2015-12-31 00:47:32 : Going to Attack...
+2015-12-31 00:47:39 : ============== Searching For Dead Base ===============
+2015-12-31 00:47:39 : ~~~~~~~~~~~~~~~ SEARCH CONDITIONS ~~~~~~~~~~~~~~~~
+2015-12-31 00:47:39 : Meet: Gold + Elixir
+2015-12-31 00:47:39 : ~~~~~~~~~~~~~~ RESOURCE CONDITIONS ~~~~~~~~~~~~~~~
+2015-12-31 00:47:39 : Aim: [G+E]: 140000 [D]:    0 [T]: 0 for: Dead Base
+2015-12-31 00:47:39 : ~~~~~~~~~~~~~~~ ADVANCED SETTINGS ~~~~~~~~~~~~~~~~
+2015-12-31 00:47:39 :  Attack TH Outside Bam
+2015-12-31 00:47:39 : ==================================================
+2015-12-31 00:47:44 :   1> [G]:  38084 [E]: 146151 [D]:  220 [T]:36
+2015-12-31 00:47:44 :       Not a Dead Base
+2015-12-31 00:47:48 :   2> [G]:  35743 [E]:  27009 [D]:   11 [T]:40
+2015-12-31 00:47:53 :   3> [G]:  64804 [E]: 172312 [D]:  216 [T]:37
+2015-12-31 00:47:53 :       Not a Dead Base
+2015-12-31 00:48:01 :   4> [G]:  72523 [E]: 311558 [D]: 2002 [T]:31
+2015-12-31 00:48:01 :       Not a Dead Base
+2015-12-31 00:48:06 :   5> [G]: 255773 [E]: 242711 [D]:  544 [T]:28
+2015-12-31 00:48:06 :       Not a Dead Base
+2015-12-31 00:48:10 :   6> [G]:  40842 [E]:  43363 [D]:  273 [T]:40
+2015-12-31 00:48:13 :   7> [G]:  11375 [E]:  12397 [D]:  N/A [T]:39
+2015-12-31 00:48:19 :   8> [G]:  65627 [E]: 113662 [D]:   33 [T]:38
+2015-12-31 00:48:19 :       Not a Dead Base
+2015-12-31 00:48:22 :   9> [G]:  59240 [E]:  32050 [D]:   58 [T]:39
+2015-12-31 00:48:25 :  10> [G]:  64000 [E]:  56000 [D]:  N/A [T]:30
+2015-12-31 00:48:29 :  11> [G]:  47724 [E]:  20402 [D]:  N/A [T]:32
+2015-12-31 00:48:32 :  12> [G]:  41115 [E]:  30756 [D]:  N/A [T]:40
+2015-12-31 00:48:35 :  13> [G]:  11578 [E]:  42556 [D]:  N/A [T]:38
+2015-12-31 00:48:39 :  14> [G]:  32413 [E]:  27687 [D]:  433 [T]:40
+2015-12-31 00:48:43 :  15> [G]:  74777 [E]:  37778 [D]:  N/A [T]:28
+2015-12-31 00:48:47 :  16> [G]:  18318 [E]:  43608 [D]:  308 [T]:40
+2015-12-31 00:48:52 :  17> [G]: 207142 [E]:  96519 [D]:  N/A [T]:37
+2015-12-31 00:48:52 :       Not a Dead Base
+2015-12-31 00:48:58 :  18> [G]:  73307 [E]:  67143 [D]:  645 [T]:32
+2015-12-31 00:48:58 :       Not a Dead Base
+2015-12-31 00:49:02 :  19> [G]:  65216 [E]:  56379 [D]:  166 [T]:41
+2015-12-31 00:49:05 : Aim:           [G+E]: 136000 [D]:    0 [T]: 0 for: Dead Base
+2015-12-31 00:49:05 :  20> [G]:  22351 [E]:  18800 [D]:  N/A [T]:40
+2015-12-31 00:49:10 :  21> [G]: 129917 [E]:  67716 [D]:  367 [T]:41
+2015-12-31 00:49:10 :       Not a Dead Base
+2015-12-31 00:49:16 :  22> [G]: 234857 [E]:  96388 [D]:   26 [T]:43
+2015-12-31 00:49:16 :       Not a Dead Base
+2015-12-31 00:49:20 :  23> [G]:  55620 [E]:  27608 [D]:   48 [T]:36
+2015-12-31 00:49:24 :  24> [G]: 190878 [E]: 161026 [D]:  N/A [T]:30
+2015-12-31 00:49:24 :       Dead Base Found! 
+2015-12-31 00:49:24 : ================ Search Complete =================
+2015-12-31 00:49:35 : 2nd attempt to detect the TownHall!
+2015-12-31 00:49:43 : 3rd attempt to detect the TownHall!
+2015-12-31 00:49:47 : Checking Townhall location: Could not locate TH, skipping attack TH...
+2015-12-31 00:49:47 : Initiating attack for: Dead Base
+2015-12-31 00:49:53 : -*-Barbarians 99
+2015-12-31 00:49:53 : -*-Archers 100
+2015-12-31 00:49:53 : -*-King 
+2015-12-31 00:49:53 :  ====== Start Attack ====== 
+2015-12-31 00:49:55 : Calculating Smart Attack Strategy
+2015-12-31 00:49:57 : Calculated  (in 1.78 seconds) :
+2015-12-31 00:49:57 : Locating Mines, Collectors & Drills
+2015-12-31 00:50:09 : Located  (in 12.33 seconds) :
+2015-12-31 00:50:09 : [9] Gold Mines
+2015-12-31 00:50:09 : [5] Elixir Collectors
+2015-12-31 00:50:09 : [0] Dark Elixir Drill/s
+2015-12-31 00:50:09 : Attacking on three sides
+2015-12-31 00:50:12 : Dropping first wave of Barbarians 50
+2015-12-31 00:50:15 : Dropping first wave of Archers 50
+2015-12-31 00:50:19 : Dropping second wave of Barbarians 50
+2015-12-31 00:50:22 : Dropping second wave of Archers 50
+2015-12-31 00:50:25 : Dropping King
+2015-12-31 00:50:28 : Dropping left over troops
+2015-12-31 00:50:28 : Checking remaining unused troops for: Dead Base
+2015-12-31 00:50:41 : Checking remaining unused troops for: Dead Base
+2015-12-31 00:50:55 : Waiting 10 seconds before activating Hero abilities
+2015-12-31 00:51:05 : Activating King's power
+2015-12-31 00:51:05 : Finished Attacking, waiting for the battle to end
+2015-12-31 00:51:05 : Checking if the battle has finished
+2015-12-31 00:51:06 : detected [G]: 0 [E]: 0 [DE]:  |  Exit in 18 sec.
+2015-12-31 00:51:06 : Gold & Elixir & DE = 0, end battle 
+2015-12-31 00:51:07 : Gold & Elixir & DE = 0, end battle 
+2015-12-31 00:51:08 : Returning Home
+2015-12-31 00:51:13 : Loot: [G]: 190 878 [E]: 161 026 [T]: 30
+2015-12-31 00:51:13 : Bonus Percentage: 100%
+2015-12-31 00:51:13 : Bonus [G]: 2 600 [E]: 2 600
+2015-12-31 00:51:14 : Your league level is: Silver III
+2015-12-31 00:51:14 : Stars earned: 3
+2015-12-31 00:51:14 : Taking snapshot of your loot
+2015-12-31 00:51:22 : Trying to locate Main Screen
+2015-12-31 00:51:23 : Main Screen Located
+2015-12-31 00:51:24 : Village Report
+2015-12-31 00:51:24 : No. of Free/Total Builders: 3/4
+2015-12-31 00:51:24 :  [T]: 928
+2015-12-31 00:51:25 :  [G]: 1 903 550 [E]: 888 803 [D]: 5 886 [GEM]: 142
+2015-12-31 00:51:26 : Collecting Resources
+2015-12-31 00:51:38 : Training Troops & Spells
+2015-12-31 00:51:38 : Checking Army Camp...
+2015-12-31 00:51:40 : Total Army Camp capacity: 27/200 (13%)
+2015-12-31 00:51:42 :  - No. of Archers: 27
+2015-12-31 00:51:42 :  - Barbarian King available
+2015-12-31 00:51:57 : ====== Waiting for full army ======
+2015-12-31 00:52:09 : Training Troops & Spells
+2015-12-31 00:52:10 : Checking Army Camp...
+2015-12-31 00:52:11 : Total Army Camp capacity: 31/200 (15%)
+2015-12-31 00:52:14 :  - No. of Archers: 31
+2015-12-31 00:52:14 :  - Barbarian King available
+2015-12-31 00:52:23 : Time Idle: 00:00:25
+2015-12-31 00:52:23 : ====== Waiting for full army ======
+2015-12-31 00:52:35 : Training Troops & Spells
+2015-12-31 00:52:36 : Checking Army Camp...
+2015-12-31 00:52:37 : Total Army Camp capacity: 34/200 (17%)
+2015-12-31 00:52:39 :  - No. of Archers: 34
+2015-12-31 00:52:39 :  - Barbarian King available
+2015-12-31 00:52:47 : Time Idle: 00:00:49
+2015-12-31 00:52:47 : ====== Waiting for full army ======
+2015-12-31 00:52:59 : Training Troops & Spells
+2015-12-31 00:53:00 : Checking Army Camp...
+2015-12-31 00:53:01 : Total Army Camp capacity: 37/200 (18%)
+2015-12-31 00:53:03 :  - No. of Archers: 37
+2015-12-31 00:53:03 :  - Barbarian King available
+2015-12-31 00:53:11 : Time Idle: 00:01:12
+2015-12-31 00:53:11 : ====== Waiting for full army ======
+2015-12-31 00:53:23 : Training Troops & Spells
+2015-12-31 00:53:24 : Checking Army Camp...
+2015-12-31 00:53:25 : Total Army Camp capacity: 40/200 (20%)
+2015-12-31 00:53:27 :  - No. of Archers: 40
+2015-12-31 00:53:27 :  - Barbarian King available
+2015-12-31 00:53:35 : Time Idle: 00:01:36
+2015-12-31 00:53:35 : ====== Waiting for full army ======
+2015-12-31 00:53:47 : Training Troops & Spells
+2015-12-31 00:53:48 : Checking Army Camp...
+2015-12-31 00:53:49 : Total Army Camp capacity: 42/200 (21%)
+2015-12-31 00:53:50 :  - No. of Archers: 43
+2015-12-31 00:53:50 :  - Barbarian King available
+2015-12-31 00:53:58 : Time Idle: 00:01:59
+2015-12-31 00:53:59 : ====== Waiting for full army ======
+2015-12-31 00:54:11 : Training Troops & Spells
+2015-12-31 00:54:11 : Checking Army Camp...
+2015-12-31 00:54:12 : Total Army Camp capacity: 45/200 (22%)
+2015-12-31 00:54:14 :  - No. of Archers: 45
+2015-12-31 00:54:14 :  - Barbarian King available
+2015-12-31 00:54:21 : Time Idle: 00:02:22
+2015-12-31 00:54:22 : ====== Waiting for full army ======
+2015-12-31 00:54:34 : Training Troops & Spells
+2015-12-31 00:54:35 : Checking Army Camp...
+2015-12-31 00:54:36 : Total Army Camp capacity: 48/200 (24%)
+2015-12-31 00:54:38 :  - No. of Archers: 48
+2015-12-31 00:54:38 :  - Barbarian King available
+2015-12-31 00:54:46 : Time Idle: 00:02:47
+2015-12-31 00:54:46 : ====== Waiting for full army ======
+2015-12-31 00:54:58 : Training Troops & Spells
+2015-12-31 00:54:59 : Checking Army Camp...
+2015-12-31 00:55:00 : Total Army Camp capacity: 51/200 (25%)
+2015-12-31 00:55:02 :  - No. of Archers: 51
+2015-12-31 00:55:02 :  - Barbarian King available
+2015-12-31 00:55:10 : Time Idle: 00:03:10
+2015-12-31 00:55:10 : ====== Waiting for full army ======
+2015-12-31 00:55:22 : Training Troops & Spells
+2015-12-31 00:55:23 : Checking Army Camp...
+2015-12-31 00:55:24 : Total Army Camp capacity: 54/200 (27%)
+2015-12-31 00:55:25 :  - No. of Archers: 54
+2015-12-31 00:55:25 :  - Barbarian King available
+2015-12-31 00:55:33 : Time Idle: 00:03:33
+2015-12-31 00:55:33 : ====== Waiting for full army ======
+2015-12-31 00:55:45 : Collecting Resources
+2015-12-31 00:55:55 : Training Troops & Spells
+2015-12-31 00:55:56 : Checking Army Camp...
+2015-12-31 00:55:57 : Total Army Camp capacity: 58/200 (29%)
+2015-12-31 00:55:59 :  - No. of Archers: 58
+2015-12-31 00:55:59 :  - Barbarian King available
+2015-12-31 00:56:07 : Time Idle: 00:04:07
+2015-12-31 00:56:07 : ====== Waiting for full army ======
+2015-12-31 00:56:19 : Training Troops & Spells
+2015-12-31 00:56:20 : Checking Army Camp...
+2015-12-31 00:56:21 : Total Army Camp capacity: 61/200 (30%)
+2015-12-31 00:56:23 :  - No. of Archers: 61
+2015-12-31 00:56:23 :  - Barbarian King available
+2015-12-31 00:56:31 : Time Idle: 00:04:31
+2015-12-31 00:56:32 : ====== Waiting for full army ======
+2015-12-31 00:56:44 : Training Troops & Spells
+2015-12-31 00:56:44 : Checking Army Camp...
+2015-12-31 00:56:46 : Total Army Camp capacity: 64/200 (32%)
+2015-12-31 00:56:47 :  - No. of Archers: 64
+2015-12-31 00:56:47 :  - Barbarian King available
+2015-12-31 00:56:55 : Time Idle: 00:04:54
+2015-12-31 00:56:55 : ====== Waiting for full army ======
+2015-12-31 00:57:07 : Training Troops & Spells
+2015-12-31 00:57:08 : Checking Army Camp...
+2015-12-31 00:57:09 : Total Army Camp capacity: 66/200 (33%)
+2015-12-31 00:57:11 :  - No. of Archers: 67
+2015-12-31 00:57:11 :  - Barbarian King available
+2015-12-31 00:57:20 : Time Idle: 00:05:19
+2015-12-31 00:57:20 : ====== Waiting for full army ======
+2015-12-31 00:57:32 : Training Troops & Spells
+2015-12-31 00:57:33 : Checking Army Camp...
+2015-12-31 00:57:34 : Total Army Camp capacity: 69/200 (34%)
+2015-12-31 00:57:35 :  - No. of Archers: 69
+2015-12-31 00:57:35 :  - Barbarian King available
+2015-12-31 00:57:44 : Time Idle: 00:05:42
+2015-12-31 00:57:44 : ====== Waiting for full army ======
+2015-12-31 00:57:56 : Training Troops & Spells
+2015-12-31 00:57:56 : Checking Army Camp...
+2015-12-31 00:57:58 : Total Army Camp capacity: 72/200 (36%)
+2015-12-31 00:58:00 :  - No. of Archers: 72
+2015-12-31 00:58:00 :  - Barbarian King available
+2015-12-31 00:58:08 : Time Idle: 00:06:06
+2015-12-31 00:58:08 : ====== Waiting for full army ======
+2015-12-31 00:58:20 : Training Troops & Spells
+2015-12-31 00:58:21 : Checking Army Camp...
+2015-12-31 00:58:22 : Total Army Camp capacity: 75/200 (37%)
+2015-12-31 00:58:24 :  - No. of Archers: 75
+2015-12-31 00:58:24 :  - Barbarian King available
+2015-12-31 00:58:32 : Time Idle: 00:06:30
+2015-12-31 00:58:32 : ====== Waiting for full army ======
+2015-12-31 00:58:44 : Training Troops & Spells
+2015-12-31 00:58:45 : Checking Army Camp...
+2015-12-31 00:58:47 : Total Army Camp capacity: 78/200 (39%)
+2015-12-31 00:58:48 :  - No. of Archers: 78
+2015-12-31 00:58:48 :  - Barbarian King available
+2015-12-31 00:58:56 : Time Idle: 00:06:54
+2015-12-31 00:58:56 : ====== Waiting for full army ======
+2015-12-31 00:59:08 : Training Troops & Spells
+2015-12-31 00:59:09 : Checking Army Camp...
+2015-12-31 00:59:10 : Total Army Camp capacity: 81/200 (40%)
+2015-12-31 00:59:12 :  - No. of Archers: 81
+2015-12-31 00:59:12 :  - Barbarian King available
+2015-12-31 00:59:20 : Time Idle: 00:07:18
+2015-12-31 00:59:20 : ====== Waiting for full army ======
+2015-12-31 00:59:32 : Training Troops & Spells
+2015-12-31 00:59:33 : Checking Army Camp...
+2015-12-31 00:59:34 : Total Army Camp capacity: 84/200 (42%)
+2015-12-31 00:59:36 :  - No. of Archers: 84
+2015-12-31 00:59:36 :  - Barbarian King available
+2015-12-31 00:59:44 : Time Idle: 00:07:42
+2015-12-31 00:59:45 : ====== Waiting for full army ======
+2015-12-31 00:59:57 : Training Troops & Spells
+2015-12-31 00:59:57 : Checking Army Camp...
+2015-12-31 00:59:59 : Total Army Camp capacity: 87/200 (43%)
+2015-12-31 01:00:00 :  - No. of Archers: 87
+2015-12-31 01:00:00 :  - Barbarian King available
+2015-12-31 01:00:08 : Time Idle: 00:08:05
+2015-12-31 01:00:08 : ====== Waiting for full army ======
+2015-12-31 01:00:20 : Collecting Resources
+2015-12-31 01:00:28 : Training Troops & Spells
+2015-12-31 01:00:29 : Checking Army Camp...
+2015-12-31 01:00:30 : Total Army Camp capacity: 91/200 (45%)
+2015-12-31 01:00:32 :  - No. of Archers: 91
+2015-12-31 01:00:32 :  - Barbarian King available
+2015-12-31 01:00:40 : Time Idle: 00:08:37
+2015-12-31 01:00:40 : ====== Waiting for full army ======
+2015-12-31 01:00:53 : Waiting for Main Screen
+2015-12-31 01:00:54 : Training Troops & Spells
+2015-12-31 01:00:55 : Checking Army Camp...
+2015-12-31 01:00:56 : Total Army Camp capacity: 94/200 (47%)
+2015-12-31 01:00:58 :  - No. of Archers: 94
+2015-12-31 01:00:58 :  - Barbarian King available
+2015-12-31 01:01:05 : Time Idle: 00:09:02
+2015-12-31 01:01:05 : ====== Waiting for full army ======
+2015-12-31 01:01:17 : Training Troops & Spells
+2015-12-31 01:01:22 : Cannot find train Window.
+2015-12-31 01:01:22 : Checking Army Camp...

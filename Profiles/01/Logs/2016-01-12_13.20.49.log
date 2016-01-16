@@ -1,0 +1,63 @@
+2016-01-12 13:20:49 :  My Bot v5.0.2 860x780 (BlueStacks) Powered by MyBot.run ~
+2016-01-12 13:20:50 : MyBot.run.exe Executable running on WIN_7  X64
+2016-01-12 13:20:50 : =================== Bot Start ====================
+2016-01-12 13:20:50 : -------------------------  Current Profile: 01 --------------------------
+2016-01-12 13:20:50 : Trying to locate Main Screen
+2016-01-12 13:20:50 : Zooming Out
+2016-01-12 13:20:53 : Main Screen Located
+2016-01-12 13:20:54 : Detecting your Buildings..
+2016-01-12 13:20:55 : Finding your Clan Level, wait..
+2016-01-12 13:21:00 : Found Clan Level: 1
+2016-01-12 13:21:02 : Detecting your Village Theme
+2016-01-12 13:21:02 : Snow Theme detected
+2016-01-12 13:21:03 : Language setting is English: Correct.
+2016-01-12 13:21:04 : Trying to locate Main Screen
+2016-01-12 13:21:04 : Main Screen Located
+2016-01-12 13:21:06 : Village Report
+2016-01-12 13:21:06 : No. of Free/Total Builders: 3/3
+2016-01-12 13:21:06 :  [T]: 917
+2016-01-12 13:21:06 :  [G]: 1 733 255 [E]: 2 307 129 [D]: 2 726 [GEM]: 509
+2016-01-12 13:21:08 : Collecting Resources
+2016-01-12 13:21:19 : Training Troops & Spells
+2016-01-12 13:21:20 : Checking Army Camp...
+2016-01-12 13:21:21 : Total Army Camp capacity: 170/170 (100%)
+2016-01-12 13:21:28 :  - No. of Barbarians: 85
+2016-01-12 13:21:28 :  - No. of Archers: 85
+2016-01-12 13:21:28 : Barracks and Spell factory status: 
+2016-01-12 13:21:28 : - Barracks detected: 4 | Available: 4 | Upgrading: 0
+2016-01-12 13:21:28 : - Dark Barracks detected: 0 | Available: 0 | Upgrading: 0
+2016-01-12 13:21:28 : - Spell factory detected: 1 | Available: 1 | Upgrading: 0
+2016-01-12 13:21:28 : - Dark Spell factory detected: 0 | Available: 0 | Upgrading: 0
+2016-01-12 13:21:29 : Your Army Camps are now Full
+2016-01-12 13:21:29 : Calculating Troops before Training new Army.
+2016-01-12 13:21:29 : Remove previous training troops and start to train
+2016-01-12 13:21:29 : Build troops before attacking.
+2016-01-12 13:21:52 : Requesting Clan Castle Troops
+2016-01-12 13:22:01 : Going to Attack...
+2016-01-12 13:22:07 : ============== Searching For Dead Base ===============
+2016-01-12 13:22:07 : ~~~~~~~~~~~~~~~ SEARCH CONDITIONS ~~~~~~~~~~~~~~~~
+2016-01-12 13:22:07 : Meet: Gold or Elixir
+2016-01-12 13:22:07 : ~~~~~~~~~~~~~~ RESOURCE CONDITIONS ~~~~~~~~~~~~~~~
+2016-01-12 13:22:07 : Aim: [G]: 100000 [E]:      0 [D]:    0 [T]: 0 for: Dead Base
+2016-01-12 13:22:07 : ~~~~~~~~~~~~~~~ ADVANCED SETTINGS ~~~~~~~~~~~~~~~~
+2016-01-12 13:22:07 :  Attack TH Outside Bam
+2016-01-12 13:22:07 : ==================================================
+2016-01-12 13:22:10 :   1> [G]:  46618 [E]:  32365 [D]:  117 [T]:38
+2016-01-12 13:22:10 :       Not a Dead Base
+2016-01-12 13:22:16 :   2> [G]:  91098 [E]:  85846 [D]:  812 [T]:30
+2016-01-12 13:22:16 :       Not a Dead Base
+2016-01-12 13:22:21 :   3> [G]: 193817 [E]: 193708 [D]:  100 [T]:36
+2016-01-12 13:22:21 :       Not a Dead Base
+2016-01-12 13:22:30 :   4> [G]:  72328 [E]:  24855 [D]:   20 [T]:25
+2016-01-12 13:22:30 :       Not a Dead Base
+2016-01-12 13:22:35 :   5> [G]: 131454 [E]: 290193 [D]: 1236 [T]:35
+2016-01-12 13:22:35 :       Not a Dead Base
+2016-01-12 13:22:41 :   6> [G]: 301355 [E]: 276526 [D]: 1327 [T]:22
+2016-01-12 13:22:41 :       Dead Base Found! 
+2016-01-12 13:22:41 : ================ Search Complete =================
+2016-01-12 13:22:41 : Checking Townhall location: TH is outside, Attacking Townhall!
+2016-01-12 13:22:41 : Initiating attack for: Dead Base
+2016-01-12 13:22:47 : -*-Barbarians 85
+2016-01-12 13:22:47 : -*-Archers 85
+2016-01-12 13:22:47 :  ====== Start Attack ====== 
+2016-01-12 13:22:49 : Calculating Smart Attack Strategy

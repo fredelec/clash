@@ -1,0 +1,2267 @@
+2015-12-30 18:24:28 :  My Bot v5.0.2 860x780 (BlueStacks) Powered by MyBot.run ~
+2015-12-30 18:24:28 : MyBot.run.exe Executable running on WIN_7  X64
+2015-12-30 18:24:28 : =================== Bot Start ====================
+2015-12-30 18:24:28 : -------------------------  Current Profile: 01 --------------------------
+2015-12-30 18:24:28 : Trying to locate Main Screen
+2015-12-30 18:24:28 : Zooming Out
+2015-12-30 18:24:32 : Main Screen Located
+2015-12-30 18:24:33 : Detecting your Buildings..
+2015-12-30 18:24:34 : Finding your Clan Level, wait..
+2015-12-30 18:24:42 : Please join a Clan ...
+2015-12-30 18:24:43 : Detecting your Village Theme
+2015-12-30 18:24:44 : Snow Theme detected
+2015-12-30 18:24:55 : Language setting is English: Correct.
+2015-12-30 18:24:56 : Trying to locate Main Screen
+2015-12-30 18:24:56 : Main Screen Located
+2015-12-30 18:24:58 : Village Report
+2015-12-30 18:24:58 : No. of Free/Total Builders: 2/3
+2015-12-30 18:24:58 :  [T]: 890
+2015-12-30 18:24:58 :  [G]: 1 349 371 [E]: 959 903 [D]: 740 [GEM]: 463
+2015-12-30 18:25:00 : Collecting Resources
+2015-12-30 18:25:12 : Training Troops & Spells
+2015-12-30 18:25:12 : Checking Army Camp...
+2015-12-30 18:25:14 : Total Army Camp capacity: 150/150 (100%)
+2015-12-30 18:25:20 :  - No. of Barbarians: 75
+2015-12-30 18:25:21 :  - No. of Archers: 75
+2015-12-30 18:25:21 : Barracks and Spell factory status: 
+2015-12-30 18:25:21 : - Barracks detected: 4 | Available: 4 | Upgrading: 0
+2015-12-30 18:25:21 : - Dark Barracks detected: 0 | Available: 0 | Upgrading: 0
+2015-12-30 18:25:21 : - Spell factory detected: 1 | Available: 1 | Upgrading: 0
+2015-12-30 18:25:21 : - Dark Spell factory detected: 0 | Available: 0 | Upgrading: 0
+2015-12-30 18:25:22 : Your Army Camps are now Full
+2015-12-30 18:25:22 : Calculating Troops before Training new Army.
+2015-12-30 18:25:22 : Remove previous training troops and start to train
+2015-12-30 18:25:22 : Build troops before attacking.
+2015-12-30 18:25:53 : Going to Attack...
+2015-12-30 18:25:59 : ============== Searching For Dead Base ===============
+2015-12-30 18:25:59 : ~~~~~~~~~~~~~~~ SEARCH CONDITIONS ~~~~~~~~~~~~~~~~
+2015-12-30 18:25:59 : Meet: Gold + Elixir
+2015-12-30 18:25:59 : ~~~~~~~~~~~~~~ RESOURCE CONDITIONS ~~~~~~~~~~~~~~~
+2015-12-30 18:25:59 : Aim: [G+E]: 140000 [D]:    0 [T]: 0 for: Dead Base
+2015-12-30 18:25:59 : ~~~~~~~~~~~~~~~ ADVANCED SETTINGS ~~~~~~~~~~~~~~~~
+2015-12-30 18:26:00 :  Attack TH Outside Bam
+2015-12-30 18:26:00 : ==================================================
+2015-12-30 18:26:01 :   1> [G]:   9620 [E]:  88749 [D]:  N/A [T]:36
+2015-12-30 18:26:09 :   2> [G]:  47388 [E]: 164897 [D]:  255 [T]:30
+2015-12-30 18:26:09 :       Not a Dead Base
+2015-12-30 18:26:13 :   3> [G]:  19083 [E]:  11898 [D]:   47 [T]:24
+2015-12-30 18:26:16 :   4> [G]:  21107 [E]: 104099 [D]:  N/A [T]:27
+2015-12-30 18:26:20 :   5> [G]:   8898 [E]:  19108 [D]:   22 [T]:34
+2015-12-30 18:26:24 :   6> [G]:   8326 [E]:   1593 [D]:  N/A [T]:37
+2015-12-30 18:26:28 :   7> [G]:  25742 [E]: 110725 [D]:  406 [T]:38
+2015-12-30 18:26:33 :   8> [G]: 142728 [E]: 105804 [D]:  456 [T]:35
+2015-12-30 18:26:33 :       Not a Dead Base
+2015-12-30 18:26:37 :   9> [G]:  96699 [E]:  50176 [D]:  247 [T]:39
+2015-12-30 18:26:37 :       Not a Dead Base
+2015-12-30 18:26:42 :  10> [G]:  17535 [E]: 251902 [D]:  173 [T]:33
+2015-12-30 18:26:42 :       Not a Dead Base
+2015-12-30 18:26:47 :  11> [G]:  25372 [E]: 114550 [D]:  N/A [T]:34
+2015-12-30 18:26:52 :  12> [G]:  54246 [E]:   7738 [D]:  N/A [T]:42
+2015-12-30 18:26:55 :  13> [G]:  23104 [E]:  15796 [D]:  N/A [T]:43
+2015-12-30 18:27:01 :  14> [G]:  71881 [E]: 117335 [D]:  120 [T]:40
+2015-12-30 18:27:01 :       Not a Dead Base
+2015-12-30 18:27:05 :  15> [G]:   7829 [E]:  16024 [D]:  N/A [T]:36
+2015-12-30 18:27:09 :  16> [G]:  42148 [E]:  48815 [D]:  N/A [T]:35
+2015-12-30 18:27:12 :  17> [G]:  18367 [E]:   2725 [D]:  133 [T]:43
+2015-12-30 18:27:15 :  18> [G]:   8000 [E]:   7600 [D]:  N/A [T]:43
+2015-12-30 18:27:23 :  19> [G]:  13115 [E]:  13454 [D]:  N/A [T]:41
+2015-12-30 18:27:26 : Aim:           [G+E]: 136000 [D]:    0 [T]: 0 for: Dead Base
+2015-12-30 18:27:26 :  20> [G]:   8667 [E]:  53251 [D]:  345 [T]:38
+2015-12-30 18:27:32 :  21> [G]: 153754 [E]: 135653 [D]:  N/A [T]:34
+2015-12-30 18:27:32 :       Not a Dead Base
+2015-12-30 18:27:36 :  22> [G]: 311953 [E]: 268554 [D]: 1200 [T]:30
+2015-12-30 18:27:36 :       Dead Base Found! 
+2015-12-30 18:27:36 : ================ Search Complete =================
+2015-12-30 18:27:45 : 2nd attempt to detect the TownHall!
+2015-12-30 18:27:51 : 3rd attempt to detect the TownHall!
+2015-12-30 18:27:54 : Checking Townhall location: Could not locate TH, skipping attack TH...
+2015-12-30 18:27:54 : Initiating attack for: Dead Base
+2015-12-30 18:27:59 : -*-Barbarians 75
+2015-12-30 18:27:59 : -*-Archers 75
+2015-12-30 18:27:59 :  ====== Start Attack ====== 
+2015-12-30 18:28:01 : Calculating Smart Attack Strategy
+2015-12-30 18:28:03 : Calculated  (in 1.9 seconds) :
+2015-12-30 18:28:03 : Locating Mines, Collectors & Drills
+2015-12-30 18:28:24 : Located  (in 21.35 seconds) :
+2015-12-30 18:28:24 : [5] Gold Mines
+2015-12-30 18:28:24 : [5] Elixir Collectors
+2015-12-30 18:28:24 : [0] Dark Elixir Drill/s
+2015-12-30 18:28:24 : Attacking on three sides
+2015-12-30 18:28:26 : Dropping first wave of Barbarians 38
+2015-12-30 18:28:29 : Dropping first wave of Archers 38
+2015-12-30 18:28:31 : Dropping second wave of Barbarians 38
+2015-12-30 18:28:33 : Dropping second wave of Archers 38
+2015-12-30 18:28:38 : Dropping left over troops
+2015-12-30 18:28:38 : Checking remaining unused troops for: Dead Base
+2015-12-30 18:28:50 : Checking remaining unused troops for: Dead Base
+2015-12-30 18:29:02 : Finished Attacking, waiting for the battle to end
+2015-12-30 18:29:02 : Checking if the battle has finished
+2015-12-30 18:29:04 : detected [G]: 272088 [E]: 188926 [DE]:  |  Exit in 18 sec.
+2015-12-30 18:29:04 : Gold & Elixir & DE change detected, waiting...
+2015-12-30 18:29:07 : detected [G]:  [E]:  [DE]:  |  Exit now 
+2015-12-30 18:29:07 : Gold & Elixir & DE = 0, end battle 
+2015-12-30 18:29:08 : Battle has finished
+2015-12-30 18:29:08 : Returning Home
+2015-12-30 18:29:13 : Loot: [G]: 39 865 [E]: 79 628 [DE]: 173 [T]: 10
+2015-12-30 18:29:13 : Bonus Percentage: 27%
+2015-12-30 18:29:13 : Bonus [G]: 702 out of 2 600 [E]: 702 out of 2 600
+2015-12-30 18:29:14 : Your league level is: Silver III
+2015-12-30 18:29:14 : Stars earned: 1
+2015-12-30 18:29:14 : Taking snapshot of your loot
+2015-12-30 18:29:22 : Trying to locate Main Screen
+2015-12-30 18:29:22 : Main Screen Located
+2015-12-30 18:29:24 : Village Report
+2015-12-30 18:29:24 : No. of Free/Total Builders: 2/3
+2015-12-30 18:29:24 :  [T]: 900
+2015-12-30 18:29:24 :  [G]: 1 381 585 [E]: 1 043 404 [D]: 913 [GEM]: 463
+2015-12-30 18:29:26 : Collecting Resources
+2015-12-30 18:29:37 : Training Troops & Spells
+2015-12-30 18:29:37 : Checking Army Camp...
+2015-12-30 18:29:39 : Total Army Camp capacity: 33/150 (22%)
+2015-12-30 18:29:40 :  - No. of Archers: 33
+2015-12-30 18:29:57 : ====== Waiting for full army ======
+2015-12-30 18:30:09 : Training Troops & Spells
+2015-12-30 18:30:10 : Checking Army Camp...
+2015-12-30 18:30:11 : Total Army Camp capacity: 38/150 (25%)
+2015-12-30 18:30:13 :  - No. of Archers: 38
+2015-12-30 18:30:23 : Time Idle: 00:00:25
+2015-12-30 18:30:23 : ====== Waiting for full army ======
+2015-12-30 18:30:35 : Training Troops & Spells
+2015-12-30 18:30:36 : Checking Army Camp...
+2015-12-30 18:30:37 : Total Army Camp capacity: 42/150 (28%)
+2015-12-30 18:30:38 :  - No. of Archers: 42
+2015-12-30 18:30:47 : Time Idle: 00:00:49
+2015-12-30 18:30:47 : ====== Waiting for full army ======
+2015-12-30 18:30:59 : Training Troops & Spells
+2015-12-30 18:31:00 : Checking Army Camp...
+2015-12-30 18:31:01 : Total Army Camp capacity: 46/150 (30%)
+2015-12-30 18:31:02 :  - No. of Archers: 46
+2015-12-30 18:31:11 : Time Idle: 00:01:13
+2015-12-30 18:31:12 : ====== Waiting for full army ======
+2015-12-30 18:31:23 : Training Troops & Spells
+2015-12-30 18:31:24 : Checking Army Camp...
+2015-12-30 18:31:25 : Total Army Camp capacity: 50/150 (33%)
+2015-12-30 18:31:27 :  - No. of Archers: 50
+2015-12-30 18:31:36 : Time Idle: 00:01:37
+2015-12-30 18:31:36 : ====== Waiting for full army ======
+2015-12-30 18:31:48 : Training Troops & Spells
+2015-12-30 18:31:49 : Checking Army Camp...
+2015-12-30 18:31:50 : Total Army Camp capacity: 54/150 (36%)
+2015-12-30 18:31:51 :  - No. of Archers: 54
+2015-12-30 18:32:00 : Time Idle: 00:02:01
+2015-12-30 18:32:00 : ====== Waiting for full army ======
+2015-12-30 18:32:12 : Training Troops & Spells
+2015-12-30 18:32:13 : Checking Army Camp...
+2015-12-30 18:32:14 : Total Army Camp capacity: 58/150 (38%)
+2015-12-30 18:32:16 :  - No. of Archers: 58
+2015-12-30 18:32:24 : Time Idle: 00:02:25
+2015-12-30 18:32:24 : ====== Waiting for full army ======
+2015-12-30 18:32:36 : Training Troops & Spells
+2015-12-30 18:32:37 : Checking Army Camp...
+2015-12-30 18:32:38 : Total Army Camp capacity: 61/150 (40%)
+2015-12-30 18:32:39 :  - No. of Archers: 62
+2015-12-30 18:32:48 : Time Idle: 00:02:49
+2015-12-30 18:32:48 : ====== Waiting for full army ======
+2015-12-30 18:33:00 : Training Troops & Spells
+2015-12-30 18:33:01 : Checking Army Camp...
+2015-12-30 18:33:02 : Total Army Camp capacity: 65/150 (43%)
+2015-12-30 18:33:04 :  - No. of Archers: 65
+2015-12-30 18:33:12 : Time Idle: 00:03:13
+2015-12-30 18:33:13 : ====== Waiting for full army ======
+2015-12-30 18:33:25 : Training Troops & Spells
+2015-12-30 18:33:25 : Checking Army Camp...
+2015-12-30 18:33:27 : Total Army Camp capacity: 69/150 (46%)
+2015-12-30 18:33:28 :  - No. of Archers: 69
+2015-12-30 18:33:37 : Time Idle: 00:03:37
+2015-12-30 18:33:37 : ====== Waiting for full army ======
+2015-12-30 18:33:49 : Training Troops & Spells
+2015-12-30 18:33:50 : Checking Army Camp...
+2015-12-30 18:33:51 : Total Army Camp capacity: 74/150 (49%)
+2015-12-30 18:33:53 :  - No. of Barbarians: 2
+2015-12-30 18:33:53 :  - No. of Archers: 72
+2015-12-30 18:34:02 : Time Idle: 00:04:01
+2015-12-30 18:34:02 : ====== Waiting for full army ======
+2015-12-30 18:34:14 : Training Troops & Spells
+2015-12-30 18:34:15 : Checking Army Camp...
+2015-12-30 18:34:16 : Total Army Camp capacity: 79/150 (52%)
+2015-12-30 18:34:17 :  - No. of Barbarians: 7
+2015-12-30 18:34:17 :  - No. of Archers: 72
+2015-12-30 18:34:26 : Time Idle: 00:04:25
+2015-12-30 18:34:26 : ====== Waiting for full army ======
+2015-12-30 18:34:38 : Collecting Resources
+2015-12-30 18:34:46 : Training Troops & Spells
+2015-12-30 18:34:47 : Checking Army Camp...
+2015-12-30 18:34:48 : Total Army Camp capacity: 85/150 (56%)
+2015-12-30 18:34:50 :  - No. of Barbarians: 13
+2015-12-30 18:34:50 :  - No. of Archers: 72
+2015-12-30 18:34:59 : Time Idle: 00:04:58
+2015-12-30 18:34:59 : ====== Waiting for full army ======
+2015-12-30 18:35:11 : Training Troops & Spells
+2015-12-30 18:35:11 : Checking Army Camp...
+2015-12-30 18:35:13 : Total Army Camp capacity: 90/150 (60%)
+2015-12-30 18:35:14 :  - No. of Barbarians: 19
+2015-12-30 18:35:15 :  - No. of Archers: 72
+2015-12-30 18:35:23 : Time Idle: 00:05:22
+2015-12-30 18:35:23 : ====== Waiting for full army ======
+2015-12-30 18:35:35 : Training Troops & Spells
+2015-12-30 18:35:36 : Checking Army Camp...
+2015-12-30 18:35:37 : Total Army Camp capacity: 95/150 (63%)
+2015-12-30 18:35:39 :  - No. of Barbarians: 23
+2015-12-30 18:35:39 :  - No. of Archers: 72
+2015-12-30 18:35:48 : Time Idle: 00:05:47
+2015-12-30 18:35:48 : ====== Waiting for full army ======
+2015-12-30 18:36:00 : Training Troops & Spells
+2015-12-30 18:36:01 : Checking Army Camp...
+2015-12-30 18:36:02 : Total Army Camp capacity: 100/150 (66%)
+2015-12-30 18:36:03 :  - No. of Barbarians: 28
+2015-12-30 18:36:03 :  - No. of Archers: 72
+2015-12-30 18:36:12 : Time Idle: 00:06:10
+2015-12-30 18:36:12 : ====== Waiting for full army ======
+2015-12-30 18:36:24 : Training Troops & Spells
+2015-12-30 18:36:25 : Checking Army Camp...
+2015-12-30 18:36:26 : Total Army Camp capacity: 105/150 (70%)
+2015-12-30 18:36:28 :  - No. of Barbarians: 32
+2015-12-30 18:36:28 :  - No. of Archers: 73
+2015-12-30 18:36:37 : Time Idle: 00:06:35
+2015-12-30 18:36:37 : ====== Waiting for full army ======
+2015-12-30 18:36:49 : Training Troops & Spells
+2015-12-30 18:36:50 : Checking Army Camp...
+2015-12-30 18:36:51 : Total Army Camp capacity: 110/150 (73%)
+2015-12-30 18:36:53 :  - No. of Barbarians: 37
+2015-12-30 18:36:53 :  - No. of Archers: 73
+2015-12-30 18:37:02 : Time Idle: 00:07:00
+2015-12-30 18:37:02 : ====== Waiting for full army ======
+2015-12-30 18:37:14 : Training Troops & Spells
+2015-12-30 18:37:15 : Checking Army Camp...
+2015-12-30 18:37:16 : Total Army Camp capacity: 115/150 (76%)
+2015-12-30 18:37:18 :  - No. of Barbarians: 42
+2015-12-30 18:37:18 :  - No. of Archers: 73
+2015-12-30 18:37:27 : Time Idle: 00:07:24
+2015-12-30 18:37:27 : ====== Waiting for full army ======
+2015-12-30 18:37:39 : Training Troops & Spells
+2015-12-30 18:37:39 : Checking Army Camp...
+2015-12-30 18:37:41 : Total Army Camp capacity: 119/150 (79%)
+2015-12-30 18:37:42 :  - No. of Barbarians: 46
+2015-12-30 18:37:42 :  - No. of Archers: 73
+2015-12-30 18:37:51 : Time Idle: 00:07:49
+2015-12-30 18:37:51 : ====== Waiting for full army ======
+2015-12-30 18:38:03 : Training Troops & Spells
+2015-12-30 18:38:04 : Checking Army Camp...
+2015-12-30 18:38:05 : Total Army Camp capacity: 123/150 (82%)
+2015-12-30 18:38:07 :  - No. of Barbarians: 50
+2015-12-30 18:38:07 :  - No. of Archers: 73
+2015-12-30 18:38:16 : Time Idle: 00:08:14
+2015-12-30 18:38:17 : ====== Waiting for full army ======
+2015-12-30 18:38:29 : Training Troops & Spells
+2015-12-30 18:38:29 : Checking Army Camp...
+2015-12-30 18:38:31 : Total Army Camp capacity: 127/150 (84%)
+2015-12-30 18:38:32 :  - No. of Barbarians: 54
+2015-12-30 18:38:32 :  - No. of Archers: 73
+2015-12-30 18:38:42 : Time Idle: 00:08:39
+2015-12-30 18:38:42 : ====== Waiting for full army ======
+2015-12-30 18:38:54 : Training Troops & Spells
+2015-12-30 18:38:55 : Checking Army Camp...
+2015-12-30 18:38:56 : Total Army Camp capacity: 131/150 (87%)
+2015-12-30 18:38:58 :  - No. of Barbarians: 58
+2015-12-30 18:38:58 :  - No. of Archers: 73
+2015-12-30 18:39:07 : Time Idle: 00:09:04
+2015-12-30 18:39:08 : ====== Waiting for full army ======
+2015-12-30 18:39:20 : Collecting Resources
+2015-12-30 18:39:28 : Training Troops & Spells
+2015-12-30 18:39:29 : Checking Army Camp...
+2015-12-30 18:39:30 : Total Army Camp capacity: 136/150 (90%)
+2015-12-30 18:39:32 :  - No. of Barbarians: 63
+2015-12-30 18:39:32 :  - No. of Archers: 73
+2015-12-30 18:39:42 : Time Idle: 00:09:38
+2015-12-30 18:39:42 : ====== Waiting for full army ======
+2015-12-30 18:39:54 : Training Troops & Spells
+2015-12-30 18:39:54 : Checking Army Camp...
+2015-12-30 18:39:56 : Total Army Camp capacity: 139/150 (92%)
+2015-12-30 18:39:57 :  - No. of Barbarians: 64
+2015-12-30 18:39:58 :  - No. of Archers: 75
+2015-12-30 18:40:08 : Time Idle: 00:10:04
+2015-12-30 18:40:08 : ====== Waiting for full army ======
+2015-12-30 18:40:20 : Training Troops & Spells
+2015-12-30 18:40:21 : Checking Army Camp...
+2015-12-30 18:40:22 : Total Army Camp capacity: 143/150 (95%)
+2015-12-30 18:40:24 :  - No. of Barbarians: 67
+2015-12-30 18:40:24 :  - No. of Archers: 76
+2015-12-30 18:40:34 : Time Idle: 00:10:29
+2015-12-30 18:40:34 : ====== Waiting for full army ======
+2015-12-30 18:40:46 : Training Troops & Spells
+2015-12-30 18:40:47 : Checking Army Camp...
+2015-12-30 18:40:48 : Total Army Camp capacity: 146/150 (97%)
+2015-12-30 18:40:50 :  - No. of Barbarians: 70
+2015-12-30 18:40:50 :  - No. of Archers: 76
+2015-12-30 18:41:00 : Time Idle: 00:10:55
+2015-12-30 18:41:00 : ====== Waiting for full army ======
+2015-12-30 18:41:12 : Training Troops & Spells
+2015-12-30 18:41:13 : Checking Army Camp...
+2015-12-30 18:41:14 : Total Army Camp capacity: 150/150 (100%)
+2015-12-30 18:41:16 :  - No. of Barbarians: 74
+2015-12-30 18:41:16 :  - No. of Archers: 76
+2015-12-30 18:41:17 : Your Army Camps are now Full
+2015-12-30 18:41:17 : Calculating Troops before Training new Army.
+2015-12-30 18:41:17 : Build troops before attacking.
+2015-12-30 18:41:36 : Going to Attack...
+2015-12-30 18:41:43 : ============== Searching For Dead Base ===============
+2015-12-30 18:41:43 : ~~~~~~~~~~~~~~~ SEARCH CONDITIONS ~~~~~~~~~~~~~~~~
+2015-12-30 18:41:43 : Meet: Gold + Elixir
+2015-12-30 18:41:43 : ~~~~~~~~~~~~~~ RESOURCE CONDITIONS ~~~~~~~~~~~~~~~
+2015-12-30 18:41:43 : Aim: [G+E]: 140000 [D]:    0 [T]: 0 for: Dead Base
+2015-12-30 18:41:43 : ~~~~~~~~~~~~~~~ ADVANCED SETTINGS ~~~~~~~~~~~~~~~~
+2015-12-30 18:41:43 :  Attack TH Outside Bam
+2015-12-30 18:41:43 : ==================================================
+2015-12-30 18:41:45 :   1> [G]: 144618 [E]:   8840 [D]:  N/A [T]:29
+2015-12-30 18:41:46 :       Not a Dead Base
+2015-12-30 18:41:49 :   2> [G]:  24356 [E]:  43907 [D]:  164 [T]:32
+2015-12-30 18:41:54 :   3> [G]: 227560 [E]: 103985 [D]:  N/A [T]:37
+2015-12-30 18:41:54 :       Not a Dead Base
+2015-12-30 18:41:57 :   4> [G]:  17572 [E]:  35445 [D]:  N/A [T]:34
+2015-12-30 18:42:06 :   5> [G]:  17446 [E]:  18811 [D]:  N/A [T]:39
+2015-12-30 18:42:11 :   6> [G]:  27138 [E]:   1695 [D]:  N/A [T]:37
+2015-12-30 18:42:14 :   7> [G]:  11284 [E]:   8111 [D]:  N/A [T]:26
+2015-12-30 18:42:23 :   8> [G]:  74887 [E]:   4807 [D]:  457 [T]:44
+2015-12-30 18:42:28 :   9> [G]:  98967 [E]: 106620 [D]:  N/A [T]:30
+2015-12-30 18:42:28 :       Not a Dead Base
+2015-12-30 18:42:33 :  10> [G]:  59039 [E]:   5615 [D]:  N/A [T]:34
+2015-12-30 18:42:39 :  11> [G]:  17390 [E]:  31509 [D]:  N/A [T]:39
+2015-12-30 18:42:42 :  12> [G]:   7782 [E]:  42335 [D]:  372 [T]:43
+2015-12-30 18:42:45 :  13> [G]:   1865 [E]:   3819 [D]:  N/A [T]:42
+2015-12-30 18:42:50 :  14> [G]:  39205 [E]:  91811 [D]:  110 [T]:26
+2015-12-30 18:42:54 :  15> [G]: 240531 [E]:  45848 [D]:  105 [T]:45
+2015-12-30 18:42:54 :       Not a Dead Base
+2015-12-30 18:42:57 :  16> [G]:   1802 [E]:   8613 [D]:  193 [T]:43
+2015-12-30 18:43:00 :  17> [G]:  62963 [E]:  46394 [D]:  N/A [T]:36
+2015-12-30 18:43:04 :  18> [G]:   3228 [E]:  42081 [D]:  N/A [T]:36
+2015-12-30 18:43:07 :  19> [G]:  34839 [E]:  16674 [D]:  N/A [T]:39
+2015-12-30 18:43:10 : Aim:           [G+E]: 136000 [D]:    0 [T]: 0 for: Dead Base
+2015-12-30 18:43:12 :  20> [G]: 121450 [E]:  92141 [D]:  444 [T]:40
+2015-12-30 18:43:12 :       Not a Dead Base
+2015-12-30 18:43:17 :  21> [G]:  50063 [E]:  86034 [D]:  124 [T]:39
+2015-12-30 18:43:17 :       Not a Dead Base
+2015-12-30 18:43:23 :  22> [G]:  78338 [E]:  76210 [D]:  N/A [T]:39
+2015-12-30 18:43:23 :       Dead Base Found! 
+2015-12-30 18:43:23 : ================ Search Complete =================
+2015-12-30 18:43:32 : 2nd attempt to detect the TownHall!
+2015-12-30 18:43:39 : 3rd attempt to detect the TownHall!
+2015-12-30 18:43:43 : Checking Townhall location: Could not locate TH, skipping attack TH...
+2015-12-30 18:43:43 : Initiating attack for: Dead Base
+2015-12-30 18:43:48 : -*-Barbarians 74
+2015-12-30 18:43:48 : -*-Archers 76
+2015-12-30 18:43:48 :  ====== Start Attack ====== 
+2015-12-30 18:43:50 : Calculating Smart Attack Strategy
+2015-12-30 18:43:52 : Calculated  (in 1.62 seconds) :
+2015-12-30 18:43:52 : Locating Mines, Collectors & Drills
+2015-12-30 18:44:06 : Located  (in 14.2 seconds) :
+2015-12-30 18:44:06 : [6] Gold Mines
+2015-12-30 18:44:06 : [4] Elixir Collectors
+2015-12-30 18:44:06 : [0] Dark Elixir Drill/s
+2015-12-30 18:44:06 : Attacking on three sides
+2015-12-30 18:44:08 : Dropping first wave of Barbarians 37
+2015-12-30 18:44:10 : Dropping first wave of Archers 38
+2015-12-30 18:44:13 : Dropping second wave of Barbarians 37
+2015-12-30 18:44:15 : Dropping second wave of Archers 38
+2015-12-30 18:44:19 : Dropping left over troops
+2015-12-30 18:44:20 : Checking remaining unused troops for: Dead Base
+2015-12-30 18:44:31 : Checking remaining unused troops for: Dead Base
+2015-12-30 18:44:44 : Finished Attacking, waiting for the battle to end
+2015-12-30 18:44:44 : Checking if the battle has finished
+2015-12-30 18:44:45 : detected [G]: 22385 [E]: 15140 [DE]:  |  Exit in 18 sec.
+2015-12-30 18:44:45 : Gold & Elixir & DE change detected, waiting...
+2015-12-30 18:44:48 : detected [G]: 22385 [E]: 14475 [DE]:  |  Exit in 18 sec.
+2015-12-30 18:44:48 : Gold & Elixir & DE change detected, waiting...
+2015-12-30 18:44:51 : detected [G]: 22385 [E]: 14370 [DE]:  |  Exit in 18 sec.
+2015-12-30 18:44:51 : Gold & Elixir & DE change detected, waiting...
+2015-12-30 18:44:53 : detected [G]: 22385 [E]: 14230 [DE]:  |  Exit in 18 sec.
+2015-12-30 18:44:53 : Gold & Elixir & DE change detected, waiting...
+2015-12-30 18:44:56 : detected [G]: 22385 [E]: 14230 [DE]:  |  Exit in 18 sec.
+2015-12-30 18:44:57 : detected [G]: 22385 [E]: 14230 [DE]:  |  Exit in 17 sec.
+2015-12-30 18:44:58 : detected [G]: 22385 [E]: 14230 [DE]:  |  Exit in 16 sec.
+2015-12-30 18:44:59 : detected [G]: 22385 [E]: 14230 [DE]:  |  Exit in 14 sec.
+2015-12-30 18:45:01 : detected [G]: 22385 [E]: 14230 [DE]:  |  Exit in 13 sec.
+2015-12-30 18:45:02 : detected [G]: 22385 [E]: 14230 [DE]:  |  Exit in 12 sec.
+2015-12-30 18:45:03 : detected [G]: 22385 [E]: 14230 [DE]:  |  Exit in 11 sec.
+2015-12-30 18:45:04 : detected [G]: 22385 [E]: 14230 [DE]:  |  Exit in  9 sec.
+2015-12-30 18:45:06 : detected [G]: 22385 [E]: 14230 [DE]:  |  Exit in  8 sec.
+2015-12-30 18:45:07 : detected [G]: 22385 [E]: 14230 [DE]:  |  Exit in  7 sec.
+2015-12-30 18:45:08 : detected [G]: 22385 [E]: 14230 [DE]:  |  Exit in  6 sec.
+2015-12-30 18:45:10 : detected [G]:  [E]:  [DE]:  |  Exit now 
+2015-12-30 18:45:10 : Gold & Elixir & DE = 0, end battle 
+2015-12-30 18:45:11 : Battle has finished
+2015-12-30 18:45:11 : Returning Home
+2015-12-30 18:45:16 : Loot: [G]: 55 953 [E]: 61 980 [T]: -11
+2015-12-30 18:45:16 : Stars earned: 0
+2015-12-30 18:45:16 : Taking snapshot of your loot
+2015-12-30 18:45:24 : Trying to locate Main Screen
+2015-12-30 18:45:24 : Main Screen Located
+2015-12-30 18:45:26 : Village Report
+2015-12-30 18:45:26 : No. of Free/Total Builders: 2/3
+2015-12-30 18:45:26 :  [T]: 889
+2015-12-30 18:45:26 :  [G]: 1 430 457 [E]: 1 092 646 [D]: 913 [GEM]: 463
+2015-12-30 18:45:28 : Collecting Resources
+2015-12-30 18:45:39 : Training Troops & Spells
+2015-12-30 18:45:39 : Checking Army Camp...
+2015-12-30 18:45:41 : Total Army Camp capacity: 35/150 (23%)
+2015-12-30 18:45:42 :  - No. of Archers: 35
+2015-12-30 18:45:58 : ====== Waiting for full army ======
+2015-12-30 18:46:11 : Training Troops & Spells
+2015-12-30 18:46:11 : Checking Army Camp...
+2015-12-30 18:46:12 : Total Army Camp capacity: 40/150 (26%)
+2015-12-30 18:46:14 :  - No. of Archers: 40
+2015-12-30 18:46:24 : Time Idle: 00:00:25
+2015-12-30 18:46:24 : ====== Waiting for full army ======
+2015-12-30 18:46:36 : Training Troops & Spells
+2015-12-30 18:46:37 : Checking Army Camp...
+2015-12-30 18:46:38 : Total Army Camp capacity: 44/150 (29%)
+2015-12-30 18:46:40 :  - No. of Archers: 44
+2015-12-30 18:46:48 : Time Idle: 00:00:49
+2015-12-30 18:46:49 : ====== Waiting for full army ======
+2015-12-30 18:47:01 : Training Troops & Spells
+2015-12-30 18:47:01 : Checking Army Camp...
+2015-12-30 18:47:02 : Total Army Camp capacity: 48/150 (32%)
+2015-12-30 18:47:04 :  - No. of Archers: 48
+2015-12-30 18:47:13 : Time Idle: 00:01:14
+2015-12-30 18:47:13 : ====== Waiting for full army ======
+2015-12-30 18:47:25 : Training Troops & Spells
+2015-12-30 18:47:26 : Checking Army Camp...
+2015-12-30 18:47:27 : Total Army Camp capacity: 52/150 (34%)
+2015-12-30 18:47:29 :  - No. of Archers: 52
+2015-12-30 18:47:38 : Time Idle: 00:01:38
+2015-12-30 18:47:38 : ====== Waiting for full army ======
+2015-12-30 18:47:50 : Training Troops & Spells
+2015-12-30 18:47:51 : Checking Army Camp...
+2015-12-30 18:47:52 : Total Army Camp capacity: 56/150 (37%)
+2015-12-30 18:47:53 :  - No. of Archers: 56
+2015-12-30 18:48:02 : Time Idle: 00:02:02
+2015-12-30 18:48:02 : ====== Waiting for full army ======
+2015-12-30 18:48:14 : Training Troops & Spells
+2015-12-30 18:48:15 : Checking Army Camp...
+2015-12-30 18:48:16 : Total Army Camp capacity: 60/150 (40%)
+2015-12-30 18:48:18 :  - No. of Archers: 60
+2015-12-30 18:48:26 : Time Idle: 00:02:26
+2015-12-30 18:48:26 : ====== Waiting for full army ======
+2015-12-30 18:48:38 : Collecting Resources
+2015-12-30 18:48:47 : Training Troops & Spells
+2015-12-30 18:48:47 : Checking Army Camp...
+2015-12-30 18:48:49 : Total Army Camp capacity: 64/150 (42%)
+2015-12-30 18:48:50 :  - No. of Archers: 64
+2015-12-30 18:48:59 : Time Idle: 00:02:58
+2015-12-30 18:48:59 : ====== Waiting for full army ======
+2015-12-30 18:49:11 : Training Troops & Spells
+2015-12-30 18:49:12 : Checking Army Camp...
+2015-12-30 18:49:13 : Total Army Camp capacity: 68/150 (45%)
+2015-12-30 18:49:15 :  - No. of Archers: 68
+2015-12-30 18:49:24 : Time Idle: 00:03:23
+2015-12-30 18:49:24 : ====== Waiting for full army ======
+2015-12-30 18:49:36 : Training Troops & Spells
+2015-12-30 18:49:37 : Checking Army Camp...
+2015-12-30 18:49:38 : Total Army Camp capacity: 73/150 (48%)
+2015-12-30 18:49:40 :  - No. of Barbarians: 1
+2015-12-30 18:49:40 :  - No. of Archers: 72
+2015-12-30 18:49:49 : Time Idle: 00:03:48
+2015-12-30 18:49:49 : ====== Waiting for full army ======
+2015-12-30 18:50:01 : Training Troops & Spells
+2015-12-30 18:50:02 : Checking Army Camp...
+2015-12-30 18:50:03 : Total Army Camp capacity: 78/150 (52%)
+2015-12-30 18:50:05 :  - No. of Barbarians: 6
+2015-12-30 18:50:05 :  - No. of Archers: 72
+2015-12-30 18:50:14 : Time Idle: 00:04:12
+2015-12-30 18:50:14 : ====== Waiting for full army ======
+2015-12-30 18:50:26 : Training Troops & Spells
+2015-12-30 18:50:27 : Checking Army Camp...
+2015-12-30 18:50:28 : Total Army Camp capacity: 83/150 (55%)
+2015-12-30 18:50:30 :  - No. of Barbarians: 11
+2015-12-30 18:50:30 :  - No. of Archers: 72
+2015-12-30 18:50:40 : Time Idle: 00:04:38
+2015-12-30 18:50:40 : ====== Waiting for full army ======
+2015-12-30 18:50:52 : Training Troops & Spells
+2015-12-30 18:50:53 : Checking Army Camp...
+2015-12-30 18:50:54 : Total Army Camp capacity: 88/150 (58%)
+2015-12-30 18:50:56 :  - No. of Barbarians: 16
+2015-12-30 18:50:56 :  - No. of Archers: 72
+2015-12-30 18:51:05 : Time Idle: 00:05:03
+2015-12-30 18:51:06 : ====== Waiting for full army ======
+2015-12-30 18:51:18 : Training Troops & Spells
+2015-12-30 18:51:18 : Checking Army Camp...
+2015-12-30 18:51:20 : Total Army Camp capacity: 93/150 (62%)
+2015-12-30 18:51:22 :  - No. of Barbarians: 22
+2015-12-30 18:51:22 :  - No. of Archers: 72
+2015-12-30 18:51:31 : Time Idle: 00:05:29
+2015-12-30 18:51:31 : ====== Waiting for full army ======
+2015-12-30 18:51:43 : Training Troops & Spells
+2015-12-30 18:51:44 : Checking Army Camp...
+2015-12-30 18:51:45 : Total Army Camp capacity: 99/150 (66%)
+2015-12-30 18:51:47 :  - No. of Barbarians: 27
+2015-12-30 18:51:47 :  - No. of Archers: 72
+2015-12-30 18:51:56 : Time Idle: 00:05:54
+2015-12-30 18:51:56 : ====== Waiting for full army ======
+2015-12-30 18:52:08 : Training Troops & Spells
+2015-12-30 18:52:09 : Checking Army Camp...
+2015-12-30 18:52:10 : Total Army Camp capacity: 104/150 (69%)
+2015-12-30 18:52:12 :  - No. of Barbarians: 32
+2015-12-30 18:52:12 :  - No. of Archers: 72
+2015-12-30 18:52:21 : Time Idle: 00:06:19
+2015-12-30 18:52:22 : ====== Waiting for full army ======
+2015-12-30 18:52:34 : Training Troops & Spells
+2015-12-30 18:52:34 : Checking Army Camp...
+2015-12-30 18:52:36 : Total Army Camp capacity: 108/150 (72%)
+2015-12-30 18:52:37 :  - No. of Barbarians: 36
+2015-12-30 18:52:37 :  - No. of Archers: 72
+2015-12-30 18:52:46 : Time Idle: 00:06:43
+2015-12-30 18:52:46 : ====== Waiting for full army ======
+2015-12-30 18:52:58 : Training Troops & Spells
+2015-12-30 18:52:59 : Checking Army Camp...
+2015-12-30 18:53:00 : Total Army Camp capacity: 114/150 (76%)
+2015-12-30 18:53:02 :  - No. of Barbarians: 42
+2015-12-30 18:53:02 :  - No. of Archers: 72
+2015-12-30 18:53:12 : Time Idle: 00:07:09
+2015-12-30 18:53:12 : ====== Waiting for full army ======
+2015-12-30 18:53:24 : Collecting Resources
+2015-12-30 18:53:33 : Training Troops & Spells
+2015-12-30 18:53:33 : Checking Army Camp...
+2015-12-30 18:53:35 : Total Army Camp capacity: 118/150 (78%)
+2015-12-30 18:53:36 :  - No. of Barbarians: 46
+2015-12-30 18:53:36 :  - No. of Archers: 72
+2015-12-30 18:53:45 : Time Idle: 00:07:41
+2015-12-30 18:53:45 : ====== Waiting for full army ======
+2015-12-30 18:53:57 : Training Troops & Spells
+2015-12-30 18:53:58 : Checking Army Camp...
+2015-12-30 18:53:59 : Total Army Camp capacity: 122/150 (81%)
+2015-12-30 18:54:01 :  - No. of Barbarians: 50
+2015-12-30 18:54:01 :  - No. of Archers: 72
+2015-12-30 18:54:11 : Time Idle: 00:08:07
+2015-12-30 18:54:11 : ====== Waiting for full army ======
+2015-12-30 18:54:23 : Training Troops & Spells
+2015-12-30 18:54:24 : Checking Army Camp...
+2015-12-30 18:54:25 : Total Army Camp capacity: 127/150 (84%)
+2015-12-30 18:54:27 :  - No. of Barbarians: 55
+2015-12-30 18:54:27 :  - No. of Archers: 72
+2015-12-30 18:54:36 : Time Idle: 00:08:32
+2015-12-30 18:54:36 : ====== Waiting for full army ======
+2015-12-30 18:54:48 : Training Troops & Spells
+2015-12-30 18:54:49 : Checking Army Camp...
+2015-12-30 18:54:50 : Total Army Camp capacity: 130/150 (86%)
+2015-12-30 18:54:52 :  - No. of Barbarians: 58
+2015-12-30 18:54:52 :  - No. of Archers: 72
+2015-12-30 18:55:02 : Time Idle: 00:08:57
+2015-12-30 18:55:02 : ====== Waiting for full army ======
+2015-12-30 18:55:14 : Training Troops & Spells
+2015-12-30 18:55:15 : Checking Army Camp...
+2015-12-30 18:55:16 : Total Army Camp capacity: 133/150 (88%)
+2015-12-30 18:55:18 :  - No. of Barbarians: 61
+2015-12-30 18:55:18 :  - No. of Archers: 72
+2015-12-30 18:55:27 : Time Idle: 00:09:22
+2015-12-30 18:55:28 : ====== Waiting for full army ======
+2015-12-30 18:55:39 : Training Troops & Spells
+2015-12-30 18:55:40 : Checking Army Camp...
+2015-12-30 18:55:41 : Total Army Camp capacity: 136/150 (90%)
+2015-12-30 18:55:43 :  - No. of Barbarians: 64
+2015-12-30 18:55:43 :  - No. of Archers: 73
+2015-12-30 18:55:53 : Time Idle: 00:09:48
+2015-12-30 18:55:53 : ====== Waiting for full army ======
+2015-12-30 18:56:05 : Training Troops & Spells
+2015-12-30 18:56:06 : Checking Army Camp...
+2015-12-30 18:56:07 : Total Army Camp capacity: 141/150 (94%)
+2015-12-30 18:56:09 :  - No. of Barbarians: 66
+2015-12-30 18:56:09 :  - No. of Archers: 75
+2015-12-30 18:56:19 : Time Idle: 00:10:14
+2015-12-30 18:56:19 : ====== Waiting for full army ======
+2015-12-30 18:56:31 : Training Troops & Spells
+2015-12-30 18:56:32 : Checking Army Camp...
+2015-12-30 18:56:33 : Total Army Camp capacity: 145/150 (96%)
+2015-12-30 18:56:35 :  - No. of Barbarians: 70
+2015-12-30 18:56:35 :  - No. of Archers: 75
+2015-12-30 18:56:46 : Time Idle: 00:10:40
+2015-12-30 18:56:46 : ====== Waiting for full army ======
+2015-12-30 18:56:58 : Training Troops & Spells
+2015-12-30 18:56:59 : Checking Army Camp...
+2015-12-30 18:57:00 : Total Army Camp capacity: 148/150 (98%)
+2015-12-30 18:57:02 :  - No. of Barbarians: 73
+2015-12-30 18:57:02 :  - No. of Archers: 75
+2015-12-30 18:57:20 : Cannot find train Window.
+2015-12-30 18:57:23 : Cannot find train Window.
+2015-12-30 18:57:26 : Time Idle: 00:11:20
+2015-12-30 18:57:27 : ====== Waiting for full army ======
+2015-12-30 18:57:38 : Training Troops & Spells
+2015-12-30 18:57:39 : Checking Army Camp...
+2015-12-30 18:57:40 : Total Army Camp capacity: 150/150 (100%)
+2015-12-30 18:57:43 :  - No. of Barbarians: 75
+2015-12-30 18:57:43 :  - No. of Archers: 75
+2015-12-30 18:57:44 : Your Army Camps are now Full
+2015-12-30 18:57:44 : Calculating Troops before Training new Army.
+2015-12-30 18:57:44 : Build troops before attacking.
+2015-12-30 18:58:04 : Going to Attack...
+2015-12-30 18:58:11 : ============== Searching For Dead Base ===============
+2015-12-30 18:58:11 : ~~~~~~~~~~~~~~~ SEARCH CONDITIONS ~~~~~~~~~~~~~~~~
+2015-12-30 18:58:11 : Meet: Gold + Elixir
+2015-12-30 18:58:11 : ~~~~~~~~~~~~~~ RESOURCE CONDITIONS ~~~~~~~~~~~~~~~
+2015-12-30 18:58:11 : Aim: [G+E]: 140000 [D]:    0 [T]: 0 for: Dead Base
+2015-12-30 18:58:11 : ~~~~~~~~~~~~~~~ ADVANCED SETTINGS ~~~~~~~~~~~~~~~~
+2015-12-30 18:58:11 :  Attack TH Outside Bam
+2015-12-30 18:58:11 : ==================================================
+2015-12-30 18:58:12 :   1> [G]:  27687 [E]:  19146 [D]:  N/A [T]:36
+2015-12-30 18:58:17 :   2> [G]:  44536 [E]:  50279 [D]:  N/A [T]:39
+2015-12-30 18:58:23 :   3> [G]:  55768 [E]:  12105 [D]:  N/A [T]:37
+2015-12-30 18:58:29 :   4> [G]:  11330 [E]:   1919 [D]:  N/A [T]:43
+2015-12-30 18:58:34 :   5> [G]: 202843 [E]:  88400 [D]:  N/A [T]:39
+2015-12-30 18:58:34 :       Not a Dead Base
+2015-12-30 18:58:39 :   6> [G]:  31308 [E]:  38534 [D]:  N/A [T]:42
+2015-12-30 18:58:42 :   7> [G]: 125829 [E]:   9272 [D]:   50 [T]:45
+2015-12-30 18:58:46 :   8> [G]:   2678 [E]:  69696 [D]:  242 [T]:43
+2015-12-30 18:58:49 :   9> [G]:  38727 [E]:  21476 [D]:  N/A [T]:30
+2015-12-30 18:58:53 :  10> [G]:  47992 [E]:  31031 [D]:  293 [T]:37
+2015-12-30 18:58:56 :  11> [G]:  22567 [E]:  42803 [D]:  135 [T]:37
+2015-12-30 18:58:59 :  12> [G]:  16510 [E]:  25186 [D]:  N/A [T]:34
+2015-12-30 18:59:02 :  13> [G]:  60493 [E]:  35385 [D]:    0 [T]:43
+2015-12-30 18:59:09 :  14> [G]:   9099 [E]:  20905 [D]:  N/A [T]:43
+2015-12-30 18:59:12 :  15> [G]:   2106 [E]:   5707 [D]:  N/A [T]:31
+2015-12-30 18:59:17 :  16> [G]:  82531 [E]:  71110 [D]:  412 [T]:41
+2015-12-30 18:59:17 :       Not a Dead Base
+2015-12-30 18:59:22 :  17> [G]:  50113 [E]: 145402 [D]:  N/A [T]:38
+2015-12-30 18:59:22 :       Not a Dead Base
+2015-12-30 18:59:27 :  18> [G]: 119169 [E]:  49885 [D]:  743 [T]:41
+2015-12-30 18:59:27 :       Not a Dead Base
+2015-12-30 18:59:30 :  19> [G]:   7845 [E]:  12028 [D]:  N/A [T]:19
+2015-12-30 18:59:33 : Aim:           [G+E]: 136000 [D]:    0 [T]: 0 for: Dead Base
+2015-12-30 18:59:35 :  20> [G]: 175959 [E]: 170763 [D]:  528 [T]:40
+2015-12-30 18:59:35 :       Not a Dead Base
+2015-12-30 18:59:39 :  21> [G]:   6087 [E]:  83110 [D]:  151 [T]:42
+2015-12-30 18:59:44 :  22> [G]:  89424 [E]:  53141 [D]:  286 [T]:40
+2015-12-30 18:59:44 :       Not a Dead Base
+2015-12-30 18:59:49 :  23> [G]: 169520 [E]:   1175 [D]:  233 [T]:25
+2015-12-30 18:59:49 :       Not a Dead Base
+2015-12-30 18:59:52 :  24> [G]:  31425 [E]:  14438 [D]:  N/A [T]:39
+2015-12-30 18:59:55 :  25> [G]:   5049 [E]:  26560 [D]:  N/A [T]:41
+2015-12-30 18:59:59 :  26> [G]:  70700 [E]:  61091 [D]:  460 [T]:41
+2015-12-30 19:00:04 :  27> [G]: 182135 [E]:  58408 [D]:  643 [T]:42
+2015-12-30 19:00:05 :       Not a Dead Base
+2015-12-30 19:00:08 :  28> [G]:   6277 [E]:  34636 [D]:    6 [T]:36
+2015-12-30 19:00:11 :  29> [G]:  37835 [E]:  26363 [D]:  152 [T]:45
+2015-12-30 19:00:14 :  30> [G]:   8197 [E]:   5620 [D]:  N/A [T]:30
+2015-12-30 19:00:17 :  31> [G]:  46665 [E]:  74540 [D]:  N/A [T]:40
+2015-12-30 19:00:23 :  32> [G]:   8321 [E]: 221360 [D]:  622 [T]:41
+2015-12-30 19:00:23 :       Not a Dead Base
+2015-12-30 19:00:29 :  33> [G]:  32332 [E]:  49311 [D]:  N/A [T]:39
+2015-12-30 19:00:32 :  34> [G]:   3629 [E]:  13795 [D]:  N/A [T]:19
+2015-12-30 19:00:36 :  35> [G]:  71761 [E]:  60563 [D]:    4 [T]:43
+2015-12-30 19:00:40 :  36> [G]:  24307 [E]:  31099 [D]:  N/A [T]:40
+2015-12-30 19:00:46 :  37> [G]: 123987 [E]: 135466 [D]:  438 [T]:34
+2015-12-30 19:00:46 :       Not a Dead Base
+2015-12-30 19:00:49 :  38> [G]:  71901 [E]:  14908 [D]:   98 [T]:41
+2015-12-30 19:00:53 :  39> [G]:  98656 [E]:  28263 [D]:  315 [T]:42
+2015-12-30 19:00:56 : Aim:           [G+E]: 132000 [D]:    0 [T]: 0 for: Dead Base
+2015-12-30 19:00:56 :  40> [G]:  98748 [E]:   1780 [D]:   62 [T]:45
+2015-12-30 19:01:02 :  41> [G]:  89365 [E]: 189976 [D]:  567 [T]:36
+2015-12-30 19:01:02 :       Not a Dead Base
+2015-12-30 19:01:05 :  42> [G]:  65878 [E]:  43344 [D]:    0 [T]:38
+2015-12-30 19:01:09 :  43> [G]:  28860 [E]:  30414 [D]:    4 [T]:43
+2015-12-30 19:01:12 :  44> [G]: 111423 [E]:   6211 [D]:  427 [T]:17
+2015-12-30 19:01:16 :  45> [G]:  53894 [E]:  65416 [D]:    0 [T]:28
+2015-12-30 19:01:22 :  46> [G]:  76812 [E]:  96869 [D]:  451 [T]:38
+2015-12-30 19:01:22 :       Not a Dead Base
+2015-12-30 19:01:25 :  47> [G]:  16015 [E]:   2438 [D]:  483 [T]:41
+2015-12-30 19:01:29 :  48> [G]:   3369 [E]:  28600 [D]:  N/A [T]:40
+2015-12-30 19:01:34 :  49> [G]:  10896 [E]: 127487 [D]:  312 [T]:43
+2015-12-30 19:01:34 :       Not a Dead Base
+2015-12-30 19:01:39 :  50> [G]: 109009 [E]: 102531 [D]:  157 [T]:46
+2015-12-30 19:01:39 :       Not a Dead Base
+2015-12-30 19:01:45 :  51> [G]:   8859 [E]:   7943 [D]:    2 [T]:44
+2015-12-30 19:01:48 :  52> [G]:  10841 [E]:  25510 [D]:  585 [T]:41
+2015-12-30 19:01:51 :  53> [G]:  61660 [E]:  36461 [D]:  N/A [T]:28
+2015-12-30 19:01:58 :  54> [G]:  84007 [E]:  38742 [D]:   40 [T]:41
+2015-12-30 19:02:03 :  55> [G]:  91353 [E]:  78612 [D]:  396 [T]:38
+2015-12-30 19:02:03 :       Not a Dead Base
+2015-12-30 19:02:06 :  56> [G]:  21469 [E]:  66123 [D]:  N/A [T]:37
+2015-12-30 19:02:12 :  57> [G]:  78381 [E]:  87921 [D]:  925 [T]:49
+2015-12-30 19:02:12 :       Not a Dead Base
+2015-12-30 19:02:15 :  58> [G]:  30000 [E]:  69219 [D]:    6 [T]:44
+2015-12-30 19:02:18 :  59> [G]:  24940 [E]:  61169 [D]: 1229 [T]:47
+2015-12-30 19:02:21 : Aim:           [G+E]: 128000 [D]:    0 [T]: 0 for: Dead Base
+2015-12-30 19:02:23 :  60> [G]:  73317 [E]:  87774 [D]:  601 [T]:37
+2015-12-30 19:02:23 :       Not a Dead Base
+2015-12-30 19:02:26 :  61> [G]:   9559 [E]:  12656 [D]:  N/A [T]:40
+2015-12-30 19:02:32 :  62> [G]:  56325 [E]:  78302 [D]:   14 [T]:32
+2015-12-30 19:02:32 :       Not a Dead Base
+2015-12-30 19:02:38 :  63> [G]:  65132 [E]: 312505 [D]: 1324 [T]:37
+2015-12-30 19:02:38 :       Not a Dead Base
+2015-12-30 19:02:42 :  64> [G]:   3624 [E]:  20940 [D]:    0 [T]:39
+2015-12-30 19:02:47 :  65> [G]: 222300 [E]:   9627 [D]:   26 [T]:22
+2015-12-30 19:02:47 :       Not a Dead Base
+2015-12-30 19:02:50 :  66> [G]:   6600 [E]:   1400 [D]:  N/A [T]:34
+2015-12-30 19:02:55 :  67> [G]: 302199 [E]:  88244 [D]:  905 [T]:26
+2015-12-30 19:02:55 :       Not a Dead Base
+2015-12-30 19:02:58 :  68> [G]:  56902 [E]:  54708 [D]:   28 [T]:45
+2015-12-30 19:03:05 :  69> [G]:  56306 [E]:  56153 [D]:  163 [T]:43
+2015-12-30 19:03:09 :  70> [G]:  26600 [E]:   8899 [D]:  N/A [T]:37
+2015-12-30 19:03:12 :  71> [G]:  83531 [E]:   6105 [D]:  N/A [T]:39
+2015-12-30 19:03:15 :  72> [G]:  12257 [E]:   6466 [D]:  N/A [T]:20
+2015-12-30 19:03:21 :  73> [G]: 205996 [E]: 153753 [D]:  298 [T]:44
+2015-12-30 19:03:21 :       Not a Dead Base
+2015-12-30 19:03:25 :  74> [G]:  45913 [E]:  28924 [D]:  N/A [T]:39
+2015-12-30 19:03:28 :  75> [G]:  60000 [E]:  60000 [D]:    0 [T]:40
+2015-12-30 19:03:31 :  76> [G]:  35558 [E]:  42775 [D]:  100 [T]:43
+2015-12-30 19:03:36 :  77> [G]: 155939 [E]:  11494 [D]:   48 [T]:24
+2015-12-30 19:03:36 :       Not a Dead Base
+2015-12-30 19:03:43 :  78> [G]: 142660 [E]: 322120 [D]:  185 [T]:37
+2015-12-30 19:03:43 :       Not a Dead Base
+2015-12-30 19:03:46 :  79> [G]:  39139 [E]:  32154 [D]:   15 [T]:45
+2015-12-30 19:03:49 : Aim:           [G+E]: 124000 [D]:    0 [T]: 0 for: Dead Base
+2015-12-30 19:03:49 :  80> [G]:  16671 [E]:   1267 [D]:  N/A [T]:35
+2015-12-30 19:03:58 :  81> [G]: 260236 [E]: 251419 [D]:  929 [T]:36
+2015-12-30 19:03:58 :       Not a Dead Base
+2015-12-30 19:04:01 :  82> [G]:    744 [E]:  10952 [D]:  N/A [T]:40
+2015-12-30 19:04:04 :  83> [G]:  58201 [E]:  36370 [D]:  210 [T]:43
+2015-12-30 19:04:08 :  84> [G]:  54900 [E]:  11476 [D]:  159 [T]:43
+2015-12-30 19:04:11 :  85> [G]:  33666 [E]:  81755 [D]:  170 [T]:44
+2015-12-30 19:04:16 :  86> [G]: 102222 [E]:  71963 [D]:  159 [T]:40
+2015-12-30 19:04:16 :       Not a Dead Base
+2015-12-30 19:04:19 :  87> [G]:  93550 [E]:  19355 [D]:  640 [T]:48
+2015-12-30 19:04:23 :  88> [G]:   2121 [E]:  40321 [D]:  N/A [T]:25
+2015-12-30 19:04:28 :  89> [G]:  34884 [E]: 134510 [D]:  409 [T]:45
+2015-12-30 19:04:28 :       Not a Dead Base
+2015-12-30 19:04:31 :  90> [G]:  59868 [E]:  38856 [D]:   98 [T]:45
+2015-12-30 19:04:35 :  91> [G]:  25956 [E]:  80400 [D]:  N/A [T]:35
+2015-12-30 19:04:41 :  92> [G]:  69892 [E]: 116605 [D]:  718 [T]:39
+2015-12-30 19:04:41 :       Not a Dead Base
+2015-12-30 19:04:46 :  93> [G]: 249506 [E]: 238252 [D]:  697 [T]:38
+2015-12-30 19:04:46 :       Not a Dead Base
+2015-12-30 19:04:51 :  94> [G]: 159482 [E]: 127863 [D]:  914 [T]:36
+2015-12-30 19:04:51 :       Not a Dead Base
+2015-12-30 19:04:54 :  95> [G]:  38250 [E]:  50023 [D]:  451 [T]:47
+2015-12-30 19:05:00 :  96> [G]: 100526 [E]:  70000 [D]:    3 [T]:38
+2015-12-30 19:05:00 :       Not a Dead Base
+2015-12-30 19:05:03 :  97> [G]:  35582 [E]:  78602 [D]:  435 [T]:44
+2015-12-30 19:05:06 :  98> [G]:  62511 [E]:  37842 [D]:  N/A [T]:36
+2015-12-30 19:05:11 :  99> [G]: 196837 [E]: 151687 [D]:  515 [T]:29
+2015-12-30 19:05:11 :       Not a Dead Base
+2015-12-30 19:05:15 : Aim:           [G+E]: 120000 [D]:    0 [T]: 0 for: Dead Base
+2015-12-30 19:05:15 : 100> [G]:  14469 [E]:  15599 [D]:  N/A [T]:30
+2015-12-30 19:05:18 : 101> [G]:  13774 [E]:   7995 [D]:  123 [T]:39
+2015-12-30 19:05:24 : 102> [G]:  97651 [E]:  39611 [D]:  N/A [T]:34
+2015-12-30 19:05:24 :       Not a Dead Base
+2015-12-30 19:05:27 : 103> [G]:  44605 [E]:  19186 [D]:  290 [T]:46
+2015-12-30 19:05:31 : 104> [G]:  29629 [E]:  19307 [D]:  N/A [T]:33
+2015-12-30 19:05:36 : 105> [G]:  97359 [E]:  35019 [D]:  228 [T]:50
+2015-12-30 19:05:36 :       Not a Dead Base
+2015-12-30 19:05:39 : 106> [G]:  84223 [E]:  27280 [D]:  168 [T]:42
+2015-12-30 19:05:42 : 107> [G]:  12637 [E]:   3935 [D]:  N/A [T]:37
+2015-12-30 19:05:45 : 108> [G]:  55938 [E]:  29535 [D]:  N/A [T]:36
+2015-12-30 19:05:48 : 109> [G]:  51161 [E]:  28293 [D]:  N/A [T]:35
+2015-12-30 19:05:52 : 110> [G]:  15052 [E]:  19316 [D]:   17 [T]:46
+2015-12-30 19:05:55 : 111> [G]:  12535 [E]:  28222 [D]:  N/A [T]:36
+2015-12-30 19:05:58 : 112> [G]:  55682 [E]:  23926 [D]:  N/A [T]:30
+2015-12-30 19:06:02 : 113> [G]:  19806 [E]:  20482 [D]:  N/A [T]:41
+2015-12-30 19:06:07 : 114> [G]: 178878 [E]: 206224 [D]: 2007 [T]:46
+2015-12-30 19:06:07 :       Not a Dead Base
+2015-12-30 19:06:12 : 115> [G]:  42556 [E]: 108015 [D]:  417 [T]:33
+2015-12-30 19:06:13 :       Not a Dead Base
+2015-12-30 19:06:16 : 116> [G]:  44090 [E]:  39078 [D]:   97 [T]:43
+2015-12-30 19:06:19 : 117> [G]:  61516 [E]:  45152 [D]:  N/A [T]:40
+2015-12-30 19:06:22 : 118> [G]:   1208 [E]:  55112 [D]:    1 [T]:26
+2015-12-30 19:06:26 : 119> [G]:  53768 [E]:  45875 [D]:  150 [T]:48
+2015-12-30 19:06:29 : Aim:           [G+E]: 116000 [D]:    0 [T]: 0 for: Dead Base
+2015-12-30 19:06:29 : 120> [G]:   1696 [E]:   6117 [D]:  N/A [T]:22
+2015-12-30 19:06:33 : 121> [G]:   3765 [E]:  11938 [D]:  N/A [T]:39
+2015-12-30 19:06:38 : 122> [G]:  21699 [E]: 118268 [D]:   21 [T]:36
+2015-12-30 19:06:38 :       Not a Dead Base
+2015-12-30 19:06:42 : 123> [G]:   8990 [E]:  48613 [D]:  239 [T]:48
+2015-12-30 19:06:45 : 124> [G]:  38104 [E]:   4600 [D]:  N/A [T]:39
+2015-12-30 19:06:51 : 125> [G]:  60882 [E]:  72310 [D]:  339 [T]:48
+2015-12-30 19:06:51 :       Not a Dead Base
+2015-12-30 19:06:55 : 126> [G]:   2762 [E]: 104997 [D]:  281 [T]:47
+2015-12-30 19:06:58 : 127> [G]:   4589 [E]:    369 [D]:  N/A [T]:35
+2015-12-30 19:07:01 : 128> [G]:  48592 [E]:  44612 [D]:    3 [T]:43
+2015-12-30 19:07:08 : 129> [G]:  35204 [E]:  24745 [D]:   84 [T]:48
+2015-12-30 19:07:13 : 130> [G]: 106091 [E]: 172187 [D]:  385 [T]:37
+2015-12-30 19:07:13 :       Not a Dead Base
+2015-12-30 19:07:18 : 131> [G]: 200549 [E]: 170324 [D]:  143 [T]:38
+2015-12-30 19:07:18 :       Dead Base Found! 
+2015-12-30 19:07:18 : ================ Search Complete =================
+2015-12-30 19:07:19 : Checking Townhall location: TH is outside, Attacking Townhall!
+2015-12-30 19:07:19 : Initiating attack for: Dead Base
+2015-12-30 19:07:24 : -*-Barbarians 75
+2015-12-30 19:07:24 : -*-Archers 75
+2015-12-30 19:07:24 :  ====== Start Attack ====== 
+2015-12-30 19:07:26 : Calculating Smart Attack Strategy
+2015-12-30 19:07:28 : Calculated  (in 1.46 seconds) :
+2015-12-30 19:07:28 : Locating Mines, Collectors & Drills
+2015-12-30 19:07:34 : Located  (in 6.75 seconds) :
+2015-12-30 19:07:34 : [8] Gold Mines
+2015-12-30 19:07:34 : [6] Elixir Collectors
+2015-12-30 19:07:35 : [0] Dark Elixir Drill/s
+2015-12-30 19:07:35 : Attacking on three sides
+2015-12-30 19:07:37 : Dropping first wave of Barbarians 38
+2015-12-30 19:07:41 : Dropping first wave of Archers 38
+2015-12-30 19:07:44 : Dropping second wave of Barbarians 38
+2015-12-30 19:07:48 : Dropping second wave of Archers 38
+2015-12-30 19:07:54 : Dropping left over troops
+2015-12-30 19:07:54 : Checking remaining unused troops for: Dead Base
+2015-12-30 19:08:07 : Checking remaining unused troops for: Dead Base
+2015-12-30 19:08:21 : Finished Attacking, waiting for the battle to end
+2015-12-30 19:08:21 : Checking if the battle has finished
+2015-12-30 19:08:23 : detected [G]: 169445 [E]: 112277 [DE]: 139 |  Exit in 18 sec.
+2015-12-30 19:08:23 : Gold & Elixir & DE change detected, waiting...
+2015-12-30 19:08:26 : detected [G]:  [E]:  [DE]:  |  Exit now 
+2015-12-30 19:08:26 : Gold & Elixir & DE = 0, end battle 
+2015-12-30 19:08:27 : Battle has finished
+2015-12-30 19:08:27 : Returning Home
+2015-12-30 19:08:32 : Loot: [G]: 31 104 [E]: 58 047 [DE]: 4 [T]: 12
+2015-12-30 19:08:32 : Bonus Percentage: 30%
+2015-12-30 19:08:32 : Bonus [G]: 780 out of 2 600 [E]: 780 out of 2 600
+2015-12-30 19:08:33 : Your league level is: Silver III
+2015-12-30 19:08:33 : Stars earned: 1
+2015-12-30 19:08:33 : Taking snapshot of your loot
+2015-12-30 19:08:41 : Trying to locate Main Screen
+2015-12-30 19:08:41 : Main Screen Located
+2015-12-30 19:08:43 : Village Report
+2015-12-30 19:08:43 : No. of Free/Total Builders: 2/3
+2015-12-30 19:08:43 :  [T]: 901
+2015-12-30 19:08:43 :  [G]: 1 413 632 [E]: 1 138 680 [D]: 917 [GEM]: 463
+2015-12-30 19:08:45 : Collecting Resources
+2015-12-30 19:08:56 : Training Troops & Spells
+2015-12-30 19:08:57 : Checking Army Camp...
+2015-12-30 19:08:58 : Total Army Camp capacity: 97/150 (64%)
+2015-12-30 19:09:00 :  - No. of Barbarians: 25
+2015-12-30 19:09:00 :  - No. of Archers: 72
+2015-12-30 19:09:17 : ====== Waiting for full army ======
+2015-12-30 19:09:28 : Training Troops & Spells
+2015-12-30 19:09:29 : Checking Army Camp...
+2015-12-30 19:09:30 : Total Army Camp capacity: 104/150 (69%)
+2015-12-30 19:09:32 :  - No. of Barbarians: 32
+2015-12-30 19:09:32 :  - No. of Archers: 72
+2015-12-30 19:09:43 : Time Idle: 00:00:26
+2015-12-30 19:09:43 : ====== Waiting for full army ======
+2015-12-30 19:09:55 : Collecting Resources
+2015-12-30 19:10:03 : Training Troops & Spells
+2015-12-30 19:10:04 : Checking Army Camp...
+2015-12-30 19:10:05 : Total Army Camp capacity: 111/150 (74%)
+2015-12-30 19:10:06 :  - No. of Barbarians: 39
+2015-12-30 19:10:06 :  - No. of Archers: 72
+2015-12-30 19:10:16 : Time Idle: 00:00:58
+2015-12-30 19:10:16 : ====== Waiting for full army ======
+2015-12-30 19:10:28 : Training Troops & Spells
+2015-12-30 19:10:28 : Checking Army Camp...
+2015-12-30 19:10:30 : Total Army Camp capacity: 115/150 (76%)
+2015-12-30 19:10:32 :  - No. of Barbarians: 43
+2015-12-30 19:10:32 :  - No. of Archers: 72
+2015-12-30 19:10:41 : Time Idle: 00:01:23
+2015-12-30 19:10:41 : ====== Waiting for full army ======
+2015-12-30 19:10:53 : Training Troops & Spells
+2015-12-30 19:10:54 : Checking Army Camp...
+2015-12-30 19:10:55 : Total Army Camp capacity: 119/150 (79%)
+2015-12-30 19:10:57 :  - No. of Barbarians: 47
+2015-12-30 19:10:57 :  - No. of Archers: 72
+2015-12-30 19:11:07 : Time Idle: 00:01:49
+2015-12-30 19:11:07 : ====== Waiting for full army ======
+2015-12-30 19:11:19 : Training Troops & Spells
+2015-12-30 19:11:19 : Checking Army Camp...
+2015-12-30 19:11:21 : Total Army Camp capacity: 122/150 (81%)
+2015-12-30 19:11:22 :  - No. of Barbarians: 51
+2015-12-30 19:11:22 :  - No. of Archers: 72
+2015-12-30 19:11:32 : Time Idle: 00:02:13
+2015-12-30 19:11:32 : ====== Waiting for full army ======
+2015-12-30 19:11:44 : Training Troops & Spells
+2015-12-30 19:11:45 : Checking Army Camp...
+2015-12-30 19:11:46 : Total Army Camp capacity: 127/150 (84%)
+2015-12-30 19:11:48 :  - No. of Barbarians: 55
+2015-12-30 19:11:48 :  - No. of Archers: 72
+2015-12-30 19:11:57 : Time Idle: 00:02:39
+2015-12-30 19:11:57 : ====== Waiting for full army ======
+2015-12-30 19:12:09 : Training Troops & Spells
+2015-12-30 19:12:10 : Checking Army Camp...
+2015-12-30 19:12:11 : Total Army Camp capacity: 130/150 (86%)
+2015-12-30 19:12:13 :  - No. of Barbarians: 58
+2015-12-30 19:12:13 :  - No. of Archers: 72
+2015-12-30 19:12:22 : Time Idle: 00:03:03
+2015-12-30 19:12:22 : ====== Waiting for full army ======
+2015-12-30 19:12:34 : Training Troops & Spells
+2015-12-30 19:12:35 : Checking Army Camp...
+2015-12-30 19:12:36 : Total Army Camp capacity: 134/150 (89%)
+2015-12-30 19:12:38 :  - No. of Barbarians: 62
+2015-12-30 19:12:38 :  - No. of Archers: 72
+2015-12-30 19:12:47 : Time Idle: 00:03:28
+2015-12-30 19:12:48 : ====== Waiting for full army ======
+2015-12-30 19:12:59 : Training Troops & Spells
+2015-12-30 19:13:00 : Checking Army Camp...
+2015-12-30 19:13:01 : Total Army Camp capacity: 137/150 (91%)
+2015-12-30 19:13:03 :  - No. of Barbarians: 64
+2015-12-30 19:13:04 :  - No. of Archers: 73
+2015-12-30 19:13:13 : Time Idle: 00:03:54
+2015-12-30 19:13:14 : ====== Waiting for full army ======
+2015-12-30 19:13:25 : Training Troops & Spells
+2015-12-30 19:13:26 : Checking Army Camp...
+2015-12-30 19:13:27 : Total Army Camp capacity: 141/150 (94%)
+2015-12-30 19:13:29 :  - No. of Barbarians: 66
+2015-12-30 19:13:29 :  - No. of Archers: 75
+2015-12-30 19:13:39 : Time Idle: 00:04:19
+2015-12-30 19:13:39 : ====== Waiting for full army ======
+2015-12-30 19:13:51 : Training Troops & Spells
+2015-12-30 19:13:52 : Checking Army Camp...
+2015-12-30 19:13:53 : Total Army Camp capacity: 145/150 (96%)
+2015-12-30 19:13:55 :  - No. of Barbarians: 70
+2015-12-30 19:13:55 :  - No. of Archers: 75
+2015-12-30 19:14:05 : Time Idle: 00:04:46
+2015-12-30 19:14:06 : ====== Waiting for full army ======
+2015-12-30 19:14:17 : Training Troops & Spells
+2015-12-30 19:14:18 : Checking Army Camp...
+2015-12-30 19:14:20 : Total Army Camp capacity: 148/150 (98%)
+2015-12-30 19:14:21 :  - No. of Barbarians: 74
+2015-12-30 19:14:21 :  - No. of Archers: 75
+2015-12-30 19:14:32 : Time Idle: 00:05:12
+2015-12-30 19:14:32 : ====== Waiting for full army ======
+2015-12-30 19:14:44 : Collecting Resources
+2015-12-30 19:14:53 : Training Troops & Spells
+2015-12-30 19:14:54 : Checking Army Camp...
+2015-12-30 19:14:55 : Total Army Camp capacity: 150/150 (100%)
+2015-12-30 19:14:57 :  - No. of Barbarians: 75
+2015-12-30 19:14:57 :  - No. of Archers: 75
+2015-12-30 19:14:58 : Your Army Camps are now Full
+2015-12-30 19:14:58 : Calculating Troops before Training new Army.
+2015-12-30 19:14:58 : Build troops before attacking.
+2015-12-30 19:15:18 : Going to Attack...
+2015-12-30 19:15:25 : ============== Searching For Dead Base ===============
+2015-12-30 19:15:25 : ~~~~~~~~~~~~~~~ SEARCH CONDITIONS ~~~~~~~~~~~~~~~~
+2015-12-30 19:15:25 : Meet: Gold + Elixir
+2015-12-30 19:15:25 : ~~~~~~~~~~~~~~ RESOURCE CONDITIONS ~~~~~~~~~~~~~~~
+2015-12-30 19:15:25 : Aim: [G+E]: 140000 [D]:    0 [T]: 0 for: Dead Base
+2015-12-30 19:15:25 : ~~~~~~~~~~~~~~~ ADVANCED SETTINGS ~~~~~~~~~~~~~~~~
+2015-12-30 19:15:25 :  Attack TH Outside Bam
+2015-12-30 19:15:25 : ==================================================
+2015-12-30 19:15:26 :   1> [G]:   3478 [E]:   5504 [D]:  N/A [T]:34
+2015-12-30 19:15:34 :   2> [G]: 288527 [E]: 215183 [D]:  500 [T]:37
+2015-12-30 19:15:34 :       Dead Base Found! 
+2015-12-30 19:15:34 : ================ Search Complete =================
+2015-12-30 19:15:35 : Checking Townhall location: TH is inside, skip Attack TH
+2015-12-30 19:15:35 : Initiating attack for: Dead Base
+2015-12-30 19:15:41 : -*-Barbarians 75
+2015-12-30 19:15:41 : -*-Archers 75
+2015-12-30 19:15:41 :  ====== Start Attack ====== 
+2015-12-30 19:15:43 : Calculating Smart Attack Strategy
+2015-12-30 19:15:44 : Calculated  (in 1.15 seconds) :
+2015-12-30 19:15:44 : Locating Mines, Collectors & Drills
+2015-12-30 19:15:52 : Located  (in 7.65 seconds) :
+2015-12-30 19:15:52 : [7] Gold Mines
+2015-12-30 19:15:52 : [6] Elixir Collectors
+2015-12-30 19:15:52 : [0] Dark Elixir Drill/s
+2015-12-30 19:15:52 : Attacking on three sides
+2015-12-30 19:15:54 : Dropping first wave of Barbarians 38
+2015-12-30 19:15:57 : Dropping first wave of Archers 38
+2015-12-30 19:16:01 : Dropping second wave of Barbarians 38
+2015-12-30 19:16:04 : Dropping second wave of Archers 38
+2015-12-30 19:16:10 : Dropping left over troops
+2015-12-30 19:16:10 : Checking remaining unused troops for: Dead Base
+2015-12-30 19:16:22 : Checking remaining unused troops for: Dead Base
+2015-12-30 19:16:35 : Finished Attacking, waiting for the battle to end
+2015-12-30 19:16:35 : Checking if the battle has finished
+2015-12-30 19:16:37 : detected [G]: 142814 [E]: 51943 [DE]: 500 |  Exit in 18 sec.
+2015-12-30 19:16:37 : Gold & Elixir & DE change detected, waiting...
+2015-12-30 19:16:41 : detected [G]: 141611 [E]: 51943 [DE]: 500 |  Exit in 18 sec.
+2015-12-30 19:16:41 : Gold & Elixir & DE change detected, waiting...
+2015-12-30 19:16:44 : detected [G]: 140007 [E]: 51943 [DE]: 500 |  Exit in 18 sec.
+2015-12-30 19:16:44 : Gold & Elixir & DE change detected, waiting...
+2015-12-30 19:16:48 : detected [G]: 138403 [E]: 51943 [DE]: 500 |  Exit in 18 sec.
+2015-12-30 19:16:48 : Gold & Elixir & DE change detected, waiting...
+2015-12-30 19:16:52 : detected [G]: 137200 [E]: 51943 [DE]: 500 |  Exit in 18 sec.
+2015-12-30 19:16:52 : Gold & Elixir & DE change detected, waiting...
+2015-12-30 19:16:55 : detected [G]: 135592 [E]: 51943 [DE]: 500 |  Exit in 18 sec.
+2015-12-30 19:16:55 : Gold & Elixir & DE change detected, waiting...
+2015-12-30 19:16:59 : detected [G]: 133984 [E]: 51943 [DE]: 500 |  Exit in 18 sec.
+2015-12-30 19:16:59 : Gold & Elixir & DE change detected, waiting...
+2015-12-30 19:17:03 : detected [G]: 132376 [E]: 51943 [DE]: 500 |  Exit in 18 sec.
+2015-12-30 19:17:03 : Gold & Elixir & DE change detected, waiting...
+2015-12-30 19:17:06 : detected [G]: 131170 [E]: 51943 [DE]: 500 |  Exit in 18 sec.
+2015-12-30 19:17:07 : Gold & Elixir & DE change detected, waiting...
+2015-12-30 19:17:10 : detected [G]: 129562 [E]: 51943 [DE]: 500 |  Exit in 18 sec.
+2015-12-30 19:17:10 : Gold & Elixir & DE change detected, waiting...
+2015-12-30 19:17:14 : detected [G]: 128356 [E]: 51943 [DE]: 500 |  Exit in 18 sec.
+2015-12-30 19:17:14 : Gold & Elixir & DE change detected, waiting...
+2015-12-30 19:17:18 : detected [G]: 127284 [E]: 51943 [DE]: 500 |  Exit in 18 sec.
+2015-12-30 19:17:18 : Gold & Elixir & DE change detected, waiting...
+2015-12-30 19:17:21 : detected [G]: 109856 [E]: 37666 [DE]: 445 |  Exit in 18 sec.
+2015-12-30 19:17:21 : Gold & Elixir & DE change detected, waiting...
+2015-12-30 19:17:25 : detected [G]: 109856 [E]: 37666 [DE]: 445 |  Exit in 18 sec.
+2015-12-30 19:17:27 : detected [G]:  [E]:  [DE]:  |  Exit now 
+2015-12-30 19:17:27 : Gold & Elixir & DE = 0, end battle 
+2015-12-30 19:17:28 : Battle has finished
+2015-12-30 19:17:28 : Returning Home
+2015-12-30 19:17:32 : Loot: [G]: 178 671 [E]: 177 517 [DE]: 55 [T]: 12
+2015-12-30 19:17:32 : Bonus Percentage: 54%
+2015-12-30 19:17:33 : Bonus [G]: 1 404 out of 2 600 [E]: 1 404 out of 2 600
+2015-12-30 19:17:33 : Your league level is: Silver III
+2015-12-30 19:17:33 : Stars earned: 1
+2015-12-30 19:17:33 : Taking snapshot of your loot
+2015-12-30 19:17:42 : Trying to locate Main Screen
+2015-12-30 19:17:42 : Main Screen Located
+2015-12-30 19:17:43 : Village Report
+2015-12-30 19:17:44 : No. of Free/Total Builders: 2/3
+2015-12-30 19:17:44 :  [T]: 913
+2015-12-30 19:17:44 :  [G]: 1 594 580 [E]: 1 305 142 [D]: 972 [GEM]: 463
+2015-12-30 19:17:45 : Collecting Resources
+2015-12-30 19:17:56 : Training Troops & Spells
+2015-12-30 19:17:57 : Checking Army Camp...
+2015-12-30 19:17:58 : Total Army Camp capacity: 23/150 (15%)
+2015-12-30 19:17:59 :  - No. of Archers: 23
+2015-12-30 19:18:16 : ====== Waiting for full army ======
+2015-12-30 19:18:28 : Training Troops & Spells
+2015-12-30 19:18:29 : Checking Army Camp...
+2015-12-30 19:18:30 : Total Army Camp capacity: 28/150 (18%)
+2015-12-30 19:18:32 :  - No. of Archers: 28
+2015-12-30 19:18:42 : Time Idle: 00:00:25
+2015-12-30 19:18:42 : ====== Waiting for full army ======
+2015-12-30 19:18:54 : Training Troops & Spells
+2015-12-30 19:18:55 : Checking Army Camp...
+2015-12-30 19:18:56 : Total Army Camp capacity: 32/150 (21%)
+2015-12-30 19:18:58 :  - No. of Archers: 32
+2015-12-30 19:19:07 : Time Idle: 00:00:50
+2015-12-30 19:19:07 : ====== Waiting for full army ======
+2015-12-30 19:19:19 : Training Troops & Spells
+2015-12-30 19:19:19 : Checking Army Camp...
+2015-12-30 19:19:21 : Total Army Camp capacity: 36/150 (24%)
+2015-12-30 19:19:22 :  - No. of Archers: 36
+2015-12-30 19:19:31 : Time Idle: 00:01:14
+2015-12-30 19:19:31 : ====== Waiting for full army ======
+2015-12-30 19:19:43 : Training Troops & Spells
+2015-12-30 19:19:44 : Checking Army Camp...
+2015-12-30 19:19:45 : Total Army Camp capacity: 40/150 (26%)
+2015-12-30 19:19:47 :  - No. of Archers: 40
+2015-12-30 19:19:55 : Time Idle: 00:01:38
+2015-12-30 19:19:56 : ====== Waiting for full army ======
+2015-12-30 19:20:08 : Training Troops & Spells
+2015-12-30 19:20:08 : Checking Army Camp...
+2015-12-30 19:20:10 : Total Army Camp capacity: 44/150 (29%)
+2015-12-30 19:20:11 :  - No. of Archers: 44
+2015-12-30 19:20:20 : Time Idle: 00:02:02
+2015-12-30 19:20:20 : ====== Waiting for full army ======
+2015-12-30 19:20:32 : Training Troops & Spells
+2015-12-30 19:20:33 : Checking Army Camp...
+2015-12-30 19:20:34 : Total Army Camp capacity: 48/150 (32%)
+2015-12-30 19:20:35 :  - No. of Archers: 48
+2015-12-30 19:20:44 : Time Idle: 00:02:26
+2015-12-30 19:20:44 : ====== Waiting for full army ======
+2015-12-30 19:20:56 : Training Troops & Spells
+2015-12-30 19:20:57 : Checking Army Camp...
+2015-12-30 19:20:58 : Total Army Camp capacity: 52/150 (34%)
+2015-12-30 19:21:00 :  - No. of Archers: 52
+2015-12-30 19:21:08 : Time Idle: 00:02:50
+2015-12-30 19:21:09 : ====== Waiting for full army ======
+2015-12-30 19:21:21 : Training Troops & Spells
+2015-12-30 19:21:21 : Checking Army Camp...
+2015-12-30 19:21:23 : Total Army Camp capacity: 56/150 (37%)
+2015-12-30 19:21:24 :  - No. of Archers: 56
+2015-12-30 19:21:33 : Time Idle: 00:03:14
+2015-12-30 19:21:33 : ====== Waiting for full army ======
+2015-12-30 19:21:45 : Training Troops & Spells
+2015-12-30 19:21:45 : Checking Army Camp...
+2015-12-30 19:21:47 : Total Army Camp capacity: 60/150 (40%)
+2015-12-30 19:21:48 :  - No. of Archers: 60
+2015-12-30 19:21:57 : Time Idle: 00:03:38
+2015-12-30 19:21:57 : ====== Waiting for full army ======
+2015-12-30 19:22:09 : Training Troops & Spells
+2015-12-30 19:22:10 : Checking Army Camp...
+2015-12-30 19:22:11 : Total Army Camp capacity: 63/150 (42%)
+2015-12-30 19:22:12 :  - No. of Archers: 64
+2015-12-30 19:22:21 : Time Idle: 00:04:02
+2015-12-30 19:22:21 : ====== Waiting for full army ======
+2015-12-30 19:22:33 : Collecting Resources
+2015-12-30 19:22:41 : Training Troops & Spells
+2015-12-30 19:22:42 : Checking Army Camp...
+2015-12-30 19:22:43 : Total Army Camp capacity: 68/150 (45%)
+2015-12-30 19:22:44 :  - No. of Archers: 68
+2015-12-30 19:22:53 : Time Idle: 00:04:34
+2015-12-30 19:22:53 : ====== Waiting for full army ======
+2015-12-30 19:23:05 : Training Troops & Spells
+2015-12-30 19:23:06 : Checking Army Camp...
+2015-12-30 19:23:07 : Total Army Camp capacity: 73/150 (48%)
+2015-12-30 19:23:09 :  - No. of Barbarians: 1
+2015-12-30 19:23:09 :  - No. of Archers: 72
+2015-12-30 19:23:18 : Time Idle: 00:04:58
+2015-12-30 19:23:18 : ====== Waiting for full army ======
+2015-12-30 19:23:30 : Training Troops & Spells
+2015-12-30 19:23:31 : Checking Army Camp...
+2015-12-30 19:23:32 : Total Army Camp capacity: 77/150 (51%)
+2015-12-30 19:23:34 :  - No. of Barbarians: 5
+2015-12-30 19:23:34 :  - No. of Archers: 72
+2015-12-30 19:23:43 : Time Idle: 00:05:23
+2015-12-30 19:23:43 : ====== Waiting for full army ======
+2015-12-30 19:23:55 : Training Troops & Spells
+2015-12-30 19:23:56 : Checking Army Camp...
+2015-12-30 19:23:57 : Total Army Camp capacity: 83/150 (55%)
+2015-12-30 19:23:59 :  - No. of Barbarians: 11
+2015-12-30 19:23:59 :  - No. of Archers: 72
+2015-12-30 19:24:08 : Time Idle: 00:05:48
+2015-12-30 19:24:08 : ====== Waiting for full army ======
+2015-12-30 19:24:20 : Training Troops & Spells
+2015-12-30 19:24:21 : Checking Army Camp...
+2015-12-30 19:24:22 : Total Army Camp capacity: 88/150 (58%)
+2015-12-30 19:24:24 :  - No. of Barbarians: 16
+2015-12-30 19:24:24 :  - No. of Archers: 72
+2015-12-30 19:24:33 : Time Idle: 00:06:13
+2015-12-30 19:24:33 : ====== Waiting for full army ======
+2015-12-30 19:24:45 : Training Troops & Spells
+2015-12-30 19:24:46 : Checking Army Camp...
+2015-12-30 19:24:47 : Total Army Camp capacity: 93/150 (62%)
+2015-12-30 19:24:49 :  - No. of Barbarians: 21
+2015-12-30 19:24:49 :  - No. of Archers: 72
+2015-12-30 19:24:58 : Time Idle: 00:06:37
+2015-12-30 19:24:58 : ====== Waiting for full army ======
+2015-12-30 19:25:10 : Training Troops & Spells
+2015-12-30 19:25:11 : Checking Army Camp...
+2015-12-30 19:25:12 : Total Army Camp capacity: 97/150 (64%)
+2015-12-30 19:25:14 :  - No. of Barbarians: 26
+2015-12-30 19:25:14 :  - No. of Archers: 72
+2015-12-30 19:25:24 : Time Idle: 00:07:03
+2015-12-30 19:25:24 : ====== Waiting for full army ======
+2015-12-30 19:25:36 : Training Troops & Spells
+2015-12-30 19:25:37 : Checking Army Camp...
+2015-12-30 19:25:38 : Total Army Camp capacity: 103/150 (68%)
+2015-12-30 19:25:40 :  - No. of Barbarians: 31
+2015-12-30 19:25:40 :  - No. of Archers: 72
+2015-12-30 19:25:49 : Time Idle: 00:07:28
+2015-12-30 19:25:50 : ====== Waiting for full army ======
+2015-12-30 19:26:01 : Training Troops & Spells
+2015-12-30 19:26:02 : Checking Army Camp...
+2015-12-30 19:26:03 : Total Army Camp capacity: 108/150 (72%)
+2015-12-30 19:26:05 :  - No. of Barbarians: 36
+2015-12-30 19:26:05 :  - No. of Archers: 72
+2015-12-30 19:26:14 : Time Idle: 00:07:53
+2015-12-30 19:26:14 : ====== Waiting for full army ======
+2015-12-30 19:26:26 : Training Troops & Spells
+2015-12-30 19:26:27 : Checking Army Camp...
+2015-12-30 19:26:29 : Total Army Camp capacity: 113/150 (75%)
+2015-12-30 19:26:30 :  - No. of Barbarians: 41
+2015-12-30 19:26:30 :  - No. of Archers: 72
+2015-12-30 19:26:39 : Time Idle: 00:08:17
+2015-12-30 19:26:40 : ====== Waiting for full army ======
+2015-12-30 19:26:52 : Training Troops & Spells
+2015-12-30 19:26:52 : Checking Army Camp...
+2015-12-30 19:26:54 : Total Army Camp capacity: 117/150 (78%)
+2015-12-30 19:26:55 :  - No. of Barbarians: 45
+2015-12-30 19:26:55 :  - No. of Archers: 72
+2015-12-30 19:27:05 : Time Idle: 00:08:42
+2015-12-30 19:27:05 : ====== Waiting for full army ======
+2015-12-30 19:27:17 : Collecting Resources
+2015-12-30 19:27:25 : Training Troops & Spells
+2015-12-30 19:27:26 : Checking Army Camp...
+2015-12-30 19:27:27 : Total Army Camp capacity: 122/150 (81%)
+2015-12-30 19:27:29 :  - No. of Barbarians: 50
+2015-12-30 19:27:29 :  - No. of Archers: 72
+2015-12-30 19:27:38 : Time Idle: 00:09:15
+2015-12-30 19:27:38 : ====== Waiting for full army ======
+2015-12-30 19:27:50 : Training Troops & Spells
+2015-12-30 19:27:50 : Checking Army Camp...
+2015-12-30 19:27:52 : Total Army Camp capacity: 125/150 (83%)
+2015-12-30 19:27:53 :  - No. of Barbarians: 53
+2015-12-30 19:27:53 :  - No. of Archers: 72
+2015-12-30 19:28:02 : Time Idle: 00:09:39
+2015-12-30 19:28:02 : ====== Waiting for full army ======
+2015-12-30 19:28:14 : Training Troops & Spells
+2015-12-30 19:28:15 : Checking Army Camp...
+2015-12-30 19:28:16 : Total Army Camp capacity: 129/150 (86%)
+2015-12-30 19:28:17 :  - No. of Barbarians: 57
+2015-12-30 19:28:18 :  - No. of Archers: 72
+2015-12-30 19:28:26 : Time Idle: 00:10:04
+2015-12-30 19:28:27 : ====== Waiting for full army ======
+2015-12-30 19:28:39 : Training Troops & Spells
+2015-12-30 19:28:39 : Checking Army Camp...
+2015-12-30 19:28:40 : Total Army Camp capacity: 133/150 (88%)
+2015-12-30 19:28:42 :  - No. of Barbarians: 61
+2015-12-30 19:28:42 :  - No. of Archers: 72
+2015-12-30 19:28:51 : Time Idle: 00:10:28
+2015-12-30 19:28:51 : ====== Waiting for full army ======
+2015-12-30 19:29:03 : Training Troops & Spells
+2015-12-30 19:29:04 : Checking Army Camp...
+2015-12-30 19:29:05 : Total Army Camp capacity: 136/150 (90%)
+2015-12-30 19:29:06 :  - No. of Barbarians: 64
+2015-12-30 19:29:06 :  - No. of Archers: 72
+2015-12-30 19:29:15 : Time Idle: 00:10:52
+2015-12-30 19:29:16 : ====== Waiting for full army ======
+2015-12-30 19:29:27 : Training Troops & Spells
+2015-12-30 19:29:28 : Checking Army Camp...
+2015-12-30 19:29:29 : Total Army Camp capacity: 139/150 (92%)
+2015-12-30 19:29:31 :  - No. of Barbarians: 64
+2015-12-30 19:29:31 :  - No. of Archers: 75
+2015-12-30 19:29:41 : Time Idle: 00:11:17
+2015-12-30 19:29:41 : ====== Waiting for full army ======
+2015-12-30 19:29:53 : Training Troops & Spells
+2015-12-30 19:29:54 : Checking Army Camp...
+2015-12-30 19:29:55 : Total Army Camp capacity: 143/150 (95%)
+2015-12-30 19:29:57 :  - No. of Barbarians: 68
+2015-12-30 19:29:57 :  - No. of Archers: 75
+2015-12-30 19:30:07 : Time Idle: 00:11:43
+2015-12-30 19:30:07 : ====== Waiting for full army ======
+2015-12-30 19:30:19 : Training Troops & Spells
+2015-12-30 19:30:20 : Checking Army Camp...
+2015-12-30 19:30:21 : Total Army Camp capacity: 147/150 (98%)
+2015-12-30 19:30:23 :  - No. of Barbarians: 72
+2015-12-30 19:30:23 :  - No. of Archers: 75
+2015-12-30 19:30:33 : Time Idle: 00:12:09
+2015-12-30 19:30:33 : ====== Waiting for full army ======
+2015-12-30 19:30:45 : Training Troops & Spells
+2015-12-30 19:30:46 : Checking Army Camp...
+2015-12-30 19:30:47 : Total Army Camp capacity: 150/150 (100%)
+2015-12-30 19:30:48 :  - No. of Barbarians: 75
+2015-12-30 19:30:48 :  - No. of Archers: 75
+2015-12-30 19:30:49 : Your Army Camps are now Full
+2015-12-30 19:30:49 : Calculating Troops before Training new Army.
+2015-12-30 19:30:49 : Build troops before attacking.
+2015-12-30 19:31:09 : Going to Attack...
+2015-12-30 19:31:15 : ============== Searching For Dead Base ===============
+2015-12-30 19:31:15 : ~~~~~~~~~~~~~~~ SEARCH CONDITIONS ~~~~~~~~~~~~~~~~
+2015-12-30 19:31:15 : Meet: Gold + Elixir
+2015-12-30 19:31:15 : ~~~~~~~~~~~~~~ RESOURCE CONDITIONS ~~~~~~~~~~~~~~~
+2015-12-30 19:31:15 : Aim: [G+E]: 140000 [D]:    0 [T]: 0 for: Dead Base
+2015-12-30 19:31:15 : ~~~~~~~~~~~~~~~ ADVANCED SETTINGS ~~~~~~~~~~~~~~~~
+2015-12-30 19:31:15 :  Attack TH Outside Bam
+2015-12-30 19:31:15 : ==================================================
+2015-12-30 19:31:17 :   1> [G]:   1688 [E]:   1125 [D]:  N/A [T]:22
+2015-12-30 19:31:19 :   2> [G]:   1891 [E]:  10486 [D]:   56 [T]:37
+2015-12-30 19:31:26 :   3> [G]:   6445 [E]:  63237 [D]:  N/A [T]:31
+2015-12-30 19:31:31 :   4> [G]: 195736 [E]:  98510 [D]:  N/A [T]:21
+2015-12-30 19:31:31 :       Not a Dead Base
+2015-12-30 19:31:36 :   5> [G]: 178933 [E]: 168789 [D]:    1 [T]:39
+2015-12-30 19:31:37 :       Not a Dead Base
+2015-12-30 19:31:40 :   6> [G]:  67347 [E]:  34744 [D]:   20 [T]:37
+2015-12-30 19:31:46 :   7> [G]:  39218 [E]:  17214 [D]:  N/A [T]:22
+2015-12-30 19:31:51 :   8> [G]: 198953 [E]: 276953 [D]:  827 [T]:27
+2015-12-30 19:31:51 :       Not a Dead Base
+2015-12-30 19:31:56 :   9> [G]:  81595 [E]:  62546 [D]:    0 [T]:36
+2015-12-30 19:31:56 :       Not a Dead Base
+2015-12-30 19:32:03 :  10> [G]:  48045 [E]: 279979 [D]:  347 [T]:34
+2015-12-30 19:32:03 :       Not a Dead Base
+2015-12-30 19:32:06 :  11> [G]:  28837 [E]:   3331 [D]:  N/A [T]:26
+2015-12-30 19:32:15 :  12> [G]:  55724 [E]:  33623 [D]:  N/A [T]:39
+2015-12-30 19:32:19 :  13> [G]:   9702 [E]:  38148 [D]:  N/A [T]:38
+2015-12-30 19:32:24 :  14> [G]:  18910 [E]:  30838 [D]:  N/A [T]:37
+2015-12-30 19:32:27 :  15> [G]:  22842 [E]:  24488 [D]:  N/A [T]:36
+2015-12-30 19:32:33 :  16> [G]:  35394 [E]: 163912 [D]:  378 [T]:20
+2015-12-30 19:32:33 :       Not a Dead Base
+2015-12-30 19:32:36 :  17> [G]:  33826 [E]:   6849 [D]:  N/A [T]:36
+2015-12-30 19:32:43 :  18> [G]:  11433 [E]:   4547 [D]:  N/A [T]:38
+2015-12-30 19:32:48 :  19> [G]: 120520 [E]:  97779 [D]:  285 [T]:39
+2015-12-30 19:32:48 :       Not a Dead Base
+2015-12-30 19:32:51 : Aim:           [G+E]: 136000 [D]:    0 [T]: 0 for: Dead Base
+2015-12-30 19:32:52 :  20> [G]:  45543 [E]:  10085 [D]:   51 [T]:39
+2015-12-30 19:32:55 :  21> [G]:  72993 [E]:  31452 [D]:  171 [T]:39
+2015-12-30 19:32:58 :  22> [G]:  49389 [E]:  45961 [D]:  181 [T]:42
+2015-12-30 19:33:01 :  23> [G]:  65713 [E]:  61096 [D]:  547 [T]:41
+2015-12-30 19:33:07 :  24> [G]: 130336 [E]: 108177 [D]:  198 [T]:35
+2015-12-30 19:33:07 :       Not a Dead Base
+2015-12-30 19:33:10 :  25> [G]:   1910 [E]:   2589 [D]:   29 [T]:35
+2015-12-30 19:33:13 :  26> [G]:  18651 [E]:  23871 [D]:  N/A [T]:37
+2015-12-30 19:33:18 :  27> [G]:  29345 [E]: 108206 [D]:  N/A [T]:35
+2015-12-30 19:33:19 :       Not a Dead Base
+2015-12-30 19:33:24 :  28> [G]:  13543 [E]:  19540 [D]:  N/A [T]:38
+2015-12-30 19:33:27 :  29> [G]:  56311 [E]:  60460 [D]:  148 [T]:41
+2015-12-30 19:33:33 :  30> [G]: 141220 [E]: 176137 [D]: 1170 [T]:31
+2015-12-30 19:33:33 :       Not a Dead Base
+2015-12-30 19:33:38 :  31> [G]:  23444 [E]:  45329 [D]:  N/A [T]:36
+2015-12-30 19:33:41 :  32> [G]:   6982 [E]:  88649 [D]: 1078 [T]:34
+2015-12-30 19:33:44 :  33> [G]:  19937 [E]:  43883 [D]:  N/A [T]:38
+2015-12-30 19:33:49 :  34> [G]:   6696 [E]:   9330 [D]:  N/A [T]:39
+2015-12-30 19:33:52 :  35> [G]:   9699 [E]:  47124 [D]:  N/A [T]:30
+2015-12-30 19:33:59 :  36> [G]:   4197 [E]:  23429 [D]:  N/A [T]:39
+2015-12-30 19:34:02 :  37> [G]:  48079 [E]:  79518 [D]:  199 [T]:39
+2015-12-30 19:34:06 :  38> [G]:  34274 [E]:  29013 [D]:   10 [T]:44
+2015-12-30 19:34:09 :  39> [G]:  51142 [E]:  34019 [D]:    0 [T]:41
+2015-12-30 19:34:12 : Aim:           [G+E]: 132000 [D]:    0 [T]: 0 for: Dead Base
+2015-12-30 19:34:14 :  40> [G]:  27908 [E]: 124653 [D]:  250 [T]:36
+2015-12-30 19:34:14 :       Not a Dead Base
+2015-12-30 19:34:17 :  41> [G]:  51162 [E]:  60472 [D]:    7 [T]:37
+2015-12-30 19:34:22 :  42> [G]:  27099 [E]: 227002 [D]:  509 [T]:20
+2015-12-30 19:34:22 :       Not a Dead Base
+2015-12-30 19:34:27 :  43> [G]: 171406 [E]:  52804 [D]:    0 [T]:39
+2015-12-30 19:34:27 :       Not a Dead Base
+2015-12-30 19:34:32 :  44> [G]:  75314 [E]:  73107 [D]:  N/A [T]:27
+2015-12-30 19:34:32 :       Not a Dead Base
+2015-12-30 19:34:35 :  45> [G]:  61990 [E]:  53520 [D]: 1498 [T]:46
+2015-12-30 19:34:42 :  46> [G]:  97670 [E]:  86489 [D]:  299 [T]:45
+2015-12-30 19:34:42 :       Not a Dead Base
+2015-12-30 19:34:47 :  47> [G]:  10288 [E]:  50670 [D]:  N/A [T]:27
+2015-12-30 19:34:52 :  48> [G]:  18525 [E]: 347274 [D]:  527 [T]:34
+2015-12-30 19:34:52 :       Not a Dead Base
+2015-12-30 19:34:55 :  49> [G]:  46532 [E]:  48737 [D]:    6 [T]:42
+2015-12-30 19:34:58 :  50> [G]:   9600 [E]:  41239 [D]:    0 [T]:39
+2015-12-30 19:35:02 :  51> [G]:  56059 [E]:  64694 [D]:  360 [T]:42
+2015-12-30 19:35:05 :  52> [G]:  23232 [E]:  73242 [D]:  N/A [T]:40
+2015-12-30 19:35:08 :  53> [G]:  53639 [E]:  44553 [D]:  134 [T]:39
+2015-12-30 19:35:13 :  54> [G]:  76294 [E]:  93270 [D]:  455 [T]:42
+2015-12-30 19:35:13 :       Not a Dead Base
+2015-12-30 19:35:18 :  55> [G]:  74043 [E]:  66666 [D]:   35 [T]:36
+2015-12-30 19:35:18 :       Not a Dead Base
+2015-12-30 19:35:21 :  56> [G]:   9736 [E]:  27699 [D]:  N/A [T]:32
+2015-12-30 19:35:24 :  57> [G]:  47556 [E]:   2711 [D]:  N/A [T]:38
+2015-12-30 19:35:29 :  58> [G]: 135227 [E]: 160674 [D]:  N/A [T]:28
+2015-12-30 19:35:29 :       Not a Dead Base
+2015-12-30 19:35:32 :  59> [G]:  30437 [E]:  19164 [D]:  N/A [T]:40
+2015-12-30 19:35:39 : Aim:           [G+E]: 128000 [D]:    0 [T]: 0 for: Dead Base
+2015-12-30 19:35:40 :  60> [G]:   5714 [E]:  63460 [D]:  N/A [T]:39
+2015-12-30 19:35:43 :  61> [G]:  58940 [E]:  51102 [D]:  N/A [T]:41
+2015-12-30 19:35:46 :  62> [G]:   5472 [E]:   6276 [D]:  N/A [T]:28
+2015-12-30 19:35:49 :  63> [G]:  48780 [E]:    683 [D]:  119 [T]:45
+2015-12-30 19:35:52 :  64> [G]:  12753 [E]:  84357 [D]:   69 [T]:44
+2015-12-30 19:35:56 :  65> [G]:  15720 [E]:  24982 [D]:  N/A [T]:28
+2015-12-30 19:35:59 :  66> [G]:  94783 [E]:  26285 [D]:   12 [T]:42
+2015-12-30 19:36:02 :  67> [G]:  42262 [E]:  72285 [D]:  316 [T]:40
+2015-12-30 19:36:05 :  68> [G]:  12245 [E]:  48530 [D]:  N/A [T]:41
+2015-12-30 19:36:10 :  69> [G]:  24818 [E]: 139596 [D]:  207 [T]:39
+2015-12-30 19:36:10 :       Not a Dead Base
+2015-12-30 19:36:15 :  70> [G]: 142934 [E]: 252687 [D]:   21 [T]:30
+2015-12-30 19:36:15 :       Not a Dead Base
+2015-12-30 19:36:18 :  71> [G]:  62013 [E]:   6284 [D]:  N/A [T]:34
+2015-12-30 19:36:21 :  72> [G]:   6077 [E]:   6335 [D]:  N/A [T]:39
+2015-12-30 19:36:28 :  73> [G]:  45910 [E]:  66416 [D]:  411 [T]:39
+2015-12-30 19:36:32 :  74> [G]:   7060 [E]: 110433 [D]:  289 [T]:24
+2015-12-30 19:36:37 :  75> [G]:  92066 [E]:  59451 [D]:  N/A [T]:38
+2015-12-30 19:36:37 :       Not a Dead Base
+2015-12-30 19:36:42 :  76> [G]: 331238 [E]:  11688 [D]: 1445 [T]:41
+2015-12-30 19:36:42 :       Not a Dead Base
+2015-12-30 19:36:45 :  77> [G]:  33725 [E]:  10371 [D]:  228 [T]:36
+2015-12-30 19:36:50 :  78> [G]:  86618 [E]: 104286 [D]:   77 [T]:44
+2015-12-30 19:36:50 :       Not a Dead Base
+2015-12-30 19:36:53 :  79> [G]:  31355 [E]:  29198 [D]:  877 [T]:45
+2015-12-30 19:36:56 : Aim:           [G+E]: 124000 [D]:    0 [T]: 0 for: Dead Base
+2015-12-30 19:36:59 :  80> [G]:  75043 [E]:  60231 [D]:  479 [T]:31
+2015-12-30 19:36:59 :       Not a Dead Base
+2015-12-30 19:37:02 :  81> [G]:  20971 [E]:  23205 [D]:  N/A [T]:36
+2015-12-30 19:37:05 :  82> [G]:   2544 [E]:   2116 [D]:   22 [T]:40
+2015-12-30 19:37:08 :  83> [G]:   8605 [E]:   3124 [D]:   37 [T]:35
+2015-12-30 19:37:13 :  84> [G]:  36706 [E]:  88410 [D]:  206 [T]:42
+2015-12-30 19:37:13 :       Not a Dead Base
+2015-12-30 19:37:16 :  85> [G]:  41205 [E]:  81433 [D]:  450 [T]:30
+2015-12-30 19:37:19 :  86> [G]:  27088 [E]:  11520 [D]:  N/A [T]:36
+2015-12-30 19:37:24 :  87> [G]:  94155 [E]:  80154 [D]:    7 [T]:43
+2015-12-30 19:37:24 :       Not a Dead Base
+2015-12-30 19:37:28 :  88> [G]:  38227 [E]:  69690 [D]:  310 [T]:41
+2015-12-30 19:37:31 :  89> [G]:  43795 [E]:  70093 [D]:  173 [T]:44
+2015-12-30 19:37:34 :  90> [G]:  40567 [E]:  30212 [D]:   14 [T]:43
+2015-12-30 19:37:41 :  91> [G]:  41181 [E]:  60846 [D]:  153 [T]:37
+2015-12-30 19:37:46 :  92> [G]: 114476 [E]:  60026 [D]:  432 [T]:42
+2015-12-30 19:37:46 :       Not a Dead Base
+2015-12-30 19:37:49 :  93> [G]:  14175 [E]:  85242 [D]:    4 [T]:41
+2015-12-30 19:37:53 :  94> [G]:   3423 [E]:   3024 [D]:  N/A [T]:33
+2015-12-30 19:38:00 :  95> [G]:  14393 [E]:  16418 [D]:   22 [T]:38
+2015-12-30 19:38:03 :  96> [G]:  29587 [E]:  29405 [D]:  N/A [T]:37
+2015-12-30 19:38:06 :  97> [G]:   9726 [E]:  29010 [D]:  N/A [T]:34
+2015-12-30 19:38:10 :  98> [G]:  18232 [E]:   9912 [D]:  300 [T]:39
+2015-12-30 19:38:13 :  99> [G]:  38028 [E]:  27652 [D]:  N/A [T]:32
+2015-12-30 19:38:16 : Aim:           [G+E]: 120000 [D]:    0 [T]: 0 for: Dead Base
+2015-12-30 19:38:18 : 100> [G]:  86740 [E]:  75070 [D]:    6 [T]:41
+2015-12-30 19:38:18 :       Not a Dead Base
+2015-12-30 19:38:22 : 101> [G]:  38244 [E]:  96468 [D]: 1614 [T]:46
+2015-12-30 19:38:22 :       Not a Dead Base
+2015-12-30 19:38:25 : 102> [G]:  14715 [E]:   7959 [D]:  N/A [T]:31
+2015-12-30 19:38:30 : 103> [G]:  66831 [E]:  58654 [D]:  599 [T]:30
+2015-12-30 19:38:30 :       Not a Dead Base
+2015-12-30 19:38:33 : 104> [G]:   5871 [E]:   8124 [D]:  131 [T]:42
+2015-12-30 19:38:36 : 105> [G]:  40214 [E]:  70835 [D]:  272 [T]:43
+2015-12-30 19:38:41 : 106> [G]: 121188 [E]:  25076 [D]:  297 [T]:41
+2015-12-30 19:38:41 :       Not a Dead Base
+2015-12-30 19:38:45 : 107> [G]:  49895 [E]:  49588 [D]:  781 [T]:45
+2015-12-30 19:38:48 : 108> [G]:  46137 [E]:  42093 [D]:  225 [T]:39
+2015-12-30 19:38:51 : 109> [G]:  15668 [E]:   2354 [D]:  N/A [T]:32
+2015-12-30 19:38:56 : 110> [G]: 235918 [E]: 240660 [D]:  123 [T]:26
+2015-12-30 19:38:56 :       Not a Dead Base
+2015-12-30 19:38:59 : 111> [G]:  30348 [E]:  11389 [D]:  N/A [T]:41
+2015-12-30 19:39:03 : 112> [G]:  25440 [E]:   2734 [D]:  N/A [T]:28
+2015-12-30 19:39:06 : 113> [G]:  21644 [E]:  15746 [D]:  486 [T]:41
+2015-12-30 19:39:09 : 114> [G]:  32743 [E]:  19769 [D]:   32 [T]:42
+2015-12-30 19:39:14 : 115> [G]:  51743 [E]: 173665 [D]:  782 [T]:43
+2015-12-30 19:39:14 :       Not a Dead Base
+2015-12-30 19:39:19 : 116> [G]:  68504 [E]:  77572 [D]:  510 [T]:40
+2015-12-30 19:39:19 :       Not a Dead Base
+2015-12-30 19:39:22 : 117> [G]:   7020 [E]:   5327 [D]:    1 [T]:39
+2015-12-30 19:39:27 : 118> [G]: 100815 [E]:  65746 [D]:  344 [T]:43
+2015-12-30 19:39:27 :       Not a Dead Base
+2015-12-30 19:39:30 : 119> [G]:  48458 [E]:  47528 [D]:  487 [T]:41
+2015-12-30 19:39:33 : Aim:           [G+E]: 116000 [D]:    0 [T]: 0 for: Dead Base
+2015-12-30 19:39:33 : 120> [G]:   4632 [E]:   1219 [D]:  N/A [T]:24
+2015-12-30 19:39:37 : 121> [G]:   8153 [E]:  55156 [D]:  N/A [T]:31
+2015-12-30 19:39:42 : 122> [G]:  46789 [E]: 233044 [D]: 1432 [T]:37
+2015-12-30 19:39:42 :       Not a Dead Base
+2015-12-30 19:39:47 : 123> [G]: 120490 [E]: 121213 [D]:  405 [T]:36
+2015-12-30 19:39:47 :       Not a Dead Base
+2015-12-30 19:39:51 : 124> [G]:  62188 [E]:  42060 [D]:  133 [T]:39
+2015-12-30 19:39:56 : 125> [G]: 133089 [E]:  40891 [D]:  341 [T]:37
+2015-12-30 19:39:56 :       Not a Dead Base
+2015-12-30 19:39:59 : 126> [G]:  41833 [E]:  50316 [D]:  270 [T]:47
+2015-12-30 19:40:02 : 127> [G]:  18407 [E]:  17841 [D]:  N/A [T]:33
+2015-12-30 19:40:06 : 128> [G]:  33005 [E]:  49928 [D]:  N/A [T]:38
+2015-12-30 19:40:11 : 129> [G]:  38309 [E]: 107521 [D]:  523 [T]:39
+2015-12-30 19:40:11 :       Not a Dead Base
+2015-12-30 19:40:15 : 130> [G]:  95704 [E]: 130419 [D]:   86 [T]:42
+2015-12-30 19:40:15 :       Not a Dead Base
+2015-12-30 19:40:20 : 131> [G]:  52145 [E]:  80470 [D]:  178 [T]:46
+2015-12-30 19:40:20 :       Not a Dead Base
+2015-12-30 19:40:25 : 132> [G]: 122100 [E]: 252152 [D]:  195 [T]:24
+2015-12-30 19:40:25 :       Not a Dead Base
+2015-12-30 19:40:30 : 133> [G]: 114653 [E]:  33561 [D]:    0 [T]:41
+2015-12-30 19:40:30 :       Not a Dead Base
+2015-12-30 19:40:35 : 134> [G]: 228518 [E]: 163123 [D]:  313 [T]:45
+2015-12-30 19:40:35 :       Not a Dead Base
+2015-12-30 19:40:40 : 135> [G]:  41441 [E]: 125580 [D]:    0 [T]:41
+2015-12-30 19:40:40 :       Not a Dead Base
+2015-12-30 19:40:44 : 136> [G]:   9369 [E]:   5813 [D]:  106 [T]:38
+2015-12-30 19:40:49 : 137> [G]: 154989 [E]: 166932 [D]:    0 [T]:34
+2015-12-30 19:40:49 :       Not a Dead Base
+2015-12-30 19:40:51 : 138> [G]:  47796 [E]:  21868 [D]:  N/A [T]:35
+2015-12-30 19:41:00 : 139> [G]:  58481 [E]:  59342 [D]:   12 [T]:35
+2015-12-30 19:41:00 :       Not a Dead Base
+2015-12-30 19:41:03 : Aim:           [G+E]: 112000 [D]:    0 [T]: 0 for: Dead Base
+2015-12-30 19:41:06 : 140> [G]:  62771 [E]:  66871 [D]:  149 [T]:39
+2015-12-30 19:41:06 :       Not a Dead Base
+2015-12-30 19:41:09 : 141> [G]:  44572 [E]:  64790 [D]:  517 [T]:33
+2015-12-30 19:41:12 : 142> [G]:  21007 [E]:  23990 [D]:  N/A [T]:31
+2015-12-30 19:41:15 : 143> [G]:  30397 [E]:   4284 [D]:  N/A [T]:36
+2015-12-30 19:41:18 : 144> [G]:  39829 [E]:  36339 [D]:    0 [T]:42
+2015-12-30 19:41:24 : 145> [G]: 146948 [E]:  23949 [D]:  555 [T]:36
+2015-12-30 19:41:24 :       Not a Dead Base
+2015-12-30 19:41:29 : 146> [G]:  40196 [E]:  73619 [D]:  N/A [T]:34
+2015-12-30 19:41:29 :       Not a Dead Base
+2015-12-30 19:41:32 : 147> [G]:  21438 [E]:  13868 [D]:  N/A [T]:37
+2015-12-30 19:41:35 : 148> [G]:  47912 [E]:  47240 [D]:   18 [T]:42
+2015-12-30 19:41:38 : 149> [G]:   1117 [E]:   6257 [D]:  N/A [T]:20
+2015-12-30 19:41:48 : 150> [G]: 121038 [E]:  67752 [D]:  800 [T]:45
+2015-12-30 19:41:48 :       Not a Dead Base
+2015-12-30 19:41:51 : 151> [G]:  18174 [E]:  14369 [D]:  N/A [T]:39
+2015-12-30 19:41:56 : 152> [G]:  79438 [E]:  91354 [D]:  190 [T]:40
+2015-12-30 19:41:56 :       Not a Dead Base
+2015-12-30 19:41:59 : 153> [G]:  11558 [E]:  14827 [D]:  N/A [T]:23
+2015-12-30 19:42:02 : 154> [G]:  19782 [E]:   5892 [D]:  188 [T]:39
+2015-12-30 19:42:06 : 155> [G]:  52810 [E]:  24217 [D]:  337 [T]:31
+2015-12-30 19:42:11 : 156> [G]:  26213 [E]: 293749 [D]:  416 [T]:26
+2015-12-30 19:42:11 :       Not a Dead Base
+2015-12-30 19:42:16 : 157> [G]:  80067 [E]:  79717 [D]:    3 [T]:36
+2015-12-30 19:42:16 :       Not a Dead Base
+2015-12-30 19:42:19 : 158> [G]:  15894 [E]:  19289 [D]:  N/A [T]:22
+2015-12-30 19:42:26 : 159> [G]:  73628 [E]:  37824 [D]:  182 [T]:46
+2015-12-30 19:42:29 : Aim:           [G+E]: 108000 [D]:    0 [T]: 0 for: Dead Base
+2015-12-30 19:42:29 : 160> [G]:   5300 [E]:   2342 [D]:  N/A [T]:29
+2015-12-30 19:42:34 : 161> [G]:  51250 [E]:  81363 [D]:    0 [T]:28
+2015-12-30 19:42:34 :       Not a Dead Base
+2015-12-30 19:42:37 : 162> [G]:  14949 [E]:  75657 [D]:  N/A [T]:37
+2015-12-30 19:42:41 : 163> [G]:  51605 [E]:  36468 [D]:  340 [T]:42
+2015-12-30 19:42:46 : 164> [G]: 170677 [E]: 357966 [D]: 1719 [T]:42
+2015-12-30 19:42:46 :       Not a Dead Base
+2015-12-30 19:42:49 : 165> [G]:   6980 [E]:  11258 [D]:  N/A [T]:28
+2015-12-30 19:42:52 : 166> [G]:   3835 [E]:  15489 [D]:    8 [T]:44
+2015-12-30 19:42:57 : 167> [G]: 107246 [E]: 145330 [D]:  N/A [T]:32
+2015-12-30 19:42:58 :       Not a Dead Base
+2015-12-30 19:43:01 : 168> [G]:  31873 [E]:  31862 [D]:  142 [T]:41
+2015-12-30 19:43:04 : 169> [G]:  13087 [E]:  25830 [D]:  N/A [T]:39
+2015-12-30 19:43:09 : 170> [G]:  63531 [E]: 109373 [D]:  761 [T]:36
+2015-12-30 19:43:09 :       Not a Dead Base
+2015-12-30 19:43:14 : 171> [G]: 123602 [E]:  20570 [D]:  241 [T]:45
+2015-12-30 19:43:14 :       Not a Dead Base
+2015-12-30 19:43:17 : 172> [G]:   4665 [E]:   2365 [D]:  N/A [T]:23
+2015-12-30 19:43:22 : 173> [G]:  60782 [E]:  70295 [D]:   51 [T]:40
+2015-12-30 19:43:22 :       Not a Dead Base
+2015-12-30 19:43:25 : 174> [G]:   1347 [E]:   1198 [D]:  N/A [T]:39
+2015-12-30 19:43:32 : 175> [G]:  40469 [E]:  37694 [D]:   72 [T]:47
+2015-12-30 19:43:35 : 176> [G]:  17984 [E]:  68775 [D]:  N/A [T]:36
+2015-12-30 19:43:38 : 177> [G]:  28353 [E]:  15019 [D]:  266 [T]:42
+2015-12-30 19:43:41 : 178> [G]:  72980 [E]:  34250 [D]:  459 [T]:46
+2015-12-30 19:43:45 : 179> [G]:  38408 [E]:  31924 [D]:  N/A [T]:36
+2015-12-30 19:43:48 : Aim:           [G+E]: 104000 [D]:    0 [T]: 0 for: Dead Base
+2015-12-30 19:43:48 : 180> [G]:  25822 [E]:  23031 [D]:  853 [T]:45
+2015-12-30 19:43:51 : 181> [G]:  30612 [E]:  22140 [D]:   13 [T]:43
+2015-12-30 19:43:54 : 182> [G]:  26984 [E]:  21663 [D]:    1 [T]:38
+2015-12-30 19:44:01 : 183> [G]: 132514 [E]:  89837 [D]:  361 [T]:40
+2015-12-30 19:44:01 :       Not a Dead Base
+2015-12-30 19:44:04 : 184> [G]:  11852 [E]:  12217 [D]:   50 [T]:45
+2015-12-30 19:44:12 : 185> [G]:  86100 [E]:  15852 [D]:  476 [T]:41
+2015-12-30 19:44:16 : 186> [G]:  26013 [E]:  37019 [D]:    0 [T]:37
+2015-12-30 19:44:19 : 187> [G]:  61498 [E]:  21245 [D]:    9 [T]:40
+2015-12-30 19:44:22 : 188> [G]:  44256 [E]:   5391 [D]:    2 [T]:43
+2015-12-30 19:44:27 : 189> [G]:  97907 [E]:  65287 [D]:  N/A [T]:36
+2015-12-30 19:44:27 :       Not a Dead Base
+2015-12-30 19:44:31 : 190> [G]:  47231 [E]:  25040 [D]:  N/A [T]:39
+2015-12-30 19:44:34 : 191> [G]:  37598 [E]:  63487 [D]:  N/A [T]:34
+2015-12-30 19:44:37 : 192> [G]:  15894 [E]:  25103 [D]:  N/A [T]:29
+2015-12-30 19:44:42 : 193> [G]: 373577 [E]: 204405 [D]: 2096 [T]:34
+2015-12-30 19:44:42 :       Not a Dead Base
+2015-12-30 19:44:47 : 194> [G]: 111357 [E]:  58855 [D]: 1741 [T]:44
+2015-12-30 19:44:47 :       Not a Dead Base
+2015-12-30 19:44:50 : 195> [G]:  27105 [E]:   2657 [D]:    2 [T]:42
+2015-12-30 19:44:53 : 196> [G]:  21689 [E]:  16810 [D]:   28 [T]:33
+2015-12-30 19:44:58 : 197> [G]:  53049 [E]:  52511 [D]:  190 [T]:46
+2015-12-30 19:44:59 :       Not a Dead Base
+2015-12-30 19:45:04 : 198> [G]: 158374 [E]: 124029 [D]:  N/A [T]:30
+2015-12-30 19:45:04 :       Not a Dead Base
+2015-12-30 19:45:09 : 199> [G]:  73152 [E]:  38998 [D]:  333 [T]:41
+2015-12-30 19:45:09 :       Not a Dead Base
+2015-12-30 19:45:12 : Aim:           [G+E]: 100000 [D]:    0 [T]: 0 for: Dead Base
+2015-12-30 19:45:14 : 200> [G]:  69965 [E]:  40095 [D]:  154 [T]:44
+2015-12-30 19:45:14 :       Not a Dead Base
+2015-12-30 19:45:18 : 201> [G]:  38758 [E]:  57109 [D]:    1 [T]:38
+2015-12-30 19:45:23 : 202> [G]:  61841 [E]:  54300 [D]:  N/A [T]:33
+2015-12-30 19:45:23 :       Not a Dead Base
+2015-12-30 19:45:26 : 203> [G]:  10046 [E]:  18138 [D]:  N/A [T]:22
+2015-12-30 19:45:29 : 204> [G]:  42164 [E]:  20322 [D]:  509 [T]:43
+2015-12-30 19:45:32 : 205> [G]:  38494 [E]:  18600 [D]:  N/A [T]:29
+2015-12-30 19:45:36 : 206> [G]:  10505 [E]:   4429 [D]:  N/A [T]:25
+2015-12-30 19:45:41 : 207> [G]:  60101 [E]:  92269 [D]:  821 [T]:38
+2015-12-30 19:45:41 :       Not a Dead Base
+2015-12-30 19:45:46 : 208> [G]: 107816 [E]: 259903 [D]:  156 [T]:32
+2015-12-30 19:45:46 :       Not a Dead Base
+2015-12-30 19:45:51 : 209> [G]:  95459 [E]:  20110 [D]:  194 [T]:43
+2015-12-30 19:45:51 :       Not a Dead Base
+2015-12-30 19:45:54 : 210> [G]:   1771 [E]:  21528 [D]:  N/A [T]:39
+2015-12-30 19:46:01 : 211> [G]:  49574 [E]:  42320 [D]:  296 [T]:41
+2015-12-30 19:46:04 : 212> [G]:  54804 [E]:  29870 [D]:    0 [T]:37
+2015-12-30 19:46:09 : 213> [G]: 105097 [E]: 243986 [D]:  366 [T]:46
+2015-12-30 19:46:09 :       Not a Dead Base
+2015-12-30 19:46:14 : 214> [G]: 171597 [E]: 113997 [D]:   40 [T]:30
+2015-12-30 19:46:14 :       Not a Dead Base
+2015-12-30 19:46:17 : 215> [G]:   6542 [E]:   5271 [D]:  N/A [T]:17
+2015-12-30 19:46:24 : 216> [G]:  38344 [E]:   3146 [D]:  N/A [T]:26
+2015-12-30 19:46:29 : 217> [G]: 156125 [E]: 258676 [D]:  N/A [T]:18
+2015-12-30 19:46:29 :       Not a Dead Base
+2015-12-30 19:46:32 : 218> [G]:  36848 [E]:  26472 [D]:  270 [T]:40
+2015-12-30 19:46:35 : 219> [G]:  31669 [E]:  35944 [D]:  105 [T]:38
+2015-12-30 19:46:39 : Aim:           [G+E]:  96000 [D]:    0 [T]: 0 for: Dead Base
+2015-12-30 19:46:41 : 220> [G]:  87711 [E]:  54826 [D]:   31 [T]:41
+2015-12-30 19:46:41 :       Not a Dead Base
+2015-12-30 19:46:44 : 221> [G]:  29386 [E]:  64717 [D]:  113 [T]:44
+2015-12-30 19:46:49 : 222> [G]:  84881 [E]:  59467 [D]:  162 [T]:39
+2015-12-30 19:46:49 :       Not a Dead Base
+2015-12-30 19:46:53 : 223> [G]:  29206 [E]:  10771 [D]: 1268 [T]:45
+2015-12-30 19:46:57 : 224> [G]: 138364 [E]:  55650 [D]:  846 [T]:42
+2015-12-30 19:46:57 :       Not a Dead Base
+2015-12-30 19:47:02 : 225> [G]: 139063 [E]: 312835 [D]:  562 [T]:41
+2015-12-30 19:47:02 :       Not a Dead Base
+2015-12-30 19:47:08 : 226> [G]:  60442 [E]: 108285 [D]:  670 [T]:42
+2015-12-30 19:47:08 :       Not a Dead Base
+2015-12-30 19:47:14 : 227> [G]:  73476 [E]:  38061 [D]:  253 [T]:44
+2015-12-30 19:47:14 :       Not a Dead Base
+2015-12-30 19:47:19 : 228> [G]: 170970 [E]: 269801 [D]: 1016 [T]:16
+2015-12-30 19:47:19 :       Not a Dead Base
+2015-12-30 19:47:24 : 229> [G]: 163977 [E]:  84830 [D]:  474 [T]:21
+2015-12-30 19:47:24 :       Not a Dead Base
+2015-12-30 19:47:30 : 230> [G]:  73127 [E]:  92065 [D]:   87 [T]:38
+2015-12-30 19:47:30 :       Not a Dead Base
+2015-12-30 19:47:33 : 231> [G]:  28392 [E]:  42532 [D]:    0 [T]:39
+2015-12-30 19:47:38 : 232> [G]:  78857 [E]:  86610 [D]:  215 [T]:39
+2015-12-30 19:47:38 :       Not a Dead Base
+2015-12-30 19:47:43 : 233> [G]:  65783 [E]:  43725 [D]:  492 [T]:43
+2015-12-30 19:47:43 :       Not a Dead Base
+2015-12-30 19:47:49 : 234> [G]: 103433 [E]: 110235 [D]:  216 [T]:40
+2015-12-30 19:47:49 :       Not a Dead Base
+2015-12-30 19:47:54 : 235> [G]: 132416 [E]:  23164 [D]:  N/A [T]:35
+2015-12-30 19:47:54 :       Not a Dead Base
+2015-12-30 19:47:57 : 236> [G]:  27595 [E]:   6175 [D]:   91 [T]:39
+2015-12-30 19:48:01 : 237> [G]:  19671 [E]:  69392 [D]:   17 [T]:42
+2015-12-30 19:48:04 : 238> [G]:  28161 [E]:  19489 [D]:  N/A [T]:32
+2015-12-30 19:48:09 : 239> [G]:  79630 [E]: 125837 [D]:  331 [T]:17
+2015-12-30 19:48:09 :       Not a Dead Base
+2015-12-30 19:48:13 : Aim:           [G+E]:  92000 [D]:    0 [T]: 0 for: Dead Base
+2015-12-30 19:48:15 : 240> [G]:  90975 [E]: 134593 [D]:  501 [T]:46
+2015-12-30 19:48:15 :       Not a Dead Base
+2015-12-30 19:48:20 : 241> [G]:  26295 [E]:  83834 [D]:  N/A [T]:38
+2015-12-30 19:48:20 :       Not a Dead Base
+2015-12-30 19:48:25 : 242> [G]: 210730 [E]: 139885 [D]:  N/A [T]:31
+2015-12-30 19:48:25 :       Not a Dead Base
+2015-12-30 19:48:31 : 243> [G]: 136560 [E]: 246827 [D]:  222 [T]:33
+2015-12-30 19:48:31 :       Not a Dead Base
+2015-12-30 19:48:36 : 244> [G]:  69137 [E]:  63010 [D]:  436 [T]:41
+2015-12-30 19:48:36 :       Not a Dead Base
+2015-12-30 19:48:41 : 245> [G]:  13030 [E]: 112148 [D]:  349 [T]:43
+2015-12-30 19:48:41 :       Not a Dead Base
+2015-12-30 19:48:47 : 246> [G]:  85815 [E]:  77711 [D]:  516 [T]:43
+2015-12-30 19:48:47 :       Not a Dead Base
+2015-12-30 19:48:52 : 247> [G]: 174181 [E]: 234077 [D]:  598 [T]:28
+2015-12-30 19:48:52 :       Not a Dead Base
+2015-12-30 19:48:57 : 248> [G]:  63091 [E]:  57282 [D]:  263 [T]:42
+2015-12-30 19:48:57 :       Not a Dead Base
+2015-12-30 19:49:02 : 249> [G]:  96249 [E]: 116549 [D]:    1 [T]:34
+2015-12-30 19:49:02 :       Not a Dead Base
+2015-12-30 19:49:07 : 250> [G]:  43140 [E]: 113499 [D]:  115 [T]:32
+2015-12-30 19:49:07 :       Not a Dead Base
+2015-12-30 19:49:12 : 251> [G]:  55229 [E]:  40013 [D]:  N/A [T]:32
+2015-12-30 19:49:12 :       Not a Dead Base
+2015-12-30 19:49:16 : 252> [G]:  11361 [E]:  23745 [D]:  N/A [T]:38
+2015-12-30 19:49:20 : 253> [G]: 136235 [E]: 112255 [D]:  413 [T]:37
+2015-12-30 19:49:20 :       Not a Dead Base
+2015-12-30 19:49:26 : 254> [G]:  30626 [E]:  66166 [D]:  196 [T]:47
+2015-12-30 19:49:26 :       Not a Dead Base
+2015-12-30 19:49:31 : 255> [G]:  50843 [E]:  52595 [D]:  154 [T]:40
+2015-12-30 19:49:31 :       Not a Dead Base
+2015-12-30 19:49:37 : 256> [G]:  62079 [E]:  48033 [D]:  139 [T]:45
+2015-12-30 19:49:37 :       Not a Dead Base
+2015-12-30 19:49:42 : 257> [G]:  25200 [E]:  66929 [D]:   35 [T]:40
+2015-12-30 19:49:42 :       Not a Dead Base
+2015-12-30 19:49:49 : 258> [G]:  60925 [E]:  61698 [D]:   12 [T]:42
+2015-12-30 19:49:49 :       Not a Dead Base
+2015-12-30 19:49:54 : 259> [G]:  94525 [E]: 101984 [D]:   48 [T]:35
+2015-12-30 19:49:54 :       Not a Dead Base
+2015-12-30 19:49:57 : Aim:           [G+E]:  88000 [D]:    0 [T]: 0 for: Dead Base
+2015-12-30 19:49:58 : 260> [G]:  97500 [E]:  89778 [D]:    0 [T]:38
+2015-12-30 19:49:58 :       Dead Base Found! 
+2015-12-30 19:49:58 : ================ Search Complete =================
+2015-12-30 19:50:07 : 2nd attempt to detect the TownHall!
+2015-12-30 19:50:13 : 3rd attempt to detect the TownHall!
+2015-12-30 19:50:17 : Checking Townhall location: Could not locate TH, skipping attack TH...
+2015-12-30 19:50:17 : Initiating attack for: Dead Base
+2015-12-30 19:50:22 : -*-Barbarians 75
+2015-12-30 19:50:22 : -*-Archers 75
+2015-12-30 19:50:22 :  ====== Start Attack ====== 
+2015-12-30 19:50:24 : Calculating Smart Attack Strategy
+2015-12-30 19:50:25 : Calculated  (in 1.53 seconds) :
+2015-12-30 19:50:25 : Locating Mines, Collectors & Drills
+2015-12-30 19:50:41 : Located  (in 15.79 seconds) :
+2015-12-30 19:50:41 : [7] Gold Mines
+2015-12-30 19:50:41 : [3] Elixir Collectors
+2015-12-30 19:50:41 : [0] Dark Elixir Drill/s
+2015-12-30 19:50:41 : Attacking on three sides
+2015-12-30 19:50:43 : Dropping first wave of Barbarians 38
+2015-12-30 19:50:46 : Dropping first wave of Archers 38
+2015-12-30 19:50:48 : Dropping second wave of Barbarians 38
+2015-12-30 19:50:51 : Dropping second wave of Archers 38
+2015-12-30 19:50:55 : Dropping last 7  of Barbarians
+2015-12-30 19:50:57 : Dropping last 7  of Archers
+2015-12-30 19:50:58 : Dropping left over troops
+2015-12-30 19:50:58 : Checking remaining unused troops for: Dead Base
+2015-12-30 19:51:10 : Checking remaining unused troops for: Dead Base
+2015-12-30 19:51:23 : Finished Attacking, waiting for the battle to end
+2015-12-30 19:51:23 : Checking if the battle has finished
+2015-12-30 19:51:26 : detected [G]: 47500 [E]: 19180 [DE]: 0 |  Exit in 18 sec.
+2015-12-30 19:51:27 : detected [G]: 47500 [E]: 19180 [DE]: 0 |  Exit in 16 sec.
+2015-12-30 19:51:29 : detected [G]: 47500 [E]: 19180 [DE]: 0 |  Exit in 14 sec.
+2015-12-30 19:51:31 : detected [G]: 47500 [E]: 19180 [DE]: 0 |  Exit in 12 sec.
+2015-12-30 19:51:33 : detected [G]: 47500 [E]: 19180 [DE]: 0 |  Exit in 11 sec.
+2015-12-30 19:51:35 : detected [G]: 47500 [E]: 19180 [DE]: 0 |  Exit in  9 sec.
+2015-12-30 19:51:36 : detected [G]: 47500 [E]: 19180 [DE]: 0 |  Exit in  7 sec.
+2015-12-30 19:51:38 : detected [G]: 47500 [E]: 19180 [DE]: 0 |  Exit in  5 sec.
+2015-12-30 19:51:40 : detected [G]: 47500 [E]: 19180 [DE]: 0 |  Exit in  3 sec.
+2015-12-30 19:51:42 : detected [G]: 47500 [E]: 19180 [DE]: 0 |  Exit in  2 sec.
+2015-12-30 19:51:44 : detected [G]: 47500 [E]: 19180 [DE]: 0 |  Exit in  0 sec.
+2015-12-30 19:51:45 : detected [G]: 47500 [E]: 19180 [DE]: 0 |  Exit in  0 sec.
+2015-12-30 19:51:45 : Gold & Elixir & DE no change detected, exit
+2015-12-30 19:51:45 : Returning Home
+2015-12-30 19:51:50 : Loot: [G]: 50 000 [E]: 70 598 [T]: -12
+2015-12-30 19:51:50 : Stars earned: 0
+2015-12-30 19:51:50 : Taking snapshot of your loot
+2015-12-30 19:51:59 : Trying to locate Main Screen
+2015-12-30 19:51:59 : Main Screen Located
+2015-12-30 19:52:00 : Village Report
+2015-12-30 19:52:00 : No. of Free/Total Builders: 2/3
+2015-12-30 19:52:00 :  [T]: 901
+2015-12-30 19:52:01 :  [G]: 1 546 900 [E]: 1 362 874 [D]: 972 [GEM]: 463
+2015-12-30 19:52:02 : Collecting Resources
+2015-12-30 19:52:14 : Training Troops & Spells
+2015-12-30 19:52:14 : Checking Army Camp...
+2015-12-30 19:52:16 : Total Army Camp capacity: 133/150 (88%)
+2015-12-30 19:52:17 :  - No. of Barbarians: 61
+2015-12-30 19:52:17 :  - No. of Archers: 72
+2015-12-30 19:52:35 : ====== Waiting for full army ======
+2015-12-30 19:52:47 : Training Troops & Spells
+2015-12-30 19:52:47 : Checking Army Camp...
+2015-12-30 19:52:49 : Total Army Camp capacity: 136/150 (90%)
+2015-12-30 19:52:50 :  - No. of Barbarians: 62
+2015-12-30 19:52:50 :  - No. of Archers: 74
+2015-12-30 19:53:01 : Time Idle: 00:00:26
+2015-12-30 19:53:01 : ====== Waiting for full army ======
+2015-12-30 19:53:13 : Training Troops & Spells
+2015-12-30 19:53:14 : Checking Army Camp...
+2015-12-30 19:53:15 : Total Army Camp capacity: 141/150 (94%)
+2015-12-30 19:53:17 :  - No. of Barbarians: 66
+2015-12-30 19:53:17 :  - No. of Archers: 75
+2015-12-30 19:53:27 : Time Idle: 00:00:51
+2015-12-30 19:53:27 : ====== Waiting for full army ======
+2015-12-30 19:53:39 : Collecting Resources
+2015-12-30 19:53:47 : Training Troops & Spells
+2015-12-30 19:53:47 : Checking Army Camp...
+2015-12-30 19:53:48 : Total Army Camp capacity: 147/150 (98%)
+2015-12-30 19:53:50 :  - No. of Barbarians: 72
+2015-12-30 19:53:50 :  - No. of Archers: 75
+2015-12-30 19:54:00 : Time Idle: 00:01:25
+2015-12-30 19:54:01 : ====== Waiting for full army ======
+2015-12-30 19:54:13 : Training Troops & Spells
+2015-12-30 19:54:13 : Checking Army Camp...
+2015-12-30 19:54:15 : Total Army Camp capacity: 150/150 (100%)
+2015-12-30 19:54:16 :  - No. of Barbarians: 75
+2015-12-30 19:54:16 :  - No. of Archers: 75
+2015-12-30 19:54:18 : Your Army Camps are now Full
+2015-12-30 19:54:18 : Calculating Troops before Training new Army.
+2015-12-30 19:54:18 : Build troops before attacking.
+2015-12-30 19:54:37 : Going to Attack...
+2015-12-30 19:54:43 : ============== Searching For Dead Base ===============
+2015-12-30 19:54:43 : ~~~~~~~~~~~~~~~ SEARCH CONDITIONS ~~~~~~~~~~~~~~~~
+2015-12-30 19:54:43 : Meet: Gold + Elixir
+2015-12-30 19:54:43 : ~~~~~~~~~~~~~~ RESOURCE CONDITIONS ~~~~~~~~~~~~~~~
+2015-12-30 19:54:43 : Aim: [G+E]: 140000 [D]:    0 [T]: 0 for: Dead Base
+2015-12-30 19:54:43 : ~~~~~~~~~~~~~~~ ADVANCED SETTINGS ~~~~~~~~~~~~~~~~
+2015-12-30 19:54:43 :  Attack TH Outside Bam
+2015-12-30 19:54:43 : ==================================================
+2015-12-30 19:54:44 :   1> [G]:  32685 [E]:  30875 [D]:  N/A [T]:28
+2015-12-30 19:54:49 :   2> [G]:  10700 [E]:  16851 [D]:  395 [T]:36
+2015-12-30 19:54:54 :   3> [G]: 217348 [E]:  46719 [D]:  433 [T]:36
+2015-12-30 19:54:54 :       Not a Dead Base
+2015-12-30 19:55:00 :   4> [G]:  36411 [E]:  44147 [D]:   16 [T]:38
+2015-12-30 19:55:04 :   5> [G]:  63570 [E]:  40347 [D]:  N/A [T]:39
+2015-12-30 19:55:09 :   6> [G]: 222716 [E]: 262303 [D]:  891 [T]:26
+2015-12-30 19:55:09 :       Not a Dead Base
+2015-12-30 19:55:14 :   7> [G]:  58701 [E]:  30786 [D]:  N/A [T]:37
+2015-12-30 19:55:18 :   8> [G]:  61466 [E]:  26666 [D]:  N/A [T]:42
+2015-12-30 19:55:22 :   9> [G]:   4396 [E]:  35787 [D]:    0 [T]:44
+2015-12-30 19:55:25 :  10> [G]:   9080 [E]:  12029 [D]:  N/A [T]:28
+2015-12-30 19:55:28 :  11> [G]:  62590 [E]:  26871 [D]:    5 [T]:43
+2015-12-30 19:55:31 :  12> [G]:  27195 [E]:   7214 [D]:  N/A [T]:31
+2015-12-30 19:55:38 :  13> [G]:  77321 [E]:  39450 [D]:  N/A [T]:39
+2015-12-30 19:55:43 :  14> [G]: 134386 [E]: 124125 [D]:  842 [T]:38
+2015-12-30 19:55:43 :       Not a Dead Base
+2015-12-30 19:55:46 :  15> [G]:  34555 [E]:  38341 [D]:  N/A [T]:39
+2015-12-30 19:55:51 :  16> [G]: 101984 [E]: 151454 [D]:  172 [T]:39
+2015-12-30 19:55:51 :       Not a Dead Base
+2015-12-30 19:55:56 :  17> [G]:  86269 [E]:  88597 [D]:  102 [T]:42
+2015-12-30 19:55:56 :       Not a Dead Base
+2015-12-30 19:56:03 :  18> [G]: 121237 [E]:  74571 [D]:  N/A [T]:34
+2015-12-30 19:56:03 :       Not a Dead Base
+2015-12-30 19:56:06 :  19> [G]:   9363 [E]:   1456 [D]:  N/A [T]:29
+2015-12-30 19:56:09 : Aim:           [G+E]: 136000 [D]:    0 [T]: 0 for: Dead Base
+2015-12-30 19:56:10 :  20> [G]:   1424 [E]:   3709 [D]:  N/A [T]:28
+2015-12-30 19:56:14 :  21> [G]: 161863 [E]:  84376 [D]:    0 [T]:41
+2015-12-30 19:56:14 :       Dead Base Found! 
+2015-12-30 19:56:14 : ================ Search Complete =================
+2015-12-30 19:56:22 : 2nd attempt to detect the TownHall!
+2015-12-30 19:56:30 : 3rd attempt to detect the TownHall!
+2015-12-30 19:56:33 : Checking Townhall location: Could not locate TH, skipping attack TH...
+2015-12-30 19:56:33 : Initiating attack for: Dead Base
+2015-12-30 19:56:37 : -*-Barbarians 75
+2015-12-30 19:56:37 : -*-Archers 75
+2015-12-30 19:56:37 :  ====== Start Attack ====== 
+2015-12-30 19:56:39 : Calculating Smart Attack Strategy
+2015-12-30 19:56:41 : Calculated  (in 1.49 seconds) :
+2015-12-30 19:56:41 : Locating Mines, Collectors & Drills
+2015-12-30 19:56:54 : Located  (in 13.13 seconds) :
+2015-12-30 19:56:54 : [6] Gold Mines
+2015-12-30 19:56:54 : [3] Elixir Collectors
+2015-12-30 19:56:54 : [0] Dark Elixir Drill/s
+2015-12-30 19:56:54 : Attacking on three sides
+2015-12-30 19:56:56 : Dropping first wave of Barbarians 38
+2015-12-30 19:56:58 : Dropping first wave of Archers 38
+2015-12-30 19:57:00 : Dropping second wave of Barbarians 38
+2015-12-30 19:57:02 : Dropping second wave of Archers 38
+2015-12-30 19:57:07 : Dropping last 19  of Barbarians
+2015-12-30 19:57:09 : Dropping last 19  of Archers
+2015-12-30 19:57:12 : Dropping left over troops
+2015-12-30 19:57:12 : Checking remaining unused troops for: Dead Base
+2015-12-30 19:57:24 : Checking remaining unused troops for: Dead Base
+2015-12-30 19:57:36 : Finished Attacking, waiting for the battle to end
+2015-12-30 19:57:36 : Checking if the battle has finished
+2015-12-30 19:57:39 : detected [G]: 81022 [E]: 61847 [DE]:  |  Exit in 18 sec.
+2015-12-30 19:57:39 : Gold & Elixir & DE no change detected, exit
+2015-12-30 19:57:39 : Returning Home
+2015-12-30 19:57:43 : Loot: [G]: 80 841 [E]: 22 529 [T]: -10
+2015-12-30 19:57:43 : Stars earned: 0
+2015-12-30 19:57:43 : Taking snapshot of your loot
+2015-12-30 19:57:51 : Trying to locate Main Screen
+2015-12-30 19:57:51 : Main Screen Located
+2015-12-30 19:57:53 : Village Report
+2015-12-30 19:57:53 : No. of Free/Total Builders: 2/3
+2015-12-30 19:57:53 :  [T]: 891
+2015-12-30 19:57:53 :  [G]: 1 621 750 [E]: 1 373 097 [D]: 972 [GEM]: 463
+2015-12-30 19:57:55 : Collecting Resources
+2015-12-30 19:58:05 : Training Troops & Spells
+2015-12-30 19:58:06 : Checking Army Camp...
+2015-12-30 19:58:07 : Total Army Camp capacity: 30/150 (20%)
+2015-12-30 19:58:09 :  - No. of Archers: 30
+2015-12-30 19:58:25 : ====== Waiting for full army ======
+2015-12-30 19:58:37 : Training Troops & Spells
+2015-12-30 19:58:38 : Checking Army Camp...
+2015-12-30 19:58:39 : Total Army Camp capacity: 35/150 (23%)
+2015-12-30 19:58:41 :  - No. of Archers: 36
+2015-12-30 19:58:50 : Time Idle: 00:00:25
+2015-12-30 19:58:51 : ====== Waiting for full army ======
+2015-12-30 19:59:03 : Training Troops & Spells
+2015-12-30 19:59:03 : Checking Army Camp...
+2015-12-30 19:59:04 : Total Army Camp capacity: 39/150 (26%)
+2015-12-30 19:59:06 :  - No. of Archers: 40
+2015-12-30 19:59:14 : Time Idle: 00:00:49
+2015-12-30 19:59:15 : ====== Waiting for full army ======
+2015-12-30 19:59:27 : Training Troops & Spells
+2015-12-30 19:59:27 : Checking Army Camp...
+2015-12-30 19:59:28 : Total Army Camp capacity: 43/150 (28%)
+2015-12-30 19:59:30 :  - No. of Archers: 43
+2015-12-30 19:59:39 : Time Idle: 00:01:12
+2015-12-30 19:59:39 : ====== Waiting for full army ======
+2015-12-30 19:59:51 : Training Troops & Spells
+2015-12-30 19:59:51 : Checking Army Camp...
+2015-12-30 19:59:53 : Total Army Camp capacity: 47/150 (31%)
+2015-12-30 19:59:54 :  - No. of Archers: 47
+2015-12-30 20:00:03 : Time Idle: 00:01:36
+2015-12-30 20:00:03 : ====== Waiting for full army ======
+2015-12-30 20:00:15 : Training Troops & Spells
+2015-12-30 20:00:16 : Checking Army Camp...
+2015-12-30 20:00:17 : Total Army Camp capacity: 51/150 (34%)
+2015-12-30 20:00:18 :  - No. of Archers: 51
+2015-12-30 20:00:27 : Time Idle: 00:02:00
+2015-12-30 20:00:27 : ====== Waiting for full army ======
+2015-12-30 20:00:39 : Training Troops & Spells
+2015-12-30 20:00:40 : Checking Army Camp...
+2015-12-30 20:00:41 : Total Army Camp capacity: 55/150 (36%)
+2015-12-30 20:00:43 :  - No. of Archers: 55
+2015-12-30 20:00:51 : Time Idle: 00:02:24
+2015-12-30 20:00:52 : ====== Waiting for full army ======
+2015-12-30 20:01:04 : Training Troops & Spells
+2015-12-30 20:01:04 : Checking Army Camp...
+2015-12-30 20:01:06 : Total Army Camp capacity: 58/150 (38%)
+2015-12-30 20:01:07 :  - No. of Archers: 59
+2015-12-30 20:01:16 : Time Idle: 00:02:49
+2015-12-30 20:01:16 : ====== Waiting for full army ======
+2015-12-30 20:01:28 : Training Troops & Spells
+2015-12-30 20:01:29 : Checking Army Camp...
+2015-12-30 20:01:30 : Total Army Camp capacity: 62/150 (41%)
+2015-12-30 20:01:32 :  - No. of Archers: 62
+2015-12-30 20:01:40 : Time Idle: 00:03:13
+2015-12-30 20:01:40 : ====== Waiting for full army ======
+2015-12-30 20:01:52 : Training Troops & Spells
+2015-12-30 20:01:53 : Checking Army Camp...
+2015-12-30 20:01:54 : Total Army Camp capacity: 66/150 (44%)
+2015-12-30 20:01:56 :  - No. of Archers: 66
+2015-12-30 20:02:04 : Time Idle: 00:03:37
+2015-12-30 20:02:05 : ====== Waiting for full army ======
+2015-12-30 20:02:17 : Collecting Resources
+2015-12-30 20:02:25 : Training Troops & Spells
+2015-12-30 20:02:26 : Checking Army Camp...
+2015-12-30 20:02:27 : Total Army Camp capacity: 72/150 (48%)
+2015-12-30 20:02:28 :  - No. of Archers: 72
+2015-12-30 20:02:37 : Time Idle: 00:04:09
+2015-12-30 20:02:37 : ====== Waiting for full army ======
+2015-12-30 20:02:49 : Training Troops & Spells
+2015-12-30 20:02:50 : Checking Army Camp...
+2015-12-30 20:02:51 : Total Army Camp capacity: 76/150 (50%)
+2015-12-30 20:02:53 :  - No. of Barbarians: 5
+2015-12-30 20:02:53 :  - No. of Archers: 72
+2015-12-30 20:03:02 : Time Idle: 00:04:33
+2015-12-30 20:03:02 : ====== Waiting for full army ======
+2015-12-30 20:03:14 : Training Troops & Spells
+2015-12-30 20:03:15 : Checking Army Camp...
+2015-12-30 20:03:16 : Total Army Camp capacity: 81/150 (54%)
+2015-12-30 20:03:17 :  - No. of Barbarians: 10
+2015-12-30 20:03:17 :  - No. of Archers: 72
+2015-12-30 20:03:26 : Time Idle: 00:04:58
+2015-12-30 20:03:26 : ====== Waiting for full army ======
+2015-12-30 20:03:38 : Training Troops & Spells
+2015-12-30 20:03:39 : Checking Army Camp...
+2015-12-30 20:03:40 : Total Army Camp capacity: 86/150 (57%)
+2015-12-30 20:03:42 :  - No. of Barbarians: 14
+2015-12-30 20:03:42 :  - No. of Archers: 72
+2015-12-30 20:03:51 : Time Idle: 00:05:22
+2015-12-30 20:03:51 : ====== Waiting for full army ======
+2015-12-30 20:04:03 : Training Troops & Spells
+2015-12-30 20:04:04 : Checking Army Camp...
+2015-12-30 20:04:05 : Total Army Camp capacity: 91/150 (60%)
+2015-12-30 20:04:06 :  - No. of Barbarians: 20
+2015-12-30 20:04:06 :  - No. of Archers: 72
+2015-12-30 20:04:16 : Time Idle: 00:05:47
+2015-12-30 20:04:16 : ====== Waiting for full army ======
+2015-12-30 20:04:28 : Training Troops & Spells
+2015-12-30 20:04:29 : Checking Army Camp...
+2015-12-30 20:04:30 : Total Army Camp capacity: 96/150 (64%)
+2015-12-30 20:04:31 :  - No. of Barbarians: 24
+2015-12-30 20:04:32 :  - No. of Archers: 72
+2015-12-30 20:04:40 : Time Idle: 00:06:11
+2015-12-30 20:04:41 : ====== Waiting for full army ======
+2015-12-30 20:04:53 : Training Troops & Spells
+2015-12-30 20:04:53 : Checking Army Camp...
+2015-12-30 20:04:55 : Total Army Camp capacity: 101/150 (67%)
+2015-12-30 20:04:56 :  - No. of Barbarians: 29
+2015-12-30 20:04:56 :  - No. of Archers: 72
+2015-12-30 20:05:05 : Time Idle: 00:06:36
+2015-12-30 20:05:06 : ====== Waiting for full army ======
+2015-12-30 20:05:17 : Training Troops & Spells
+2015-12-30 20:05:18 : Checking Army Camp...
+2015-12-30 20:05:19 : Total Army Camp capacity: 106/150 (70%)
+2015-12-30 20:05:21 :  - No. of Barbarians: 34
+2015-12-30 20:05:21 :  - No. of Archers: 72
+2015-12-30 20:05:30 : Time Idle: 00:07:00
+2015-12-30 20:05:30 : ====== Waiting for full army ======
+2015-12-30 20:05:42 : Training Troops & Spells
+2015-12-30 20:05:43 : Checking Army Camp...
+2015-12-30 20:05:44 : Total Army Camp capacity: 111/150 (74%)
+2015-12-30 20:05:46 :  - No. of Barbarians: 39
+2015-12-30 20:05:46 :  - No. of Archers: 72
+2015-12-30 20:05:55 : Time Idle: 00:07:25
+2015-12-30 20:05:55 : ====== Waiting for full army ======
+2015-12-30 20:06:07 : Training Troops & Spells
+2015-12-30 20:06:08 : Checking Army Camp...
+2015-12-30 20:06:09 : Total Army Camp capacity: 115/150 (76%)
+2015-12-30 20:06:11 :  - No. of Barbarians: 43
+2015-12-30 20:06:11 :  - No. of Archers: 72
+2015-12-30 20:06:20 : Time Idle: 00:07:50
+2015-12-30 20:06:21 : ====== Waiting for full army ======
+2015-12-30 20:06:32 : Training Troops & Spells
+2015-12-30 20:06:33 : Checking Army Camp...
+2015-12-30 20:06:34 : Total Army Camp capacity: 119/150 (79%)
+2015-12-30 20:06:36 :  - No. of Barbarians: 47
+2015-12-30 20:06:36 :  - No. of Archers: 72
+2015-12-30 20:06:45 : Time Idle: 00:08:15
+2015-12-30 20:06:46 : ====== Waiting for full army ======
+2015-12-30 20:06:58 : Collecting Resources
+2015-12-30 20:07:06 : Training Troops & Spells
+2015-12-30 20:07:06 : Checking Army Camp...
+2015-12-30 20:07:08 : Total Army Camp capacity: 124/150 (82%)
+2015-12-30 20:07:09 :  - No. of Barbarians: 52
+2015-12-30 20:07:09 :  - No. of Archers: 72
+2015-12-30 20:07:18 : Time Idle: 00:08:47
+2015-12-30 20:07:19 : ====== Waiting for full army ======
+2015-12-30 20:07:31 : Training Troops & Spells
+2015-12-30 20:07:31 : Checking Army Camp...
+2015-12-30 20:07:32 : Total Army Camp capacity: 128/150 (85%)
+2015-12-30 20:07:34 :  - No. of Barbarians: 56
+2015-12-30 20:07:34 :  - No. of Archers: 72
+2015-12-30 20:07:43 : Time Idle: 00:09:12
+2015-12-30 20:07:44 : ====== Waiting for full army ======
+2015-12-30 20:07:56 : Training Troops & Spells
+2015-12-30 20:07:56 : Checking Army Camp...
+2015-12-30 20:07:58 : Total Army Camp capacity: 132/150 (88%)
+2015-12-30 20:07:59 :  - No. of Barbarians: 60
+2015-12-30 20:07:59 :  - No. of Archers: 72
+2015-12-30 20:08:09 : Time Idle: 00:09:37
+2015-12-30 20:08:09 : ====== Waiting for full army ======
+2015-12-30 20:08:21 : Training Troops & Spells
+2015-12-30 20:08:21 : Checking Army Camp...
+2015-12-30 20:08:23 : Total Army Camp capacity: 136/150 (90%)
+2015-12-30 20:08:24 :  - No. of Barbarians: 64
+2015-12-30 20:08:24 :  - No. of Archers: 72
+2015-12-30 20:08:33 : Time Idle: 00:10:02
+2015-12-30 20:08:33 : ====== Waiting for full army ======
+2015-12-30 20:08:45 : Training Troops & Spells
+2015-12-30 20:08:46 : Checking Army Camp...
+2015-12-30 20:08:47 : Total Army Camp capacity: 139/150 (92%)
+2015-12-30 20:08:49 :  - No. of Barbarians: 64
+2015-12-30 20:08:49 :  - No. of Archers: 75
+2015-12-30 20:08:59 : Time Idle: 00:10:27
+2015-12-30 20:09:00 : ====== Waiting for full army ======
+2015-12-30 20:09:11 : Training Troops & Spells
+2015-12-30 20:09:12 : Checking Army Camp...
+2015-12-30 20:09:13 : Total Army Camp capacity: 142/150 (94%)
+2015-12-30 20:09:15 :  - No. of Barbarians: 67
+2015-12-30 20:09:15 :  - No. of Archers: 75
+2015-12-30 20:09:25 : Time Idle: 00:10:53
+2015-12-30 20:09:25 : ====== Waiting for full army ======
+2015-12-30 20:09:37 : Training Troops & Spells
+2015-12-30 20:09:38 : Checking Army Camp...
+2015-12-30 20:09:39 : Total Army Camp capacity: 146/150 (97%)
+2015-12-30 20:09:41 :  - No. of Barbarians: 71
+2015-12-30 20:09:41 :  - No. of Archers: 75
+2015-12-30 20:09:51 : Time Idle: 00:11:18
+2015-12-30 20:09:51 : ====== Waiting for full army ======
+2015-12-30 20:10:03 : Training Troops & Spells
+2015-12-30 20:10:04 : Checking Army Camp...
+2015-12-30 20:10:05 : Total Army Camp capacity: 150/150 (100%)
+2015-12-30 20:10:07 :  - No. of Barbarians: 75
+2015-12-30 20:10:07 :  - No. of Archers: 75
+2015-12-30 20:10:08 : Your Army Camps are now Full
+2015-12-30 20:10:08 : Calculating Troops before Training new Army.
+2015-12-30 20:10:08 : Build troops before attacking.
+2015-12-30 20:10:27 : Going to Attack...
+2015-12-30 20:10:33 : ============== Searching For Dead Base ===============
+2015-12-30 20:10:33 : ~~~~~~~~~~~~~~~ SEARCH CONDITIONS ~~~~~~~~~~~~~~~~
+2015-12-30 20:10:33 : Meet: Gold + Elixir
+2015-12-30 20:10:33 : ~~~~~~~~~~~~~~ RESOURCE CONDITIONS ~~~~~~~~~~~~~~~
+2015-12-30 20:10:33 : Aim: [G+E]: 140000 [D]:    0 [T]: 0 for: Dead Base
+2015-12-30 20:10:33 : ~~~~~~~~~~~~~~~ ADVANCED SETTINGS ~~~~~~~~~~~~~~~~
+2015-12-30 20:10:33 :  Attack TH Outside Bam
+2015-12-30 20:10:33 : ==================================================
+2015-12-30 20:10:34 :   1> [G]:  23220 [E]:  18167 [D]:  N/A [T]:22
+2015-12-30 20:10:38 :   2> [G]:   7993 [E]:  10630 [D]:  N/A [T]:29
+2015-12-30 20:10:41 :   3> [G]:   5401 [E]:   1642 [D]:  N/A [T]:23
+2015-12-30 20:10:45 :   4> [G]:  34233 [E]:  13148 [D]:  N/A [T]:35
+2015-12-30 20:10:50 :   5> [G]:  21504 [E]:  60454 [D]:  N/A [T]:36
+2015-12-30 20:10:55 :   6> [G]:  25681 [E]:  31786 [D]:  N/A [T]:38
+2015-12-30 20:10:58 :   7> [G]:  44512 [E]:  15626 [D]:  100 [T]:34
+2015-12-30 20:11:02 :   8> [G]:   7155 [E]:    808 [D]:  N/A [T]:36
+2015-12-30 20:11:08 :   9> [G]: 128779 [E]:  81790 [D]:    8 [T]:29
+2015-12-30 20:11:08 :       Not a Dead Base
+2015-12-30 20:11:13 :  10> [G]:  12925 [E]:   3868 [D]:  N/A [T]:40
+2015-12-30 20:11:16 :  11> [G]:  17222 [E]:  25759 [D]:   51 [T]:36
+2015-12-30 20:11:21 :  12> [G]:  56625 [E]:  52758 [D]:  449 [T]:40
+2015-12-30 20:11:25 :  13> [G]:  27678 [E]:   8518 [D]:  N/A [T]:33
+2015-12-30 20:11:28 :  14> [G]:  29331 [E]:  71910 [D]:    7 [T]:43
+2015-12-30 20:11:33 :  15> [G]:  92555 [E]:  92801 [D]:  177 [T]:39
+2015-12-30 20:11:33 :       Not a Dead Base
+2015-12-30 20:11:37 :  16> [G]:  54258 [E]:  36323 [D]:  134 [T]:40
+2015-12-30 20:11:40 :  17> [G]:  36413 [E]:   8798 [D]:  141 [T]:40
+2015-12-30 20:11:43 :  18> [G]:  13463 [E]:  75480 [D]:  N/A [T]:31
+2015-12-30 20:11:48 :  19> [G]: 139025 [E]:  91933 [D]:  892 [T]:38
+2015-12-30 20:11:48 :       Not a Dead Base
+2015-12-30 20:11:51 : Aim:           [G+E]: 136000 [D]:    0 [T]: 0 for: Dead Base
+2015-12-30 20:11:51 :  20> [G]:  73179 [E]:  33446 [D]:    0 [T]:43
+2015-12-30 20:11:54 :  21> [G]:   8448 [E]:    670 [D]:  N/A [T]:26
+2015-12-30 20:12:01 :  22> [G]:  15772 [E]:  25983 [D]:  N/A [T]:34
+2015-12-30 20:12:04 :  23> [G]:  41805 [E]:  70626 [D]:  261 [T]:43
+2015-12-30 20:12:07 :  24> [G]:   4255 [E]:  34690 [D]:  N/A [T]:36
+2015-12-30 20:12:12 :  25> [G]: 105637 [E]:  70064 [D]:  229 [T]:42
+2015-12-30 20:12:12 :       Not a Dead Base
+2015-12-30 20:12:17 :  26> [G]: 149954 [E]: 139101 [D]:  563 [T]:35
+2015-12-30 20:12:17 :       Not a Dead Base
+2015-12-30 20:12:22 :  27> [G]: 102296 [E]:  97989 [D]:   22 [T]:39
+2015-12-30 20:12:22 :       Not a Dead Base
+2015-12-30 20:12:25 :  28> [G]:  24730 [E]:  33045 [D]:  N/A [T]:41
+2015-12-30 20:12:28 :  29> [G]:  46875 [E]:  42328 [D]:  N/A [T]:39
+2015-12-30 20:12:36 :  30> [G]:  21331 [E]:  19389 [D]:  N/A [T]:34
+2015-12-30 20:12:40 :  31> [G]:  15823 [E]:   6500 [D]:    4 [T]:43
+2015-12-30 20:12:45 :  32> [G]: 126909 [E]:  29010 [D]:  264 [T]:28
+2015-12-30 20:12:45 :       Not a Dead Base
+2015-12-30 20:12:50 :  33> [G]:  75324 [E]:  80604 [D]:    0 [T]:37
+2015-12-30 20:12:50 :       Not a Dead Base
+2015-12-30 20:12:56 :  34> [G]:  62832 [E]: 131062 [D]:  913 [T]:36
+2015-12-30 20:12:56 :       Not a Dead Base
+2015-12-30 20:13:02 :  35> [G]: 209893 [E]: 188181 [D]: 1476 [T]:42
+2015-12-30 20:13:02 :       Not a Dead Base
+2015-12-30 20:13:09 :  36> [G]:  67176 [E]:  75559 [D]:  N/A [T]:26
+2015-12-30 20:13:09 :       Not a Dead Base
+2015-12-30 20:13:17 :  37> [G]:  99977 [E]: 279494 [D]:  133 [T]: 7
+2015-12-30 20:13:17 :       Not a Dead Base
+2015-12-30 20:13:21 :  38> [G]: 110276 [E]:  82287 [D]:  N/A [T]:33
+2015-12-30 20:13:21 :       Not a Dead Base
+2015-12-30 20:13:25 :  39> [G]:  34138 [E]:  25679 [D]:  156 [T]:44
+2015-12-30 20:13:32 : Aim:           [G+E]: 132000 [D]:    0 [T]: 0 for: Dead Base
+2015-12-30 20:13:34 :  40> [G]:  86901 [E]:  58922 [D]:   11 [T]:39
+2015-12-30 20:13:34 :       Not a Dead Base
+2015-12-30 20:13:37 :  41> [G]:  13175 [E]:  37901 [D]:  N/A [T]:34
+2015-12-30 20:13:40 :  42> [G]:  18402 [E]:  20285 [D]:  N/A [T]:25
+2015-12-30 20:13:45 :  43> [G]:  60750 [E]:  72000 [D]:    0 [T]:42
+2015-12-30 20:13:45 :       Not a Dead Base
+2015-12-30 20:13:48 :  44> [G]:   6112 [E]:  85059 [D]:  N/A [T]:40
+2015-12-30 20:13:53 :  45> [G]:  84053 [E]:  53961 [D]:    7 [T]:45
+2015-12-30 20:13:53 :       Not a Dead Base
+2015-12-30 20:13:56 :  46> [G]:  42000 [E]:  60044 [D]:  N/A [T]:41
+2015-12-30 20:14:06 :  47> [G]:  68844 [E]: 117590 [D]:  313 [T]:40
+2015-12-30 20:14:06 :       Not a Dead Base
+2015-12-30 20:14:13 :  48> [G]: 109679 [E]:  34062 [D]:  N/A [T]:19
+2015-12-30 20:14:13 :       Not a Dead Base
+2015-12-30 20:14:15 : Trying to locate Main Screen
+2015-12-30 20:14:16 : Out of Sync Error, Reloading CoC...
+2015-12-30 20:14:21 : Waiting for Main Screen
+2015-12-30 20:14:21 : Zooming Out
+2015-12-30 20:14:25 : Main Screen Located
+2015-12-30 20:14:25 : Disconnected At Search Clouds
+2015-12-30 20:14:27 : Trying to locate Main Screen
+2015-12-30 20:14:27 : Main Screen Located
+2015-12-30 20:14:27 : Restarted after Out of Sync Error: Attack Now
+2015-12-30 20:14:28 : Trying to locate Main Screen
+2015-12-30 20:14:28 : Main Screen Located
+2015-12-30 20:14:28 : Going to Attack...
+2015-12-30 20:14:34 : ============== Searching For Dead Base ===============
+2015-12-30 20:14:34 : ~~~~~~~~~~~~~~~ SEARCH CONDITIONS ~~~~~~~~~~~~~~~~
+2015-12-30 20:14:34 : Meet: Gold + Elixir
+2015-12-30 20:14:34 : ~~~~~~~~~~~~~~ RESOURCE CONDITIONS ~~~~~~~~~~~~~~~
+2015-12-30 20:14:34 : Aim: [G+E]: 132000 [D]:    0 [T]: 0 for: Dead Base
+2015-12-30 20:14:34 : ~~~~~~~~~~~~~~~ ADVANCED SETTINGS ~~~~~~~~~~~~~~~~
+2015-12-30 20:14:34 :  Attack TH Outside Bam
+2015-12-30 20:14:34 : ==================================================
+2015-12-30 20:14:37 :  49> [G]: 102778 [E]:  47027 [D]:  N/A [T]:29
+2015-12-30 20:14:37 :       Not a Dead Base
+2015-12-30 20:14:42 :  50> [G]: 350762 [E]:  27073 [D]: 1027 [T]:24
+2015-12-30 20:14:42 :       Not a Dead Base
+2015-12-30 20:14:50 :  51> [G]:  61949 [E]:  93255 [D]:  N/A [T]:29
+2015-12-30 20:14:50 :       Not a Dead Base
+2015-12-30 20:14:53 :  52> [G]:   3270 [E]:  13302 [D]:  N/A [T]:28
+2015-12-30 20:15:03 :  53> [G]: 178597 [E]: 157223 [D]:  410 [T]:37
+2015-12-30 20:15:03 :       Not a Dead Base
+2015-12-30 20:15:08 :  54> [G]:  24689 [E]:   2951 [D]:  N/A [T]:33
+2015-12-30 20:15:15 :  55> [G]: 119753 [E]:  87471 [D]:  282 [T]:42
+2015-12-30 20:15:15 :       Not a Dead Base
+2015-12-30 20:15:20 :  56> [G]: 168781 [E]: 139159 [D]:  367 [T]:15
+2015-12-30 20:15:20 :       Not a Dead Base
+2015-12-30 20:15:25 :  57> [G]:   9963 [E]:   7141 [D]:  N/A [T]:32
+2015-12-30 20:15:31 :  58> [G]:  64651 [E]:  78662 [D]:  384 [T]:41
+2015-12-30 20:15:31 :       Not a Dead Base
+2015-12-30 20:15:36 :  59> [G]:  83577 [E]:  72856 [D]:  519 [T]:42
+2015-12-30 20:15:36 :       Not a Dead Base
+2015-12-30 20:15:40 : Aim:           [G+E]: 128000 [D]:    0 [T]: 0 for: Dead Base
+2015-12-30 20:15:41 :  60> [G]:  32404 [E]:  55506 [D]:  N/A [T]:31
+2015-12-30 20:15:44 :  61> [G]:  14012 [E]:  95340 [D]:  N/A [T]:39
+2015-12-30 20:15:49 :  62> [G]:  58852 [E]:  98604 [D]:  336 [T]:42
+2015-12-30 20:15:49 :       Not a Dead Base
+2015-12-30 20:15:52 :  63> [G]:  20823 [E]:  34732 [D]:  N/A [T]:39
+2015-12-30 20:15:57 :  64> [G]:  22481 [E]:  11498 [D]:  N/A [T]:29
+2015-12-30 20:16:00 :  65> [G]:  22678 [E]:  85334 [D]:  323 [T]:37
+2015-12-30 20:16:04 :  66> [G]:  40696 [E]:  38014 [D]:  912 [T]:42
+2015-12-30 20:16:07 :  67> [G]:  10458 [E]:  28679 [D]:  N/A [T]:39
+2015-12-30 20:16:16 :  68> [G]:  58925 [E]: 156978 [D]:  966 [T]:44
+2015-12-30 20:16:16 :       Not a Dead Base
+2015-12-30 20:16:21 :  69> [G]:  87596 [E]: 339101 [D]:  994 [T]:31
+2015-12-30 20:16:21 :       Not a Dead Base
+2015-12-30 20:16:26 :  70> [G]: 118431 [E]:  22934 [D]:  N/A [T]:35
+2015-12-30 20:16:26 :       Not a Dead Base
+2015-12-30 20:16:31 :  71> [G]: 128870 [E]:  18866 [D]:  276 [T]:39
+2015-12-30 20:16:31 :       Not a Dead Base
+2015-12-30 20:16:36 :  72> [G]: 116381 [E]: 188238 [D]:  117 [T]:40
+2015-12-30 20:16:36 :       Not a Dead Base
+2015-12-30 20:16:41 :  73> [G]: 246584 [E]: 184377 [D]:  N/A [T]:39
+2015-12-30 20:16:41 :       Not a Dead Base
+2015-12-30 20:16:44 :  74> [G]:  49564 [E]:  61860 [D]:    0 [T]:40
+2015-12-30 20:16:49 :  75> [G]:  84708 [E]:  57829 [D]:   81 [T]:45
+2015-12-30 20:16:49 :       Not a Dead Base
+2015-12-30 20:16:53 :  76> [G]:  63963 [E]:  50908 [D]:  128 [T]:41
+2015-12-30 20:16:55 :  77> [G]:  13751 [E]:   4036 [D]:  N/A [T]:38
+2015-12-30 20:17:02 :  78> [G]:  17560 [E]:   8215 [D]:  N/A [T]:24
+2015-12-30 20:17:07 :  79> [G]: 127275 [E]:  27621 [D]:   55 [T]:24
+2015-12-30 20:17:07 :       Not a Dead Base
+2015-12-30 20:17:10 : Aim:           [G+E]: 124000 [D]:    0 [T]: 0 for: Dead Base
+2015-12-30 20:17:13 :  80> [G]:  72554 [E]: 122948 [D]:  N/A [T]:34
+2015-12-30 20:17:13 :       Not a Dead Base
+2015-12-30 20:17:16 :  81> [G]:  53540 [E]:  39653 [D]:  N/A [T]:39
+2015-12-30 20:17:19 :  82> [G]:  12796 [E]:   7863 [D]:  N/A [T]:20
+2015-12-30 20:17:22 :  83> [G]:  21668 [E]:  27593 [D]:   78 [T]:41
+2015-12-30 20:17:29 :  84> [G]:  21360 [E]:  91143 [D]: 1132 [T]:42
+2015-12-30 20:17:32 :  85> [G]:  41908 [E]:  32220 [D]:  592 [T]:42
+2015-12-30 20:17:41 :  86> [G]: 177653 [E]: 143667 [D]:  N/A [T]:39
+2015-12-30 20:17:41 :       Dead Base Found! 
+2015-12-30 20:17:41 : ================ Search Complete =================
+2015-12-30 20:17:49 : 2nd attempt to detect the TownHall!
+2015-12-30 20:17:57 : 3rd attempt to detect the TownHall!
+2015-12-30 20:18:01 : Checking Townhall location: Could not locate TH, skipping attack TH...
+2015-12-30 20:18:01 : Initiating attack for: Dead Base
+2015-12-30 20:18:06 : -*-Barbarians 75
+2015-12-30 20:18:06 : -*-Archers 75
+2015-12-30 20:18:06 :  ====== Start Attack ====== 
+2015-12-30 20:18:08 : Calculating Smart Attack Strategy
+2015-12-30 20:18:09 : Calculated  (in 1.19 seconds) :
+2015-12-30 20:18:09 : Locating Mines, Collectors & Drills
+2015-12-30 20:18:25 : Located  (in 15.97 seconds) :
+2015-12-30 20:18:25 : [7] Gold Mines
+2015-12-30 20:18:25 : [4] Elixir Collectors
+2015-12-30 20:18:25 : [0] Dark Elixir Drill/s
+2015-12-30 20:18:25 : Attacking on three sides
+2015-12-30 20:18:27 : Dropping first wave of Barbarians 38
+2015-12-30 20:18:30 : Dropping first wave of Archers 38
+2015-12-30 20:18:33 : Dropping second wave of Barbarians 38
+2015-12-30 20:18:36 : Dropping second wave of Archers 38
+2015-12-30 20:18:41 : Dropping last 9  of Barbarians
+2015-12-30 20:18:42 : Dropping last 9  of Archers
+2015-12-30 20:18:44 : Dropping left over troops
+2015-12-30 20:18:44 : Checking remaining unused troops for: Dead Base
+2015-12-30 20:18:56 : Checking remaining unused troops for: Dead Base
+2015-12-30 20:19:09 : Finished Attacking, waiting for the battle to end
+2015-12-30 20:19:09 : Checking if the battle has finished
+2015-12-30 20:19:10 : detected [G]: 83972 [E]: 43590 [DE]:  |  Exit in 18 sec.
+2015-12-30 20:19:10 : Gold & Elixir & DE change detected, waiting...
+2015-12-30 20:19:13 : detected [G]: 80972 [E]: 43590 [DE]:  |  Exit in 18 sec.
+2015-12-30 20:19:13 : Gold & Elixir & DE change detected, waiting...
+2015-12-30 20:19:15 : detected [G]: 80972 [E]: 43590 [DE]:  |  Exit in 18 sec.
+2015-12-30 20:19:16 : detected [G]: 80972 [E]: 43590 [DE]:  |  Exit in 17 sec.
+2015-12-30 20:19:18 : detected [G]: 80972 [E]: 43590 [DE]:  |  Exit in 16 sec.
+2015-12-30 20:19:19 : detected [G]: 80972 [E]: 43590 [DE]:  |  Exit in 15 sec.
+2015-12-30 20:19:20 : detected [G]: 80971 [E]: 40854 [DE]:  |  Exit in 13 sec.
+2015-12-30 20:19:20 : Gold & Elixir & DE change detected, waiting...
+2015-12-30 20:19:23 : detected [G]: 80971 [E]: 40854 [DE]:  |  Exit in 18 sec.
+2015-12-30 20:19:24 : detected [G]: 80971 [E]: 40854 [DE]:  |  Exit in 17 sec.
+2015-12-30 20:19:25 : detected [G]: 80971 [E]: 40854 [DE]:  |  Exit in 16 sec.
+2015-12-30 20:19:25 : Gold & Elixir & DE no change detected, exit
+2015-12-30 20:19:26 : Returning Home
+2015-12-30 20:19:30 : Loot: [G]: 96 682 [E]: 102 813 [T]: 26
+2015-12-30 20:19:30 : Bonus Percentage: 89%
+2015-12-30 20:19:30 : Bonus [G]: 2 314 out of 2 600 [E]: 2 314 out of 2 600
+2015-12-30 20:19:31 : Your league level is: Silver III
+2015-12-30 20:19:31 : Stars earned: 2
+2015-12-30 20:19:31 : Taking snapshot of your loot
+2015-12-30 20:19:39 : Trying to locate Main Screen
+2015-12-30 20:19:39 : Main Screen Located
+2015-12-30 20:19:40 : Village Report
+2015-12-30 20:19:40 : No. of Free/Total Builders: 2/3
+2015-12-30 20:19:40 :  [T]: 917
+2015-12-30 20:19:41 :  [G]: 1 688 757 [E]: 1 465 477 [D]: 972 [GEM]: 463
+2015-12-30 20:19:42 : Collecting Resources
+2015-12-30 20:19:53 : Training Troops & Spells
+2015-12-30 20:19:54 : Checking Army Camp...
+2015-12-30 20:19:55 : Total Army Camp capacity: 52/150 (34%)
+2015-12-30 20:19:56 :  - No. of Archers: 52
+2015-12-30 20:20:13 : ====== Waiting for full army ======
+2015-12-30 20:20:25 : Training Troops & Spells
+2015-12-30 20:20:25 : Checking Army Camp...
+2015-12-30 20:20:27 : Total Army Camp capacity: 60/150 (40%)
+2015-12-30 20:20:28 :  - No. of Archers: 60
+2015-12-30 20:20:38 : Time Idle: 00:00:25
+2015-12-30 20:20:38 : ====== Waiting for full army ======
+2015-12-30 20:20:50 : Training Troops & Spells
+2015-12-30 20:20:51 : Checking Army Camp...
+2015-12-30 20:20:52 : Total Army Camp capacity: 64/150 (42%)
+2015-12-30 20:20:54 :  - No. of Archers: 64
+2015-12-30 20:21:02 : Time Idle: 00:00:49
+2015-12-30 20:21:03 : ====== Waiting for full army ======
+2015-12-30 20:21:15 : Training Troops & Spells
+2015-12-30 20:21:15 : Checking Army Camp...
+2015-12-30 20:21:17 : Total Army Camp capacity: 68/150 (45%)
+2015-12-30 20:21:18 :  - No. of Archers: 68
+2015-12-30 20:21:27 : Time Idle: 00:01:13
+2015-12-30 20:21:27 : ====== Waiting for full army ======
+2015-12-30 20:21:39 : Collecting Resources
+2015-12-30 20:21:47 : Training Troops & Spells
+2015-12-30 20:21:47 : Checking Army Camp...
+2015-12-30 20:21:49 : Total Army Camp capacity: 72/150 (48%)
+2015-12-30 20:21:50 :  - No. of Archers: 72
+2015-12-30 20:21:59 : Time Idle: 00:01:45
+2015-12-30 20:21:59 : ====== Waiting for full army ======
+2015-12-30 20:22:11 : Training Troops & Spells
+2015-12-30 20:22:12 : Checking Army Camp...
+2015-12-30 20:22:13 : Total Army Camp capacity: 76/150 (50%)
+2015-12-30 20:22:15 :  - No. of Barbarians: 4
+2015-12-30 20:22:15 :  - No. of Archers: 72
+2015-12-30 20:22:24 : Time Idle: 00:02:10
+2015-12-30 20:22:24 : ====== Waiting for full army ======
+2015-12-30 20:22:36 : Training Troops & Spells
+2015-12-30 20:22:37 : Checking Army Camp...
+2015-12-30 20:22:38 : Total Army Camp capacity: 80/150 (53%)
+2015-12-30 20:22:40 :  - No. of Barbarians: 12
+2015-12-30 20:22:40 :  - No. of Archers: 72
+2015-12-30 20:22:49 : Time Idle: 00:02:34
+2015-12-30 20:22:49 : ====== Waiting for full army ======
+2015-12-30 20:23:01 : Training Troops & Spells
+2015-12-30 20:23:02 : Checking Army Camp...
+2015-12-30 20:23:03 : Total Army Camp capacity: 88/150 (58%)
+2015-12-30 20:23:04 :  - No. of Barbarians: 16
+2015-12-30 20:23:04 :  - No. of Archers: 72
+2015-12-30 20:23:13 : Time Idle: 00:02:58
+2015-12-30 20:23:14 : ====== Waiting for full army ======
+2015-12-30 20:23:25 : Training Troops & Spells
+2015-12-30 20:23:26 : Checking Army Camp...
+2015-12-30 20:23:28 : Total Army Camp capacity: 92/150 (61%)
+2015-12-30 20:23:29 :  - No. of Barbarians: 20
+2015-12-30 20:23:29 :  - No. of Archers: 72
+2015-12-30 20:23:38 : Time Idle: 00:03:23
+2015-12-30 20:23:38 : ====== Waiting for full army ======
+2015-12-30 20:23:50 : Training Troops & Spells
+2015-12-30 20:23:51 : Checking Army Camp...
+2015-12-30 20:23:52 : Total Army Camp capacity: 96/150 (64%)
+2015-12-30 20:23:54 :  - No. of Barbarians: 24
+2015-12-30 20:23:54 :  - No. of Archers: 72
+2015-12-30 20:24:03 : Time Idle: 00:03:48
+2015-12-30 20:24:04 : ====== Waiting for full army ======
+2015-12-30 20:24:16 : Training Troops & Spells
+2015-12-30 20:24:16 : Checking Army Camp...
+2015-12-30 20:24:18 : Total Army Camp capacity: 100/150 (66%)
+2015-12-30 20:24:19 :  - No. of Barbarians: 28
+2015-12-30 20:24:19 :  - No. of Archers: 72
+2015-12-30 20:24:28 : Time Idle: 00:04:12
+2015-12-30 20:24:28 : ====== Waiting for full army ======
+2015-12-30 20:24:40 : Training Troops & Spells
+2015-12-30 20:24:41 : Checking Army Camp...
+2015-12-30 20:24:42 : Total Army Camp capacity: 108/150 (72%)
+2015-12-30 20:24:44 :  - No. of Barbarians: 36
+2015-12-30 20:24:44 :  - No. of Archers: 72
+2015-12-30 20:24:53 : Time Idle: 00:04:37
+2015-12-30 20:24:53 : ====== Waiting for full army ======
+2015-12-30 20:25:05 : Training Troops & Spells
+2015-12-30 20:25:06 : Checking Army Camp...
+2015-12-30 20:25:07 : Total Army Camp capacity: 112/150 (74%)
+2015-12-30 20:25:09 :  - No. of Barbarians: 40
+2015-12-30 20:25:09 :  - No. of Archers: 72
+2015-12-30 20:25:18 : Time Idle: 00:05:02
+2015-12-30 20:25:18 : ====== Waiting for full army ======
+2015-12-30 20:25:30 : Training Troops & Spells
+2015-12-30 20:25:31 : Checking Army Camp...
+2015-12-30 20:25:32 : Total Army Camp capacity: 115/150 (76%)
+2015-12-30 20:25:34 :  - No. of Barbarians: 43
+2015-12-30 20:25:34 :  - No. of Archers: 72
+2015-12-30 20:25:43 : Time Idle: 00:05:27
+2015-12-30 20:25:43 : ====== Waiting for full army ======
+2015-12-30 20:25:55 : Training Troops & Spells
+2015-12-30 20:25:56 : Checking Army Camp...
+2015-12-30 20:25:57 : Total Army Camp capacity: 118/150 (78%)
+2015-12-30 20:25:59 :  - No. of Barbarians: 46
+2015-12-30 20:25:59 :  - No. of Archers: 72
